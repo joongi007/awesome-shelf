@@ -95,6 +95,7 @@
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Qwen>=3.0을 기반으로 구축된 에이전트 프레임워크 및 애플리케이션
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - 컴퓨터를 인간처럼 사용하는 개방형 에이전트 프레임워크
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI 기반 쿠버네티스 어시스턴트
+- [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - 적은 학습 데이터로 로컬에서 뛰어난 이미지 편집 가능
 
 
 
