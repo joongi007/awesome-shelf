@@ -60,7 +60,8 @@
 - [CLOVA X](https://clova-x.naver.com) - 네이버에서 개발한 한국어에 특화된 대화형 AI 서비스
 - [NotebookLM](https://notebooklm.google) - Google Gemini를 사용하여 사용자가 문서와 상호 작용할 수 있도록 지원하는 Google Labs에서 개발한 연구 및 메모 작성 온라인 도구
 - [Little Language Lessons](https://labs.google/lll) - Gemini로 구축된 작은 학습 실험 모음
-- [HeyGen](https://www.heygen.com/) - 가상 아바타를 선택하고, 텍스트를 작성하고, 배경 음악을 추가하여 AI 동영상 제작을 위한 소프트웨어
+- [HeyGen](https://www.heygen.com) - 가상 아바타를 선택하고, 텍스트를 작성하고, 배경 음악을 추가하여 AI 동영상 제작을 위한 소프트웨어
+- [Elevenlabs](https://elevenlabs.io) - 딥러닝을 활용한 자연스러운 음성 합성 소프트웨어를 전문적으로 개발하는 소프트웨어
 
 
 
