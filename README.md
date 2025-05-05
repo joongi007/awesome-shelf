@@ -62,7 +62,8 @@
 - [Little Language Lessons](https://labs.google/lll) - Gemini로 구축된 작은 학습 실험 모음
 - [HeyGen](https://www.heygen.com) - 가상 아바타를 선택하고, 텍스트를 작성하고, 배경 음악을 추가하여 AI 동영상 제작을 위한 소프트웨어
 - [Elevenlabs](https://elevenlabs.io) - 딥러닝을 활용한 자연스러운 음성 합성 소프트웨어를 전문적으로 개발하는 소프트웨어
-- [SUNO](https://suno.com/home) - 간단한 프롬프트 입력만으로 음악을 만들 수 있는 음악 작곡 · 생성 인공지능
+- [SUNO](https://suno.com) - 간단한 프롬프트 입력만으로 음악을 만들 수 있는 음악 작곡 · 생성 인공지능
+- [Midjourney](https://www.midjourney.com) - 텍스트로 된 설명문 또는 설명구로부터 이미지를 생성하는 인공지능 프로그램
 
 
 
