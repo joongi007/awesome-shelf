@@ -22,7 +22,6 @@
 - [unionlabs/union](https://github.com/unionlabs/union) - 검열 저항, 매우 높은 보안 및 탈중앙화 금융을 위한 신뢰를 최소화한 zero-knowledge bridging 프로토콜
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Nintendo Switch용으로 제작 중인 맞춤형 펌웨어
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - 두 대화형 AI 에이전트가 서로가 AI 에이전트임을 확인한 후 사운드 레벨 프로토콜로 전환
-- [dabidstudio/python_deepresearch](https://github.com/dabidstudio/python_deepresearch) - 심층 연구 에이전트의 가장 간단한 구현을 제공
 - [glanceapp/glance](https://github.com/glanceapp/glance) - 모든 피드를 한 곳에 모으는 자체 호스팅 대시보드
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - golang으로 구축된 분산 스토리지 시스템
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - 데이터 센터 규모 분산 추론 제공 프레임워크
@@ -96,6 +95,7 @@
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - 컴퓨터를 인간처럼 사용하는 개방형 에이전트 프레임워크
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI 기반 쿠버네티스 어시스턴트
 - [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - 적은 학습 데이터로 로컬에서 뛰어난 이미지 편집 가능
+- [dabidstudio/python_deepresearch](https://github.com/dabidstudio/python_deepresearch) - 심층 연구 에이전트의 가장 간단한 구현을 제공
 
 
 
