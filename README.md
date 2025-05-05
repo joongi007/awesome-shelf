@@ -125,6 +125,7 @@
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic의 교육 과정
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - 응용 프로그램을 처음부터 빌드하는 방법을 배울 수 있는 프로그래밍 자습서 목록
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 무료로 사용할 수 있는 여러 언어의 프로그래밍 서적 모음
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - AI 에이전트 구축을 시작하기 위한 10가지 수업
 
 ## 🧩 이 외의 것
 
