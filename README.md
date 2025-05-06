@@ -98,6 +98,7 @@
 - [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - 적은 학습 데이터로 로컬에서 뛰어난 이미지 편집 가능
 - [dabidstudio/python_deepresearch](https://github.com/dabidstudio/python_deepresearch) - 심층 연구 에이전트의 가장 간단한 구현을 제공
 - [RUC-NLPIR/WebThinker](https://github.com/RUC-NLPIR/WebThinker) - 자율적으로 웹 페이지를 검색하고, 심층적으로 탐색하고, 연구 보고서 초안을 작성
+- [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - 아마존에서 개발한 여러 AI 에이전트를 관리하고 복잡한 대화를 처리하기 위한 유연힌 프레임워크
 
 
 
