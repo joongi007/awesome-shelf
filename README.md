@@ -11,6 +11,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)- 모든 종류의 흥미로운 주제에 대한 Awesome 목록
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)- Docker 및 docker-compose를 사용하여 배포할 수 있는  오픈 소스 자체 호스팅 프로젝트 목록
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)- MCP 서버 컬렉션
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - AI 에이전트 및 RAG가 포함된 멋진 LLM 앱 모음
 
 
 
@@ -107,7 +108,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 프롬프트 엔지니어링을 위한 가이드, 논문, 강의, 노트북 및 리소스
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - ChatGPT 및 기타 LLM 프롬프트 모음
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - 유출된 시스템 프롬프트 수집
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - AI 에이전트 및 RAG가 포함된 멋진 LLM 앱 모음
 - [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - AI 탈옥 프롬프트 모음
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - Windsurf Agent & VSCode Agent 등등 시스템 프롬프트 및 내부 도구
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, 탈옥 프롬프트
