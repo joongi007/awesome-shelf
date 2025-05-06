@@ -43,6 +43,7 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - PDF 파일에 대해 다양한 작업을 수행할 수 있는 로컬로 호스팅되는 웹 응용 프로그램
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - three.js와 localStorage를 사용하여 여러 창에서 3D 장면을 "동기화"하는 방법에 대한 간단한 예
 - [containerd/containerd](https://github.com/containerd/containerd) - golang으로 구축된 개방적이고 신뢰할 수 있는 컨테이너 런타임
+- [koreader/koreader](https://github.com/koreader/koreader) - Cervantes, Kindle, Kobo, PocketBook 및 Android 장치에서 실행되는 PDF, DjVu, EPUB, FB2 등등을 지원하는 전자 책 리더 응용 프로그램
 
 
 
