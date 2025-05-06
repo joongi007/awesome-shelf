@@ -42,6 +42,8 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - 웹, 데스크톱, 모바일 등을 위한 Fullstack 앱 프레임워크
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - PDF 파일에 대해 다양한 작업을 수행할 수 있는 로컬로 호스팅되는 웹 응용 프로그램
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - three.js와 localStorage를 사용하여 여러 창에서 3D 장면을 "동기화"하는 방법에 대한 간단한 예
+- [containerd/containerd](https://github.com/containerd/containerd) - golang으로 구축된 개방적이고 신뢰할 수 있는 컨테이너 런타임
+
 
 
 ## 🤖 좋아 보이는 AI 서비스
