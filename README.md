@@ -105,6 +105,7 @@
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - 아마존에서 개발한 여러 AI 에이전트를 관리하고 복잡한 대화를 처리하기 위한 유연힌 프레임워크
 - [cline/cline](https://github.com/cline/cline) - VS code에서 바로 사용할 수 있는 자율 코딩 에이전트
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - 바이두에서 개발한 과학 PDF 문서 번역 및 이중 언어 비교 도구
+- [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) - 고품질 영상을 실시간으로 제작할 수 있는 최초의 DiT 기반 영상 생성 모델 공식 저장소
 
 
 ## ✏️ 프롬프트
