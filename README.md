@@ -104,7 +104,7 @@
 - [RUC-NLPIR/WebThinker](https://github.com/RUC-NLPIR/WebThinker) - 자율적으로 웹 페이지를 검색하고, 심층적으로 탐색하고, 연구 보고서 초안을 작성
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - 아마존에서 개발한 여러 AI 에이전트를 관리하고 복잡한 대화를 처리하기 위한 유연힌 프레임워크
 - [cline/cline](https://github.com/cline/cline) - VS code에서 바로 사용할 수 있는 자율 코딩 에이전트
-
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - 바이두에서 개발한 과학 PDF 문서 번역 및 이중 언어 비교 도구
 
 
 ## ✏️ 프롬프트
