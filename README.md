@@ -45,6 +45,7 @@
 - [containerd/containerd](https://github.com/containerd/containerd) - golang으로 구축된 개방적이고 신뢰할 수 있는 컨테이너 런타임
 - [koreader/koreader](https://github.com/koreader/koreader) - Cervantes, Kindle, Kobo, PocketBook 및 Android 장치에서 실행되는 PDF, DjVu, EPUB, FB2 등등을 지원하는 전자 책 리더 응용 프로그램
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - golang으로 작성된 소셜 및 실시간 게임 및 앱을 위한 분산 서버
+- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - Google Analytics의 오픈 소스 및 개인 정보 보호 친화적인 대안
 
 
 ## 🤖 좋아 보이는 AI 서비스
