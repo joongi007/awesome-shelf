@@ -131,6 +131,7 @@
 - [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - 스크린샷을 포함한 450+ 클래식/모던 트로이 목마 빌더의 전체 샘플
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - 공식 CVE 목록을 CVE JSON 5 형식으로 제공하는 캐시 저장소
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - 프로젝트는 보안 연구원이나 분석가들이 개발한 탐지 방법을 구조화된 형태로 기술하고 다른 사람들과 공유할 수 있도록 하는 시그마 규칙 저장소
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - 컨테이너, 쿠버네티스, 코드 리포지토리, 클라우드 등에서 취약성, 잘못된 구성, 비밀, SBOM 찾기
 
 
 ## 📖 기사, 블로그 또는 자료
