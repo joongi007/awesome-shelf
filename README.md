@@ -46,6 +46,7 @@
 - [koreader/koreader](https://github.com/koreader/koreader) - Cervantes, Kindle, Kobo, PocketBook 및 Android 장치에서 실행되는 PDF, DjVu, EPUB, FB2 등등을 지원하는 전자 책 리더 응용 프로그램
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - golang으로 작성된 소셜 및 실시간 게임 및 앱을 위한 분산 서버
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - Google Analytics의 오픈 소스 및 개인 정보 보호 친화적인 대안
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - 모든 GitHub 리포지토리를 위한 간단하고 빠른 무료 대화형 다이어그램
 
 
 ## 🤖 좋아 보이는 AI 서비스
