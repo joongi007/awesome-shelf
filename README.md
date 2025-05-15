@@ -148,6 +148,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 무료로 사용할 수 있는 여러 언어의 프로그래밍 서적 모음
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - AI 에이전트 구축을 시작하기 위한 10가지 수업
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - 개발자를 위한 커뮤니티 중심의 로드맵, 기사 및 리소스 모음
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 온라인 자료를 사용한 컴퓨터 과학에 대한 완전한 교육
 
 ## 🧩 이 외의 것
 
