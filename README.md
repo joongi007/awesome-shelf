@@ -113,6 +113,7 @@
 - [Peterande/D-FINE](https://github.com/Peterande/D-FINE) - FDR 재정의와 GO-LSD를 도입하여 추가 추론 및 교육 비용 없이 뛰어난 성능을 달성하는 강력한 실시간 객체 검출기
 - [openai/evals](https://github.com/openai/evals) - LLM 및 LLM 시스템을 평가하기 위한 프레임워크
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - LLM 친화적인 웹 크롤러 및 스크레이퍼 오프소스
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - 온디바이스 ML/GenAI 사용 사례를 선보이고 사람들이 로컬에서 모델을 시도하고 사용할 수 있는 갤러리
 
 
 
