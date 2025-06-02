@@ -152,6 +152,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - 개발자를 위한 커뮤니티 중심의 로드맵, 기사 및 리소스 모음
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 온라인 자료를 사용한 컴퓨터 과학에 대한 완전한 교육
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - 대규모 언어 모델(LLM)에 대해 알아볼 수 있는 과정
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic의 프롬프트 엔지니어링 튜토리얼
 
 ## 🧩 이 외의 것
 
