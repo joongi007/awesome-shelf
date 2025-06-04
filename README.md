@@ -72,6 +72,7 @@
 - [Midjourney](https://www.midjourney.com) - 텍스트로 된 설명문 또는 설명구로부터 이미지를 생성하는 인공지능 프로그램
 - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext) - 이미지 생성·편집 도구
 - [Jules](https://jules.google/) - 구글에서 제작한 버그를 수정하고, 문서를 추가하고, 새로운 기능을 빌드하는 데 도움이 되는 실험적인 코딩 에이전트
+- [gamma.app](https://gamma.app) - 프레젠테이션, 웹사이트, 소셜 미디어 게시물 등을 손쉽게 만들도록 돕는 AI 디자인 파트너
 
 
 
