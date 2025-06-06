@@ -158,6 +158,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 온라인 자료를 사용한 컴퓨터 과학에 대한 완전한 교육
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - 대규모 언어 모델(LLM)에 대해 알아볼 수 있는 과정
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - 프로젝트 기반 자습서의 선별된 목록
+- [unslothai/notebooks](https://github.com/unslothai/notebooks) - LLM을 미세 조정하는 Colab 가이드 모음
 
 
 ## 🧩 이 외의 것
