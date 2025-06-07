@@ -12,6 +12,7 @@
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)- Docker 및 docker-compose를 사용하여 배포할 수 있는  오픈 소스 자체 호스팅 프로젝트 목록
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)- MCP 서버 컬렉션
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - AI 에이전트 및 RAG가 포함된 멋진 LLM 앱 모음
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - Python 프레임워크, 라이브러리, 소프트웨어 및 리소스 모음
 
 
 
