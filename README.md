@@ -134,6 +134,7 @@
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - Windsurf Agent & VSCode Agent 등등 시스템 프롬프트 및 내부 도구
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, 탈옥 프롬프트
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic의 프롬프트 엔지니어링 튜토리얼
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - GPT 프롬프트 및 탈옥과 관련된 모음
 
 ## 🚨 보안
 
