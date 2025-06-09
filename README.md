@@ -51,6 +51,8 @@
 - [usememos/memos](https://github.com/usememos/memos) - 오픈 소스의 가벼운 메모 작성 솔루션
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 자체 호스팅, 오픈소스인 인터넷 OS
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - 애니메이션, 인터랙티브 및 완전히 사용자 정의 가능한 React 구성 요소 컬렉션
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - Windows 10/11을 위한 완전히 사용자 지정 가능한 데스크톱 환경
+
 
 ## 🤖 좋아 보이는 AI 서비스
 
