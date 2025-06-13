@@ -52,6 +52,7 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 자체 호스팅, 오픈소스인 인터넷 OS
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - 애니메이션, 인터랙티브 및 완전히 사용자 정의 가능한 React 구성 요소 컬렉션
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - Windows 10/11을 위한 완전히 사용자 지정 가능한 데스크톱 환경
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - 온라인 모델 설계 및 편집을 위한 웹 기반 3D CAD 응용 프로그램
 
 
 ## 🤖 좋아 보이는 AI 서비스
