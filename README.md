@@ -165,6 +165,7 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - 대규모 언어 모델(LLM)에 대해 알아볼 수 있는 과정
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - 프로젝트 기반 자습서의 선별된 목록
 - [unslothai/notebooks](https://github.com/unslothai/notebooks) - LLM을 미세 조정하는 Colab 가이드 모음
+- [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - 모든 RAG 기술을 보다 간단한 방법으로 구현
 
 
 ## 🧩 이 외의 것
