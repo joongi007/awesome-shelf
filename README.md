@@ -122,6 +122,7 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - LLM 친화적인 웹 크롤러 및 스크레이퍼 오프소스
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - 온디바이스 ML/GenAI 사용 사례를 선보이고 사람들이 로컬에서 모델을 시도하고 사용할 수 있는 갤러리
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Gemini 2.5 및 LangGraph를 사용하여 풀스택 에이전트 구축 시작하기
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - Claude를 재미있고 효과적으로 사용하는 방법을 보여주는 노트북/레시피 모음
 
 
 
