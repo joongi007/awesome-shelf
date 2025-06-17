@@ -137,6 +137,7 @@
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, 탈옥 프롬프트
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic의 프롬프트 엔지니어링 튜토리얼
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - GPT 프롬프트 및 탈옥과 관련된 모음
+- [NomaDamas/KICE_slayer_AI_Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean) - 수능 국어 1등급에 도전하는 AI 프롬프트
 
 ## 🚨 보안
 
