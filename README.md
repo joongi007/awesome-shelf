@@ -173,6 +173,7 @@
 - [fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI 모범 사례 및 규칙
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - Claude를 재미있고 효과적으로 사용하는 방법을 보여주는 노트북/레시피 모음
 - [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Dapr Agentic Cloud Ascent (DACA) 디자인 패턴을 활용한 대규모 에이전틱 AI 개발 교육 프로그램
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - 데이터 엔지니어링에 대해 배우고 싶은 모든 것에 대한 링크
 
 
 ## 🧩 이 외의 것
