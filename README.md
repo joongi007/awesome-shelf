@@ -80,6 +80,7 @@
 - [Jules](https://jules.google/) - 구글에서 제작한 버그를 수정하고, 문서를 추가하고, 새로운 기능을 빌드하는 데 도움이 되는 실험적인 코딩 에이전트
 - [gamma.app](https://gamma.app) - 프레젠테이션, 웹사이트, 소셜 미디어 게시물 등을 손쉽게 만들도록 돕는 AI 디자인 파트너
 - [Cursor](https://www.cursor.com/) - VS Code 기반의 AI 기술을 활용한 새로운 통합 개발 환경
+- [Replit](https://replit.com/) - 웹 브라우저에서 바로 코드를 작성하고 실행할 수 있는 클라우드 기반 통합 개발 환경, Replit Agent를 통한 바이브 코딩
 
 
 
