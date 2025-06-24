@@ -13,6 +13,7 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)- MCP 서버 컬렉션
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - AI 에이전트 및 RAG가 포함된 멋진 LLM 앱 모음
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - Python 프레임워크, 라이브러리, 소프트웨어 및 리소스 모음
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) -  기계 학습 Python 라이브러리 모음
 
 
 
