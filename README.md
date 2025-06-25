@@ -185,3 +185,4 @@
 
 - [Simple Icons](https://simpleicons.org/) – 브랜드 로고 SVG 모음
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 좋아하는 기술을 처음부터 다시 만들 때 도움이 되는 자료 모음
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - 소프트웨어(SaaS, PaaS, IaaS 등) 및 무료 개발 플랜이 있는 제품의 목록
