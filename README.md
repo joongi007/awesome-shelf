@@ -15,6 +15,7 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - Python 프레임워크, 라이브러리, 소프트웨어 및 리소스 모음
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) -  기계 학습 Python 라이브러리 모음
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - 프로그래머를 위한 유용한 웹사이트 모음
+- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - 엄선된 엔지니어링 블로그 모음
 
 
 
