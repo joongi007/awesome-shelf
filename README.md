@@ -128,6 +128,7 @@
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - 온디바이스 ML/GenAI 사용 사례를 선보이고 사람들이 로컬에서 모델을 시도하고 사용할 수 있는 갤러리
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Gemini 2.5 및 LangGraph를 사용하여 풀스택 에이전트 구축 시작하기
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - 모든 Git 리포지토리를 LLM에 대한 프롬프트 친화적인 텍스트로 변환
+- [OmniGen2/OmniGen2](https://huggingface.co/OmniGen2/OmniGen2) - 시각적 이해, text to image, 인간, 참조 개체, 장면을 포함한 다양한 입력을 처리, instruction을 통한 Image Editing 모델
 
 
 ## ✏️ 프롬프트
