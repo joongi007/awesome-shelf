@@ -57,6 +57,7 @@
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - Windows 10/11을 위한 완전히 사용자 지정 가능한 데스크톱 환경
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - 온라인 모델 설계 및 편집을 위한 웹 기반 3D CAD 응용 프로그램
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Microsoft의 친숙하고 친근하며 현대적인 아이콘 모음
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - 인터넷 트래픽을 편안하게 모니터링 🕵️‍♂️
 
 
 ## 🤖 좋아 보이는 AI 서비스
