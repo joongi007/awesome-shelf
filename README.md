@@ -58,6 +58,7 @@
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - 온라인 모델 설계 및 편집을 위한 웹 기반 3D CAD 응용 프로그램
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Microsoft의 친숙하고 친근하며 현대적인 아이콘 모음
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - 인터넷 트래픽을 편안하게 모니터링 🕵️‍♂️
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - Bootstrap 5 기반 무료 관리 대시보드 템플릿
 
 
 ## 🤖 좋아 보이는 AI 서비스
