@@ -90,7 +90,7 @@
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Gemini의 기능을 터미널에 직접 가져오는 오픈 소스 AI 에이전트
 - [Udio](https://www.udio.com/) - 오디오 및 음악 생성 인공지능
 - [kling AI](https://klingai.com/) - 최첨단 생성형 AI 방법을 기반으로 상상력이 풍부한 이미지와 비디오를 만들기 위한 도구
-
+- [Higgsfield](https://higgsfield.ai) - 사진 한 장만으로 동영상을 생성해주는 인공지능 기반 플랫폼
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
