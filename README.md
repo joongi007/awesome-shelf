@@ -89,6 +89,7 @@
 - [Claude Code](https://github.com/anthropics/claude-code) - 터미널에서 코드베이스를 이해하고 프롬프트를 통해 더 빠른 코딩을 도와주는 에이전트 코딩 도그
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Gemini의 기능을 터미널에 직접 가져오는 오픈 소스 AI 에이전트
 - [Udio](https://www.udio.com/) - 오디오 및 음악 생성 인공지능
+- [kling AI](https://klingai.com/) - 최첨단 생성형 AI 방법을 기반으로 상상력이 풍부한 이미지와 비디오를 만들기 위한 도구
 
 
 
