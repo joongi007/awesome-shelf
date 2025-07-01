@@ -88,6 +88,7 @@
 - [Replit](https://replit.com/) - 웹 브라우저에서 바로 코드를 작성하고 실행할 수 있는 클라우드 기반 통합 개발 환경, Replit Agent를 통한 바이브 코딩
 - [Claude Code](https://github.com/anthropics/claude-code) - 터미널에서 코드베이스를 이해하고 프롬프트를 통해 더 빠른 코딩을 도와주는 에이전트 코딩 도그
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Gemini의 기능을 터미널에 직접 가져오는 오픈 소스 AI 에이전트
+- [Udio](https://www.udio.com/) - 오디오 및 음악 생성 인공지능
 
 
 
