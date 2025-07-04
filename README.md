@@ -59,6 +59,7 @@
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Microsoft의 친숙하고 친근하며 현대적인 아이콘 모음
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - 인터넷 트래픽을 편안하게 모니터링 🕵️‍♂️
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - Bootstrap 5 기반 무료 관리 대시보드 템플릿
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - 오픈 소스, 올인원 작업 공간이며 지식 기반과 Wiki, 지식 관리, 프레젠테이션 및 디지털 자산을 구성하는 모든 구성 요소를 위한 운영 체제
 
 
 ## 🤖 좋아 보이는 AI 서비스
