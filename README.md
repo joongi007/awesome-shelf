@@ -135,6 +135,7 @@
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Gemini 2.5 및 LangGraph를 사용하여 풀스택 에이전트 구축 시작하기
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - 모든 Git 리포지토리를 LLM에 대한 프롬프트 친화적인 텍스트로 변환
 - [OmniGen2/OmniGen2](https://huggingface.co/OmniGen2/OmniGen2) - 시각적 이해, text to image, 인간, 참조 개체, 장면을 포함한 다양한 입력을 처리, instruction을 통한 Image Editing 모델
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - 표준화된 출력 형식의 다중 유형 데이터 레이블 지정 및 주석 도구
 
 
 ## ✏️ 프롬프트
