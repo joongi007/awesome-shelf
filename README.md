@@ -141,6 +141,7 @@
 - [OmniGen2/OmniGen2](https://huggingface.co/OmniGen2/OmniGen2) - 시각적 이해, text to image, 인간, 참조 개체, 장면을 포함한 다양한 입력을 처리, instruction을 통한 Image Editing 모델
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - 표준화된 출력 형식의 다중 유형 데이터 레이블 지정 및 주석 도구
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - 신뢰할 수 있는 LLM 어플리케이션 구축을 위한 원칙
+- [tau-yihouxiang/EX-4D](https://github.com/tau-yihouxiang/EX-4D) - 단일 시점 비디오로부터 극한의 시점에서도 물리적으로 일관성 있는 고품질 4D 비디오를 합성하는 기술
 
 
 ## ✏️ 프롬프트
