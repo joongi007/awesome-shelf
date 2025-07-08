@@ -143,6 +143,7 @@
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - 신뢰할 수 있는 LLM 어플리케이션 구축을 위한 원칙
 - [tau-yihouxiang/EX-4D](https://github.com/tau-yihouxiang/EX-4D) - 단일 시점 비디오로부터 극한의 시점에서도 물리적으로 일관성 있는 고품질 4D 비디오를 합성하는 기술
 - [Calligrapher2025/Calligrapher](https://github.com/Calligrapher2025/Calligrapher) - 디지털 캘리그래피 및 디자인 응용 분야에서 정밀한 스타일 제어와 다양한 텍스트 이미지 생성
+- [CN-makers/LongAnimation](https://github.com/CN-makers/LongAnimation) - 단기 컬러화 방식의 한계였던 장기 색상 일관성을 유지하며 긴 애니메이션을 생성하는 기술
 
 
 ## ✏️ 프롬프트
