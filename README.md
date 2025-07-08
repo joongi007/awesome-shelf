@@ -16,6 +16,7 @@
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) -  기계 학습 Python 라이브러리 모음
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - 프로그래머를 위한 유용한 웹사이트 모음
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - 엄선된 엔지니어링 블로그 모음
+- [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - 컴퓨터 비전 리소스의 선별된 목록
 
 
 
