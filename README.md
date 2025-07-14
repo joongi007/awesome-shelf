@@ -145,6 +145,7 @@
 - [Calligrapher2025/Calligrapher](https://github.com/Calligrapher2025/Calligrapher) - 디지털 캘리그래피 및 디자인 응용 분야에서 정밀한 스타일 제어와 다양한 텍스트 이미지 생성
 - [CN-makers/LongAnimation](https://github.com/CN-makers/LongAnimation) - 단기 컬러화 방식의 한계였던 장기 색상 일관성을 유지하며 긴 애니메이션을 생성하는 기술
 - [microsoft/MoGe](https://github.com/microsoft/MoGe) - 개방 영역 이미지에 대한 정확한 단안 기하학 추정
+- [OpenPipe/ART](https://github.com/OpenPipe/ART) - GRPO를 사용하여 실제 작업을 위한 다단계 에이전트를 교육
 
 
 ## ✏️ 프롬프트
