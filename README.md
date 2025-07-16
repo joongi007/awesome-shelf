@@ -146,6 +146,7 @@
 - [CN-makers/LongAnimation](https://github.com/CN-makers/LongAnimation) - 단기 컬러화 방식의 한계였던 장기 색상 일관성을 유지하며 긴 애니메이션을 생성하는 기술
 - [microsoft/MoGe](https://github.com/microsoft/MoGe) - 개방 영역 이미지에 대한 정확한 단안 기하학 추정
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - GRPO를 사용하여 실제 작업을 위한 다단계 에이전트를 교육
+- [getzep/graphiti](https://github.com/getzep/graphiti) - AI 에이전트를 위한 실시간 지식 그래프 구축
 
 
 ## ✏️ 프롬프트
