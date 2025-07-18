@@ -63,6 +63,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - 오픈 소스, 올인원 작업 공간이며 지식 기반과 Wiki, 지식 관리, 프레젠테이션 및 디지털 자산을 구성하는 모든 구성 요소를 위한 운영 체제
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - 온라인 데이터베이스 다이어그램 편집기 및 SQL 생성기
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - Rust로 제작된 MinIO 대안을 위한 고성능 분산 개체 스토리지
+- [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - Windows 작업 표시줄에 있는 귀여운 달리는 고양이 애니메이션
 
 
 ## 🤖 좋아 보이는 AI 서비스
