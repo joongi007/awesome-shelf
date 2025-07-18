@@ -148,6 +148,7 @@
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - GRPO를 사용하여 실제 작업을 위한 다단계 에이전트를 교육
 - [getzep/graphiti](https://github.com/getzep/graphiti) - AI 에이전트를 위한 실시간 지식 그래프 구축
 - [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - AI 에이전트 기반의 애자일 개발 방법론 및 프레임워크
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 이름을 통해 인터넷 상의 방대한 수천 개 웹사이트에서 정보를 자동으로 수집하여 종합적인 인물 프로필을 생성
 
 
 ## ✏️ 프롬프트
