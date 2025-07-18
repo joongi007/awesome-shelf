@@ -147,6 +147,7 @@
 - [microsoft/MoGe](https://github.com/microsoft/MoGe) - 개방 영역 이미지에 대한 정확한 단안 기하학 추정
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - GRPO를 사용하여 실제 작업을 위한 다단계 에이전트를 교육
 - [getzep/graphiti](https://github.com/getzep/graphiti) - AI 에이전트를 위한 실시간 지식 그래프 구축
+- [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - AI 에이전트 기반의 애자일 개발 방법론 및 프레임워크
 
 
 ## ✏️ 프롬프트
