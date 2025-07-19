@@ -155,6 +155,7 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 이름을 통해 인터넷 상의 방대한 수천 개 웹사이트에서 정보를 자동으로 수집하여 종합적인 인물 프로필을 생성
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Git 저장소, 파일, 또는 표준 입력에서 비밀 정보를 탐지하는 도구
 - [FunAudioLLM/ThinkSound](https://github.com/FunAudioLLM/ThinkSound) - 비디오, 텍스트, 오디오 등 다양한 소스에서 오디오를 생성하고 편집하는 통합 프레임워크
+- [MedGemma](https://huggingface.co/collections/google/medgemma-release-680aade845f90bec6a3f60c4) - 구글 Deep Mind팀에서 개발한 오픈소스 건강 AI 모델
 
 
 ## ✏️ 프롬프트
