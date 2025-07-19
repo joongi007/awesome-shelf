@@ -80,6 +80,7 @@
 - [Wrtn](https://wrtn.ai) - 한국의 AI 기반 콘텐츠 제작 및 검색 플랫폼
 - [Grok](https://x.ai/) -  xAI가 개발한 생성형 인공지능 챗봇 서비스
 - [Perplexity](https://www.perplexity.ai/) - 정보를 발견하는 방법을 혁신하기 위해 설계된 인공지능(AI) 검색 엔진
+- [Perplexity Comet](https://comet.perplexity.ai/) - Perplexity에서 개발한 인간의 자연스러운 사고 흐름에 맞춰 설계된 지능형 브라우저
 - [CLOVA X](https://clova-x.naver.com) - 네이버에서 개발한 한국어에 특화된 대화형 AI 서비스
 - [NotebookLM](https://notebooklm.google) - Google Gemini를 사용하여 사용자가 문서와 상호 작용할 수 있도록 지원하는 Google Labs에서 개발한 연구 및 메모 작성 온라인 도구
 - [Little Language Lessons](https://labs.google/lll) - Gemini로 구축된 작은 학습 실험 모음
