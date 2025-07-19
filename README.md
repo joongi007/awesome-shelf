@@ -97,6 +97,7 @@
 - [Udio](https://www.udio.com/) - 오디오 및 음악 생성 인공지능
 - [kling AI](https://klingai.com/) - 최첨단 생성형 AI 방법을 기반으로 상상력이 풍부한 이미지와 비디오를 만들기 위한 도구
 - [Higgsfield](https://higgsfield.ai) - 사진 한 장만으로 동영상을 생성해주는 인공지능 기반 플랫폼
+- [Firebase Studio](https://firebase.studio/) - 구글에서 만든 AI 에이전트로 전체 개발 수명 주기를 가속화하는 풀스택 AI 작업 공간
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
