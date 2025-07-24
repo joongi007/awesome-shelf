@@ -66,6 +66,7 @@
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - Rust로 제작된 MinIO 대안을 위한 고성능 분산 개체 스토리지
 - [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - Windows 작업 표시줄에 있는 귀여운 달리는 고양이 애니메이션
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions Runner 이미지
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - 자체 호스팅되는 오픈소스 이메일 마케팅 솔루션
 
 
 ## 🤖 좋아 보이는 AI 서비스
