@@ -68,6 +68,7 @@
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions Runner 이미지
 - [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - 자체 호스팅되는 오픈소스 이메일 마케팅 솔루션
 - [frappe/hrms](https://github.com/frappe/hrms) - 오픈소스 인사 관리 및 금여 소프트웨어
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - 코드를 검색하고, 버그를 찾고, 보안 가드레일 및 코딩 표준을 적용하는 빠른 오픈 소스 정적 분석 도구
 
 
 ## 🤖 좋아 보이는 AI 서비스
