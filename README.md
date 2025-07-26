@@ -217,7 +217,7 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 생성형 AI 애플리케이션 구축을 시작하기 위해 알아야 할 모든 것을 가르치는 21가지 레슨
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - 코딩 기술을 향상시키는 데 사용할 수 있는 응용 프로그램 아이디어 모음
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - JavaScript로 구현된 알고리즘 및 데이터 구조에 대한 설명 및 추가 읽기에 대한 링크
-- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - florinpop17/app-ideas
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - 코딩 기술을 향상시키는 데 사용할 수 있는 응용 프로그램 아이디어 모음
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - Node.js 모범 사례 목록
 
 
