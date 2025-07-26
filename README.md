@@ -218,6 +218,7 @@
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - 코딩 기술을 향상시키는 데 사용할 수 있는 응용 프로그램 아이디어 모음
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - JavaScript로 구현된 알고리즘 및 데이터 구조에 대한 설명 및 추가 읽기에 대한 링크
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - florinpop17/app-ideas
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - Node.js 모범 사례 목록
 
 
 ## 🧩 이 외의 것
