@@ -70,6 +70,7 @@
 - [frappe/hrms](https://github.com/frappe/hrms) - 오픈소스 인사 관리 및 금여 소프트웨어
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - 코드를 검색하고, 버그를 찾고, 보안 가드레일 및 코딩 표준을 적용하는 빠른 오픈 소스 정적 분석 도구
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native의 재구현된 Animated 라이브러리
+- [9001/copyparty](https://github.com/9001/copyparty) - 파이썬으로 개발된 의존성 없는 휴대용 파일 서버
 
 
 ## 🤖 좋아 보이는 AI 서비스
