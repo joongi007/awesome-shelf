@@ -106,6 +106,7 @@
 - [Higgsfield](https://higgsfield.ai) - 사진 한 장만으로 동영상을 생성해주는 인공지능 기반 플랫폼
 - [Firebase Studio](https://firebase.studio/) - 구글에서 만든 AI 에이전트로 전체 개발 수명 주기를 가속화하는 풀스택 AI 작업 공간
 - [Opal](https://opal.withgoogle.com/landing/) - 구글에서 개발한 간단한 자연어와 시각적 수정을 사용하여 프롬프트, 모델, 도구를 연결하는 강력한 AI 미니 앱 제작 도구
+- [Hedra](https://www.hedra.com/) - 차세대 멀티모달 콘텐츠 제작 플랫폼
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
