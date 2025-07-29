@@ -105,6 +105,7 @@
 - [kling AI](https://klingai.com/) - 최첨단 생성형 AI 방법을 기반으로 상상력이 풍부한 이미지와 비디오를 만들기 위한 도구
 - [Higgsfield](https://higgsfield.ai) - 사진 한 장만으로 동영상을 생성해주는 인공지능 기반 플랫폼
 - [Firebase Studio](https://firebase.studio/) - 구글에서 만든 AI 에이전트로 전체 개발 수명 주기를 가속화하는 풀스택 AI 작업 공간
+- [Opal](https://opal.withgoogle.com/landing/) - 구글에서 개발한 간단한 자연어와 시각적 수정을 사용하여 프롬프트, 모델, 도구를 연결하는 강력한 AI 미니 앱 제작 도구
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
