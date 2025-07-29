@@ -165,6 +165,7 @@
 - [FunAudioLLM/ThinkSound](https://github.com/FunAudioLLM/ThinkSound) - 비디오, 텍스트, 오디오 등 다양한 소스에서 오디오를 생성하고 편집하는 통합 프레임워크
 - [MedGemma](https://huggingface.co/collections/google/medgemma-release-680aade845f90bec6a3f60c4) - 구글 Deep Mind팀에서 개발한 오픈소스 건강 AI 모델
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - 다양한 산업 분야의 AI 에이전트 사용 사례를 선별한 컬렉션
+- [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Boson AI의 텍스트-오디오 파운데이션 모델
 
 
 ## ✏️ 프롬프트
