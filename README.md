@@ -111,6 +111,7 @@
 - [Hedra](https://www.hedra.com/) - 차세대 멀티모달 콘텐츠 제작 플랫폼
 - [Runway](https://runwayml.com/) - AI 도구를 활용해 이미지 생성, 편집, 변환 등 다양한 크리에이티브 작업을 할 수 있는 플랫폼
 - [Sesame](https://app.sesame.com/) - Sesame에서 개발한 음성 대화 서비스
+- [Ollama](https://ollama.com/) - AI 언어모델을 로컬에서 안전하게 실행할 수 있도록 돕는 경량화 플랫폼
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
