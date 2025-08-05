@@ -18,6 +18,7 @@
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - 엄선된 엔지니어링 블로그 모음
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - 컴퓨터 비전 리소스의 선별된 목록
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - 최신 생성형 인공 지능 프로젝트 및 서비스의 선별된 목록
+- [steven2358/awesome-generative-ai](https://github.com/public-apis/public-apis) - 무료 API의 집합 목록
 
 
 
