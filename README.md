@@ -110,6 +110,7 @@
 - [Opal](https://opal.withgoogle.com/landing/) - 구글에서 개발한 간단한 자연어와 시각적 수정을 사용하여 프롬프트, 모델, 도구를 연결하는 강력한 AI 미니 앱 제작 도구
 - [Hedra](https://www.hedra.com/) - 차세대 멀티모달 콘텐츠 제작 플랫폼
 - [Runway](https://runwayml.com/) - AI 도구를 활용해 이미지 생성, 편집, 변환 등 다양한 크리에이티브 작업을 할 수 있는 플랫폼
+- [Sesame](https://app.sesame.com/) - Sesame에서 개발한 음성 대화 서비스
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
