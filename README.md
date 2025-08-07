@@ -173,6 +173,7 @@
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - 다양한 산업 분야의 AI 에이전트 사용 사례를 선별한 컬렉션
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Boson AI의 텍스트-오디오 파운데이션 모델
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - 개방형 및 고급 대규모 비디오 생성 모델
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) - 강력한 추론, 에이전트 작업 및 다양한 개발자 사용 사례를 위해 설계된 OpenAI의 오픈 가중치 모델
 
 
 ## ✏️ 프롬프트
