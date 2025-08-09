@@ -113,6 +113,7 @@
 - [Sesame](https://app.sesame.com/) - Sesame에서 개발한 음성 대화 서비스
 - [Ollama](https://ollama.com/) - AI 언어모델을 로컬에서 안전하게 실행할 수 있도록 돕는 경량화 플랫폼
 - [Ideogram](https://ideogram.ai/) - Typography와 그래픽 디자인에 탁월한 Text To Image AI 플랫폼
+- [Codex CLI](https://github.com/openai/codex) - OpenAI 의 코딩 어시스턴트를 터미널에서 실행
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
