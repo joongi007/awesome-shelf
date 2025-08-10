@@ -19,6 +19,7 @@
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - 컴퓨터 비전 리소스의 선별된 목록
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - 최신 생성형 인공 지능 프로젝트 및 서비스의 선별된 목록
 - [steven2358/awesome-generative-ai](https://github.com/public-apis/public-apis) - 무료 API의 집합 목록
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - 확장 가능하고 안정적이며 성능이 뛰어난 대규모 시스템의 패턴을 설명하기 위해 업데이트되고 체계적인 읽기 목록
 
 
 
