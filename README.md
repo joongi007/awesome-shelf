@@ -183,6 +183,7 @@
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - 강력한 추론, 에이전트 작업 및 다양한 개발자 사용 사례를 위해 설계된 OpenAI의 오픈 가중치 모델
 - [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - 구조화된 실내 모델링을 위한 대규모 언어 모델 학습
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - 인간 중심 웹 에이전트의 연구 프로토타입
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 자체 호스팅, 당신은 와이푸의 영혼, 사이버 생활의 컨테이너인 Grok Companion
 
 
 ## ✏️ 프롬프트
