@@ -79,6 +79,7 @@
 - [datalab-to/marker](https://github.com/datalab-to/marker) - PDF를 마크다운 + JSON으로 빠르게 높은 정확도로 변환
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - 중복, 빈 폴더, 유사한 이미지 등을 찾는 다기능 앱
 - [immich-app/immich](https://github.com/immich-app/immich) - 고성능 자체 호스팅 사진 및 비디오 관리 솔루션
+- [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - 위치 또는 휴대폰 번호를 추적하는 데 유용한 도구
 
 
 ## 🤖 좋아 보이는 AI 서비스
