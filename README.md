@@ -80,6 +80,7 @@
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - 중복, 빈 폴더, 유사한 이미지 등을 찾는 다기능 앱
 - [immich-app/immich](https://github.com/immich-app/immich) - 고성능 자체 호스팅 사진 및 비디오 관리 솔루션
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - 위치 또는 휴대폰 번호를 추적하는 데 유용한 도구
+- [dream-num/univer](https://github.com/dream-num/univer) - 웹과 서버 모두에서 스프레드시트, 문서 및 슬라이드를 만들고 편집하기 위한 풀 스택 프레임워크
 
 
 ## 🤖 좋아 보이는 AI 서비스
