@@ -250,6 +250,7 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - 코딩 기술을 향상시키는 데 사용할 수 있는 응용 프로그램 아이디어 모음
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - Node.js 모범 사례 목록
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - JavaScript 질문의 긴 목록과 설명
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - Python으로 구현된 모든 알고리즘
 
 
 ## 🧩 이 외의 것
