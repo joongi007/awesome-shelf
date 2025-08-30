@@ -21,6 +21,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - 무료 API의 집합 목록
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - 확장 가능하고 안정적이며 성능이 뛰어난 대규모 시스템의 패턴을 설명하기 위해 업데이트되고 체계적인 읽기 목록
 - [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Homelab 매니아를 위한 최고의 오픈 소스 앱 큐레이팅
+- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - 개방형 데이터 세트의 주제 중심 목록
 
 
 
