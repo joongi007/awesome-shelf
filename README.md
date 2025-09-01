@@ -191,6 +191,7 @@
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 자체 호스팅, 당신은 와이푸의 영혼, 사이버 생활의 컨테이너인 Grok Companion
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - 프론티어 오픈 소스 텍스트 음성 변환
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - 실시간 및 로컬 음성을 텍스트로 변환, 번역 및 화자 다이어라이제이션
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - 이미지 생성 소프트웨어
 
 
 ## ✏️ 프롬프트
