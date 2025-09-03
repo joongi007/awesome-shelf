@@ -260,6 +260,7 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - Node.js 모범 사례 목록
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - JavaScript 질문의 긴 목록과 설명
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - Python으로 구현된 모든 알고리즘
+- [gpt-5-for-coding](https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf) - Gpt 5를 위한 프롬프트 가이드
 
 
 ## 🧩 이 외의 것
