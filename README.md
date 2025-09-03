@@ -130,6 +130,7 @@
 - [Base 44](https://base44.com/) - 사용자가 몇 분 안에 완벽하게 작동하는 앱을 구축할 수 있는 AI 기반 플랫폼입니다.
 - [Nano Banana](https://nanobanana.ai/) - 간단한 텍스트 프롬프트로 모든 이미지를 변환
 - [Krea AI](https://www.krea.ai/) - AI를 활용하여 이미지와 비디오를 제작하는 최첨단 플랫폼
+- [Google Vids](https://sites.google.com/site/horstwebdesign/workspace/vids) - 구글에서 개발한 AI 기반 업무용 동영상 제작 앱
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
