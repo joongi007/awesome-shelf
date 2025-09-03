@@ -199,6 +199,7 @@
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - 이미지 생성 소프트웨어
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA 오픈 소스 TTS
 - [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - ChatGPT가 실제 현금 소형주 포트폴리오를 관리하는 블로그 실험
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - MS에서 개발한 프론티어 오픈 소스 텍스트 음성 변환
 
 
 ## ✏️ 프롬프트
