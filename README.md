@@ -196,6 +196,7 @@
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - 실시간 및 로컬 음성을 텍스트로 변환, 번역 및 화자 다이어라이제이션
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - 이미지 생성 소프트웨어
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA 오픈 소스 TTS
+- [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - ChatGPT가 실제 현금 소형주 포트폴리오를 관리하는 블로그 실험
 
 
 ## ✏️ 프롬프트
