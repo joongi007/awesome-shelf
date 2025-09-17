@@ -204,6 +204,7 @@
 - [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - ChatGPT가 실제 현금 소형주 포트폴리오를 관리하는 블로그 실험
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - MS에서 개발한 프론티어 오픈 소스 텍스트 음성 변환
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - 모든 PDF 또는 이미지 문서를 AI용 구조화된 데이터로 변환
+- [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - 제로샷 음성 변환 및 노래 음성 변환, 실시간 지원
 
 
 ## ✏️ 프롬프트
