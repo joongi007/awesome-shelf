@@ -203,6 +203,7 @@
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA 오픈 소스 TTS
 - [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - ChatGPT가 실제 현금 소형주 포트폴리오를 관리하는 블로그 실험
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - MS에서 개발한 프론티어 오픈 소스 텍스트 음성 변환
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - 모든 PDF 또는 이미지 문서를 AI용 구조화된 데이터로 변환
 
 
 ## ✏️ 프롬프트
