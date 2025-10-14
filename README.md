@@ -101,6 +101,7 @@
 - [DeepSeek](https://chat.deepseek.com) - 중국 헤지펀드 회사 소속 인공지능 연구 기업에서 개발한 오픈소스 기반 대규모 언어 모델
 - [Wrtn](https://wrtn.ai) - 한국의 AI 기반 콘텐츠 제작 및 검색 플랫폼
 - [Grok](https://x.ai/) -  xAI가 개발한 생성형 인공지능 챗봇 서비스
+- [Grok Imagine](https://grok.com/imagine) -  xAI가 개발한 이미지 및 비디오 생성 AI 서비스
 - [Perplexity](https://www.perplexity.ai/) - 정보를 발견하는 방법을 혁신하기 위해 설계된 인공지능(AI) 검색 엔진
 - [Perplexity Comet](https://comet.perplexity.ai/) - Perplexity에서 개발한 인간의 자연스러운 사고 흐름에 맞춰 설계된 지능형 브라우저
 - [CLOVA X](https://clova-x.naver.com) - 네이버에서 개발한 한국어에 특화된 대화형 AI 서비스
