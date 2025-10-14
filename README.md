@@ -210,6 +210,7 @@
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - 모든 PDF 또는 이미지 문서를 AI용 구조화된 데이터로 변환
 - [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - 제로샷 음성 변환 및 노래 음성 변환, 실시간 지원
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - 마이크로소프트에서 제작한  R&D 프로세스를 자동화하기 위한 Agent
+- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 삼성 SAIT에서 개발한 거대 모델을 능가하는 초소형 추론 모델
 
 
 ## ✏️ 프롬프트
