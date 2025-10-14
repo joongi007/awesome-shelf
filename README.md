@@ -133,6 +133,7 @@
 - [Krea AI](https://www.krea.ai/) - AI를 활용하여 이미지와 비디오를 제작하는 최첨단 플랫폼
 - [Google Vids](https://sites.google.com/site/horstwebdesign/workspace/vids) - 구글에서 개발한 AI 기반 업무용 동영상 제작 앱
 - [Spec Kit](https://github.com/github/spec-kit) - 사양 기반 개발을 시작하는 데 도움이 되는 툴킷
+- [Sora](https://sora.chatgpt.com/explore) - 오픈AI가 개발한 텍스트-비디오 모델
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
