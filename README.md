@@ -212,6 +212,7 @@
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - 마이크로소프트에서 제작한  R&D 프로세스를 자동화하기 위한 Agent
 - [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 삼성 SAIT에서 개발한 거대 모델을 능가하는 초소형 추론 모델
 - [inclusionAI/Ring-1T](https://huggingface.co/inclusionAI/Ring-1T) - 앤트 그룹에서 개발한 1조 매개변수를 가진 오픈소스 모델
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - MIT와 MyShell의 즉각적인 음성 복제. 오디오 기반 모델
 
 
 ## ✏️ 프롬프트
