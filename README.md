@@ -87,6 +87,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - github readme에 대해 동적으로 생성된 통계
 - [tabler/tabler](https://github.com/tabler/tabler) - Bootstrap을 기반으로 구축된 무료 오픈 소스 HTML 대시보드 UI 키트
 - [ansible/ansible](https://github.com/ansible/ansible) - 매우 간단한 IT 자동화 플랫폼
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 순수 Python의 성능이 뛰어나고 사용자 정의 가능한 웹 앱
 
 
 ## 🤖 좋아 보이는 AI 서비스
