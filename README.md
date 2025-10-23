@@ -281,6 +281,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - Python으로 구현된 모든 알고리즘
 - [gpt-5-for-coding](https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf) - Gpt 5를 위한 프롬프트 가이드
 - [nx006-python3-alpine](https://nx006.tistory.com/70) - Python에서 Alpine 이미지를 사용하면 안 되는 이유
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - 엣지 장치에서 클라우드 배포에 이르기까지 실제 AI 시스템을 구축하는 방법을 가르치는 오픈 소스 교과서
 
 
 ## 🧩 이 외의 것
