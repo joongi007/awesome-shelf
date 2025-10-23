@@ -276,6 +276,7 @@
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - JavaScript 질문의 긴 목록과 설명
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - Python으로 구현된 모든 알고리즘
 - [gpt-5-for-coding](https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf) - Gpt 5를 위한 프롬프트 가이드
+- [nx006-python3-alpine](https://nx006.tistory.com/70) - Python에서 Alpine 이미지를 사용하면 안 되는 이유
 
 
 ## 🧩 이 외의 것
