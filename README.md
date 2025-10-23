@@ -217,6 +217,7 @@
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - 전자책, 음성 복제 및 1107+ 언어에서 오디오북을 생성
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 엔드투엔드 학습을 통해 로봇 공학을 위한 AI에 대한 접근성 향상
 - [anthropics/skills](https://github.com/anthropics/skills) - Claude가 특수 작업의 성능을 향상시키기 위해 동적으로 로드하는 지침, 스크립트 및 리소스의 폴더에 대한 공개 저장소
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - 이미지(시각적 토큰)로 압축한 뒤 다시 텍스트로 복원하는 '컨텍스트 광학 압축'이라는 새로운 접근법을 사용하는 딥시크에서 개발한 OCR
 
 
 ## ✏️ 프롬프트
