@@ -215,6 +215,7 @@
 - [inclusionAI/Ring-1T](https://huggingface.co/inclusionAI/Ring-1T) - 앤트 그룹에서 개발한 1조 매개변수를 가진 오픈소스 모델
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - MIT와 MyShell의 즉각적인 음성 복제. 오디오 기반 모델
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - 전자책, 음성 복제 및 1107+ 언어에서 오디오북을 생성
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 엔드투엔드 학습을 통해 로봇 공학을 위한 AI에 대한 접근성 향상
 
 
 ## ✏️ 프롬프트
