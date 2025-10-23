@@ -216,6 +216,7 @@
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - MIT와 MyShell의 즉각적인 음성 복제. 오디오 기반 모델
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - 전자책, 음성 복제 및 1107+ 언어에서 오디오북을 생성
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 엔드투엔드 학습을 통해 로봇 공학을 위한 AI에 대한 접근성 향상
+- [anthropics/skills](https://github.com/anthropics/skills) - Claude가 특수 작업의 성능을 향상시키기 위해 동적으로 로드하는 지침, 스크립트 및 리소스의 폴더에 대한 공개 저장소
 
 
 ## ✏️ 프롬프트
