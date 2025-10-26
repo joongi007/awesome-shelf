@@ -88,6 +88,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Bootstrap을 기반으로 구축된 무료 오픈 소스 HTML 대시보드 UI 키트
 - [ansible/ansible](https://github.com/ansible/ansible) - 매우 간단한 IT 자동화 플랫폼
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 순수 Python의 성능이 뛰어나고 사용자 정의 가능한 웹 앱
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - 모든 문서를 스캔, 색인 생성 및 보관할 수 있는 강력한 문서 관리 시스템
 
 
 ## 🤖 좋아 보이는 AI 서비스
