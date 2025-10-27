@@ -222,6 +222,7 @@
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - 이미지(시각적 토큰)로 압축한 뒤 다시 텍스트로 복원하는 '컨텍스트 광학 압축'이라는 새로운 접근법을 사용하는 딥시크에서 개발한 OCR
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - 워터마크 추가
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - AI Agent를 밝히는 절대적인 트레이너
 
 
 ## ✏️ 프롬프트
