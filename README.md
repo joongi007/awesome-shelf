@@ -23,6 +23,7 @@
 - [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Homelab 매니아를 위한 최고의 오픈 소스 앱 큐레이팅
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - 개방형 데이터 세트의 주제 중심 목록
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - FastAPI와 관련된 멋진 것들의 선별된 목록
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - 인증이 포함된 선별된 무료 과정 목록
 
 
 
