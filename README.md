@@ -90,6 +90,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - 매우 간단한 IT 자동화 플랫폼
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 순수 Python의 성능이 뛰어나고 사용자 정의 가능한 웹 앱
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - 모든 문서를 스캔, 색인 생성 및 보관할 수 있는 강력한 문서 관리 시스템
+- [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - 픽셀화된 스크린샷에서 일반 텍스트를 복구하는 기술을 위한 PoC
 
 
 ## 🤖 좋아 보이는 AI 서비스
