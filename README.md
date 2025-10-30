@@ -141,6 +141,7 @@
 - [Spec Kit](https://github.com/github/spec-kit) - 사양 기반 개발을 시작하는 데 도움이 되는 툴킷
 - [Sora](https://sora.chatgpt.com/explore) - 오픈AI가 개발한 텍스트-비디오 모델
 - [Stitch](https://stitch.withgoogle.com) - 모바일 및 웹 애플리케이션용 UI를 Gemini로 빠르게 구상할 수 있는 플랫폼
+- [v0 by Vercel](https://v0.app/) - vercel에서 개발한 웹용 풀스택 애플리케이션을 설계, 반복 및 확장할 수 있는 협업 AI 도우미
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
