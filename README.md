@@ -225,6 +225,7 @@
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - 워터마크 추가
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - AI Agent를 밝히는 절대적인 트레이너
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - 100+ LLM 및 VLM의 통합된 효율적인 미세 조정
 
 
 ## ✏️ 프롬프트
