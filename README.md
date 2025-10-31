@@ -253,6 +253,7 @@
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - 프로젝트는 보안 연구원이나 분석가들이 개발한 탐지 방법을 구조화된 형태로 기술하고 다른 사람들과 공유할 수 있도록 하는 시그마 규칙 저장소
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - 컨테이너, 쿠버네티스, 코드 리포지토리, 클라우드 등에서 취약성, 잘못된 구성, 비밀, SBOM 찾기
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - 웹 보안 침투 테스트 페이로드, 우회 기법, 취약점 공략 모음집
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - 보안 취약점을 찾기 위해 핵 엔진에 대한 커뮤니티 선별된 템플릿 목록
 
 
 ## 📖 기사, 블로그 또는 자료
