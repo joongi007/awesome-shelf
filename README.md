@@ -226,6 +226,7 @@
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - AI Agent를 밝히는 절대적인 트레이너
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - 100+ LLM 및 VLM의 통합된 효율적인 미세 조정
+- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - 처음부터 빌드된 경량 vLLM 구현
 
 
 ## ✏️ 프롬프트
