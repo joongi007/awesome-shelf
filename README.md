@@ -257,6 +257,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - 컨테이너, 쿠버네티스, 코드 리포지토리, 클라우드 등에서 취약성, 잘못된 구성, 비밀, SBOM 찾기
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - 웹 보안 침투 테스트 페이로드, 우회 기법, 취약점 공략 모음집
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - 보안 취약점을 찾기 위해 핵 엔진에 대한 커뮤니티 선별된 템플릿 목록
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux 서버 보안을 위한 진화하는 방법 가이드
 
 
 ## 📖 기사, 블로그 또는 자료
