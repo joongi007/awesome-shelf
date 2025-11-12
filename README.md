@@ -147,7 +147,8 @@
 - [v0 by Vercel](https://v0.app/) - vercel에서 개발한 웹용 풀스택 애플리케이션을 설계, 반복 및 확장할 수 있는 협업 AI 도우미
 - [Lovable](https://lovable.dev) - 복잡한 코드 한 줄 없이 자연어만으로 웹 앱이나 웹사이트를 만들어주는 AI 서비스
 - [Kimi](https://www.kimi.com/) - Kimi K2 Thinking 서비스
-- [Comfy Cloud](https://www.comfy.org/cloud) -  시각적 AI를 위한 세계 최고의 노드 기반 클라우드 플랫폼
+- [Comfy Cloud](https://www.comfy.org/cloud) - 시각적 AI를 위한 세계 최고의 노드 기반 클라우드 플랫폼
+- [LiveAvatar by HeyGen](https://www.liveavatar.com/) - 초현실적인 실시간 아바타
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
