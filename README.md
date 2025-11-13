@@ -237,6 +237,7 @@
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 추론 기반 RAG에 대한 문서 인덱스
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - 세계에서 가장 작은 벡터 인덱스
 - [yichuan-w/LEANN](https://github.com/alex4727/motionstream) - 인터랙티브 모션 컨트롤을 통한 실시간 비디오 생성
+- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - 로봇 공학 알고리즘에 대한 Python 샘플 코드 및 교과서
 
 
 ## ✏️ 프롬프트
