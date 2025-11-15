@@ -25,6 +25,7 @@
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - FastAPI와 관련된 멋진 것들의 선별된 목록
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - 인증이 포함된 선별된 무료 과정 목록
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - 오픈 소스 게임 목록
+- [yybmion/public-apis-4Kr](https://github.com/yybmion/public-apis-4Kr) - 한국 서비스에 이용 가능한 Public API 모음
 
 
 
