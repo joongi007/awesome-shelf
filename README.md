@@ -305,6 +305,7 @@
 - [gpt-5-for-coding](https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf) - Gpt 5를 위한 프롬프트 가이드
 - [nx006-python3-alpine](https://nx006.tistory.com/70) - Python에서 Alpine 이미지를 사용하면 안 되는 이유
 - [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - 엣지 장치에서 클라우드 배포에 이르기까지 실제 AI 시스템을 구축하는 방법을 가르치는 오픈 소스 교과서
+- [2026 Korean CSAT Leaderboard](https://isoft.cnu.ac.kr/csat2026/) - 2026 한국대학 학업능력 수학시험 LLM 평가 리더보드
 
 
 ## 🧩 이 외의 것
