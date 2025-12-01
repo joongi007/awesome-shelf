@@ -27,6 +27,7 @@
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - 오픈 소스 게임 목록
 - [yybmion/public-apis-4Kr](https://github.com/yybmion/public-apis-4Kr) - 한국 서비스에 이용 가능한 Public API 모음
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI 자율 에이전트 목록
+- [playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) - PlayCanvas 자산, 자료 등 엄선된 목록
 
 
 
