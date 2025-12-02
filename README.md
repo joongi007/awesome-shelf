@@ -153,6 +153,7 @@
 - [Comfy Cloud](https://www.comfy.org/cloud) - 시각적 AI를 위한 세계 최고의 노드 기반 클라우드 플랫폼
 - [LiveAvatar by HeyGen](https://www.liveavatar.com/) - 초현실적인 실시간 아바타
 - [Code Wiki](https://codewiki.google/) - 코드 저장소를 자동으로 분석해 항상 최신 상태로 유지되는 구조화된 위키 문서를 생성하는 플랫폼
+- [LTX Studio](https://ltx.studio/) - 창의적인 아이디어를 고품질의 전문적인 영상으로 변환하는 올인원 생성형 AI 플랫폼
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
