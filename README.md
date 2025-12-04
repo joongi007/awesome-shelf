@@ -97,6 +97,7 @@
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - 픽셀화된 스크린샷에서 일반 텍스트를 복구하는 기술을 위한 PoC
 - [localstack/localstack](https://github.com/localstack/localstack) - 완전한 기능을 갖춘 로컬 AWS 클라우드 스택. 클라우드 및 서버리스 앱을 오프라인으로 개발 및 테스트
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - 전 세계에서 공개적으로 사용 가능한 IPTV 채널 모음
+- [beclab/Olares](https://github.com/beclab/Olares) - 데이터를 되찾는 오픈 소스 개인 클라우드
 
 
 ## 🤖 좋아 보이는 AI 서비스
