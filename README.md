@@ -325,3 +325,4 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - 소프트웨어(SaaS, PaaS, IaaS 등) 및 무료 개발 플랜이 있는 제품의 목록
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - 매뉴얼, 치트 시트, 블로그, 해킹, 한 줄짜리, cli/웹 도구 등의 모
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - 개발자를 위한 유용한 온라인 도구 모음과 훌륭한 UX를 제공
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - 모든 소프트웨어 개발자가 알아야 할 기술적인 것들의 모음
