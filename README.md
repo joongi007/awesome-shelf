@@ -245,6 +245,7 @@
 - [alex4727/motionstream ](https://github.com/alex4727/motionstream) - 인터랙티브 모션 컨트롤을 통한 실시간 비디오 생성
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - 로봇 공학 알고리즘에 대한 Python 샘플 코드 및 교과서
 - [usestrix/strix](https://github.com/usestrix/strix) - 침투 테스트를 위한 오픈 소스 AI 에이전트
+- [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - SNS를 위해 설계된 오픈 소스 침투 테스트 프레임워크
 
 
 ## ✏️ 프롬프트
