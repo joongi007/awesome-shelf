@@ -247,6 +247,7 @@
 - [usestrix/strix](https://github.com/usestrix/strix) - 침투 테스트를 위한 오픈 소스 AI 에이전트
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - SNS를 위해 설계된 오픈 소스 침투 테스트 프레임워크
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - AI 기능과 draw.io 다이어그램을 통합한 next.js 웹 애플리케이션
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - 오픈소스 프론티어 보이스 AI
 
 
 ## ✏️ 프롬프트
