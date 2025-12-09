@@ -99,6 +99,7 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - 전 세계에서 공개적으로 사용 가능한 IPTV 채널 모음
 - [beclab/Olares](https://github.com/beclab/Olares) - 데이터를 되찾는 오픈 소스 개인 클라우드
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - 터미널을 위한 텍스트 편집기
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - 개발자를 위한 마크다운 프레젠테이션 슬라이드
 
 
 ## 🤖 좋아 보이는 AI 서비스
