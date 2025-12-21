@@ -111,6 +111,7 @@
 - [Claude](https://claude.ai) -  Anthropic에서 개발한 인공지능 서비스
 - [Gemini](https://gemini.google.com/app) - 구글과 딥마인드가 개발한 대화형 인공지능 서비스
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat) - 구글이 제공하는 생성형 AI 모델을 빠르게 테스트하고 개발할 수 있는 브라우저 기반 IDE 플랫폼
+- [Google Antigravity](https://antigravity.google/) - 소프트웨어 개발을 위한 AI 에이전트 플랫폼을 우선시하는  구글이 개발한 AI 기반 통합 개발 환경
 - [Copilot](https://copilot.microsoft.com) - 마이크로소프트에서 개발한 대화형 인공지능으로 웹서비스, 모바일 앱, MS 오피스 통합 등 다양한 형태로 제공
 - [DeepSeek](https://chat.deepseek.com) - 중국 헤지펀드 회사 소속 인공지능 연구 기업에서 개발한 오픈소스 기반 대규모 언어 모델
 - [Wrtn](https://wrtn.ai) - 한국의 AI 기반 콘텐츠 제작 및 검색 플랫폼
