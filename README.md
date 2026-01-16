@@ -254,6 +254,7 @@
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - SNS를 위해 설계된 오픈 소스 침투 테스트 프레임워크
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - AI 기능과 draw.io 다이어그램을 통합한 next.js 웹 애플리케이션
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - 오픈소스 프론티어 보이스 AI
+- [Lightricks/LTX-2](https://ltx.io/model/ltx-2) - 단일 모델 내에서 동기화된 비디오와 오디오를 생성하도록 설계된 DiT 기반의 오디오-비디오 기초 모델
 
 
 ## ✏️ 프롬프트
