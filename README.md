@@ -258,6 +258,7 @@
 - [Lightricks/LTX-2](https://ltx.io/model/ltx-2) - 단일 모델 내에서 동기화된 비디오와 오디오를 생성하도록 설계된 DiT 기반의 오디오-비디오 기초 모델
 - [google/langextract](https://github.com/google/langextract) - 정밀한 소스 기반 기반 구축과 상호작용 시각화를 갖춘 LLM을 사용하여 비구조화 텍스트에서 구조화된 정보를 추출하는 Python 라이브러리
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - AI 요원을 폭발시키는 절대적인 트레이너입니다
+- [Translate Gemma](https://huggingface.co/collections/google/translategemma) - 젬마 3(Gemma 3)를 기반으로 구축된 새로운 개방형 번역 모델
 
 
 ## ✏️ 프롬프트
