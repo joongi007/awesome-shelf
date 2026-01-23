@@ -260,6 +260,7 @@
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - AI 요원을 폭발시키는 절대적인 트레이너입니다
 - [Translate Gemma](https://huggingface.co/collections/google/translategemma) - 젬마 3(Gemma 3)를 기반으로 구축된 새로운 개방형 번역 모델
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - CPU에서 효율적으로 실행되도록 설계된 경량 텍스트 음성 변환(TTS) 애플리케이션
+- [ekwek1/soprano](https://github.com/ekwek1/soprano) - 즉각적이고 초현실적인 텍스트 음성 변환
 
 
 ## ✏️ 프롬프트
