@@ -103,6 +103,7 @@
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 1000+ 포맷을 지원하는 자체 호스팅 온라인 파일 변환기
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - 학자와 엔지니어를 위한 이력서/이력서 생성기
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - 의존성이 없는 실시간 미디어 서버 및 미디어 프록시
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - React로 프로그래매틱으로 영상을 만듭니다
 
 
 ## 🤖 좋아 보이는 AI 서비스
