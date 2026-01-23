@@ -259,6 +259,7 @@
 - [google/langextract](https://github.com/google/langextract) - 정밀한 소스 기반 기반 구축과 상호작용 시각화를 갖춘 LLM을 사용하여 비구조화 텍스트에서 구조화된 정보를 추출하는 Python 라이브러리
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - AI 요원을 폭발시키는 절대적인 트레이너입니다
 - [Translate Gemma](https://huggingface.co/collections/google/translategemma) - 젬마 3(Gemma 3)를 기반으로 구축된 새로운 개방형 번역 모델
+- [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - CPU에서 효율적으로 실행되도록 설계된 경량 텍스트 음성 변환(TTS) 애플리케이션
 
 
 ## ✏️ 프롬프트
