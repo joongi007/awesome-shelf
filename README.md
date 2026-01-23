@@ -261,6 +261,7 @@
 - [Translate Gemma](https://huggingface.co/collections/google/translategemma) - 젬마 3(Gemma 3)를 기반으로 구축된 새로운 개방형 번역 모델
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - CPU에서 효율적으로 실행되도록 설계된 경량 텍스트 음성 변환(TTS) 애플리케이션
 - [ekwek1/soprano](https://github.com/ekwek1/soprano) - 즉각적이고 초현실적인 텍스트 음성 변환
+- [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib) - 가사와 태그를 기반으로 음악을 생성하는 음악 언어 모델
 
 
 ## ✏️ 프롬프트
