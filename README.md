@@ -231,7 +231,6 @@
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - 이미지 생성 소프트웨어
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA 오픈 소스 TTS
 - [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - ChatGPT가 실제 현금 소형주 포트폴리오를 관리하는 블로그 실험
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - MS에서 개발한 프론티어 오픈 소스 텍스트 음성 변환
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - 모든 PDF 또는 이미지 문서를 AI용 구조화된 데이터로 변환
 - [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - 제로샷 음성 변환 및 노래 음성 변환, 실시간 지원
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - 마이크로소프트에서 제작한  R&D 프로세스를 자동화하기 위한 Agent
@@ -254,7 +253,6 @@
 - [usestrix/strix](https://github.com/usestrix/strix) - 침투 테스트를 위한 오픈 소스 AI 에이전트
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - SNS를 위해 설계된 오픈 소스 침투 테스트 프레임워크
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - AI 기능과 draw.io 다이어그램을 통합한 next.js 웹 애플리케이션
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - 오픈소스 프론티어 보이스 AI
 - [Lightricks/LTX-2](https://ltx.io/model/ltx-2) - 단일 모델 내에서 동기화된 비디오와 오디오를 생성하도록 설계된 DiT 기반의 오디오-비디오 기초 모델
 - [google/langextract](https://github.com/google/langextract) - 정밀한 소스 기반 기반 구축과 상호작용 시각화를 갖춘 LLM을 사용하여 비구조화 텍스트에서 구조화된 정보를 추출하는 Python 라이브러리
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - AI 요원을 폭발시키는 절대적인 트레이너입니다
