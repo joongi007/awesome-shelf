@@ -260,6 +260,7 @@
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - CPU에서 효율적으로 실행되도록 설계된 경량 텍스트 음성 변환(TTS) 애플리케이션
 - [ekwek1/soprano](https://github.com/ekwek1/soprano) - 즉각적이고 초현실적인 텍스트 음성 변환
 - [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib) - 가사와 태그를 기반으로 음악을 생성하는 음악 언어 모델
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI를 떠나지 않고도 셸 명령을 직접 실행할 수 있는 AI 에이전트
 
 
 ## ✏️ 프롬프트
