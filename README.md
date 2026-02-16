@@ -104,6 +104,7 @@
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - 학자와 엔지니어를 위한 이력서/이력서 생성기
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - 의존성이 없는 실시간 미디어 서버 및 미디어 프록시
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - React로 프로그래매틱으로 영상을 만듭니다
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - 손으로 그린 도표 같은 스케치용 가상 화이트보드
 
 
 ## 🤖 좋아 보이는 AI 서비스
