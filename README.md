@@ -262,6 +262,7 @@
 - [ekwek1/soprano](https://github.com/ekwek1/soprano) - 즉각적이고 초현실적인 텍스트 음성 변환
 - [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib) - 가사와 태그를 기반으로 음악을 생성하는 음악 언어 모델
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI를 떠나지 않고도 셸 명령을 직접 실행할 수 있는 AI 에이전트
+- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - 채널 상태 정보(CSI) 데이터와 첨단 머신러닝을 활용해 카메라 없이도 실시간 프라이버시 보호 자세 감지를 제공하는 최첨단 WiFi 기반 인간 자세 추정 시스템
 
 
 ## ✏️ 프롬프트
