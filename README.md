@@ -264,6 +264,7 @@
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI를 떠나지 않고도 셸 명령을 직접 실행할 수 있는 AI 에이전트
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - 채널 상태 정보(CSI) 데이터와 첨단 머신러닝을 활용해 카메라 없이도 실시간 프라이버시 보호 자세 감지를 제공하는 최첨단 WiFi 기반 인간 자세 추정 시스템
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - 바이트댄스(ByteDance)가 개발한 고품질 멀티모달 AI 비디오 생성 엔진
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - 엣지 디바이스용 빠르고 정확한 자동 음성 인식
 
 
 ## ✏️ 프롬프트
