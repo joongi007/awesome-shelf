@@ -266,6 +266,7 @@
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - 바이트댄스(ByteDance)가 개발한 고품질 멀티모달 AI 비디오 생성 엔진
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - 엣지 디바이스용 빠르고 정확한 자동 음성 인식
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - 복잡한 표, 양식, 손글씨를 완전한 레이아웃으로 처리하는 OCR 모델
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - AI가 디자인에 더 능숙하게 활용되도록 만드는 디자인 언어
 
 
 ## ✏️ 프롬프트
