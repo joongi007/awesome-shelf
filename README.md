@@ -270,6 +270,7 @@
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - AI가 디자인에 더 능숙하게 활용되도록 만드는 디자인 언어
 - [GAIR-NLP/daVinci-MagiHuman](https://github.com/GAIR-NLP/daVinci-MagiHuman) - 빠른 오디오-비디오 생성 기초 모델을 위한 단일 스트림 아키텍처 모델
 - [ID-LoRA/ID-LoRA](https://github.com/ID-LoRA/ID-LoRA) - LTX-2/LTX-2.3 + Identity In-Context LoRA를 기반으로 맞춤형 음성과 외형으로 고해상도 영상을 생성
+- [FunAudioLLM/ThinkSound/tree/prismaudio](https://github.com/FunAudioLLM/ThinkSound/tree/prismaudio) - [ThinkSound]를 구현한 것으로, 어떤 모달리티에서든 오디오를 생성할 수 있는 통합 프레임워크
 
 
 ## ✏️ 프롬프트
