@@ -272,6 +272,7 @@
 - [ID-LoRA/ID-LoRA](https://github.com/ID-LoRA/ID-LoRA) - LTX-2/LTX-2.3 + Identity In-Context LoRA를 기반으로 맞춤형 음성과 외형으로 고해상도 영상을 생성
 - [FunAudioLLM/ThinkSound/tree/prismaudio](https://github.com/FunAudioLLM/ThinkSound/tree/prismaudio) - [ThinkSound]를 구현한 것으로, 어떤 모달리티에서든 오디오를 생성할 수 있는 통합 프레임워크
 - [CohereLabs/cohere-transcribe-03-2026](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) - 2B 파라미터 전용 오디오, 텍스트 출력 자동 음성 인식(ASR) 오픈 소스 모델
+- [mistralai/Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) - 빠르고 즉각적으로 적응 가능하며 음성 상담원을 위한 생생한 음성 합성 기능을 제공하는 개척형 오픈 웨이트 텍스트-음성 변환 모델
 
 
 ## ✏️ 프롬프트
