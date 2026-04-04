@@ -268,6 +268,7 @@
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - 엣지 디바이스용 빠르고 정확한 자동 음성 인식
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - 복잡한 표, 양식, 손글씨를 완전한 레이아웃으로 처리하는 OCR 모델
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - AI가 디자인에 더 능숙하게 활용되도록 만드는 디자인 언어
+- [GAIR-NLP/daVinci-MagiHuman](https://github.com/GAIR-NLP/daVinci-MagiHuman) - 빠른 오디오-비디오 생성 기초 모델을 위한 단일 스트림 아키텍처 모델
 
 
 ## ✏️ 프롬프트
