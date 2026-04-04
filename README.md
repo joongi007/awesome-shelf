@@ -271,6 +271,7 @@
 - [GAIR-NLP/daVinci-MagiHuman](https://github.com/GAIR-NLP/daVinci-MagiHuman) - 빠른 오디오-비디오 생성 기초 모델을 위한 단일 스트림 아키텍처 모델
 - [ID-LoRA/ID-LoRA](https://github.com/ID-LoRA/ID-LoRA) - LTX-2/LTX-2.3 + Identity In-Context LoRA를 기반으로 맞춤형 음성과 외형으로 고해상도 영상을 생성
 - [FunAudioLLM/ThinkSound/tree/prismaudio](https://github.com/FunAudioLLM/ThinkSound/tree/prismaudio) - [ThinkSound]를 구현한 것으로, 어떤 모달리티에서든 오디오를 생성할 수 있는 통합 프레임워크
+- [CohereLabs/cohere-transcribe-03-2026](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) - 2B 파라미터 전용 오디오, 텍스트 출력 자동 음성 인식(ASR) 오픈 소스 모델
 
 
 ## ✏️ 프롬프트
