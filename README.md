@@ -107,6 +107,7 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - React로 프로그래매틱으로 영상을 만듭니다
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - 손으로 그린 도표 같은 스케치용 가상 화이트보드
 - [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) - 옛날 공항 출발 전광판 감성을 TV에 무료로 띄워주는 프로그램
+- [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - 안드로이드 앱이 직접 또는 클라우드 방식으로 API를 통해 SMS를 송수신할 수 있는 게이트웨이 오픈소스
 
 ## 🤖 좋아 보이는 AI 서비스
 
