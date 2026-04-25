@@ -166,6 +166,7 @@
 - [Code Wiki](https://codewiki.google/) - 코드 저장소를 자동으로 분석해 항상 최신 상태로 유지되는 구조화된 위키 문서를 생성하는 플랫폼
 - [LTX Studio](https://ltx.studio/) - 창의적인 아이디어를 고품질의 전문적인 영상으로 변환하는 올인원 생성형 AI 플랫폼
 - [Dreamina AI](https://dreamina.capcut.com) - 바이트댄스(ByteDance)에서 개발한 캡컷(CapCut)의 AI 기반 이미지 및 영상 생성 플랫폼
+- [Quiver AI](https://quiver.ai/) - 텍스트나 이미지를 입력받아 편집 가능한 SVG(벡터) 형식의 로고, 아이콘, 일러스트를 생성하는 AI 서비스
 
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
