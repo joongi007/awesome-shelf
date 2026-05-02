@@ -278,6 +278,7 @@
 - [CohereLabs/cohere-transcribe-03-2026](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) - 2B 파라미터 전용 오디오, 텍스트 출력 자동 음성 인식(ASR) 오픈 소스 모델
 - [mistralai/Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) - 빠르고 즉각적으로 적응 가능하며 음성 상담원을 위한 생생한 음성 합성 기능을 제공하는 개척형 오픈 웨이트 텍스트-음성 변환 모델
 - [Netflix/void-model](https://github.com/Netflix/void-model) - 넷플릭스에서 개발한 영상에서 객체와 그것이 장면에 유발하는 모든 상호작용을 제거하는 모델
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - Andrej Karpathy가 LLM 코딩의 함정에 대해 관찰한 바 있어, Claude Code 동작을 개선하기 위한 단일 CLAUDE.md 파일
 
 ## ✏️ 프롬프트
 
