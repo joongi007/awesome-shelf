@@ -280,6 +280,7 @@
 - [Netflix/void-model](https://github.com/Netflix/void-model) - 넷플릭스에서 개발한 영상에서 객체와 그것이 장면에 유발하는 모든 상호작용을 제거하는 모델
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - Andrej Karpathy가 LLM 코딩의 함정에 대해 관찰한 바 있어, Claude Code 동작을 개선하기 위한 단일 CLAUDE.md 파일
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - 코드베이스의 지식 그래프를 만들어 AI 코딩 도구가 필요한 파일만 읽게 해주는 MCP 기반 토큰 절약 도구
+- [HiDream-ai/HiDream-O1-Image](https://github.com/HiDream-ai/HiDream-O1-Image) -  외부 VAE나 분리된 텍스트 인코더 없이 픽셀 수준 통합 변환기(UiT) 기반으로 구축된 네이티브 통합 이미지 생성 기반 모델
 
 ## ✏️ 프롬프트
 
