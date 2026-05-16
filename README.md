@@ -109,6 +109,7 @@
 - [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) - 옛날 공항 출발 전광판 감성을 TV에 무료로 띄워주는 프로그램
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - 안드로이드 앱이 직접 또는 클라우드 방식으로 API를 통해 SMS를 송수신할 수 있는 게이트웨이 오픈소스
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - Anthropic의 Claude Design에 대한 로컬 우선 오픈 소스 대안
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Screen Studio의 무료 오픈 소스 대안
 
 ## 🤖 좋아 보이는 AI 서비스
 
