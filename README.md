@@ -169,7 +169,7 @@
 - [LTX Studio](https://ltx.studio/) - 창의적인 아이디어를 고품질의 전문적인 영상으로 변환하는 올인원 생성형 AI 플랫폼
 - [Dreamina AI](https://dreamina.capcut.com) - 바이트댄스(ByteDance)에서 개발한 캡컷(CapCut)의 AI 기반 이미지 및 영상 생성 플랫폼
 - [Quiver AI](https://quiver.ai/) - 텍스트나 이미지를 입력받아 편집 가능한 SVG(벡터) 형식의 로고, 아이콘, 일러스트를 생성하는 AI 서비스
-
+- [Meta AI](https://meta.ai/) - 페이스북, 인스타그램, 왓츠앱 등을 운영하는 메타(Meta)에서 개발한 대화형 인공지능(AI) 어시스턴트
 
 ## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
 
