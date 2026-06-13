@@ -299,6 +299,7 @@
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - GPT 프롬프트 및 탈옥과 관련된 모음
 - [NomaDamas/KICE_slayer_AI_Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean) - 수능 국어 1등급에 도전하는 AI 프롬프트
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - ChatGPT, Claude 및 Gemini와 같은 인기 있는 챗봇에서 추출된 시스템 프롬프트 모음
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - 주요 AI 모델과 에이전트들의 유출/추출된 시스템 프롬프트를 모아놓은 저장소
 
 ## 🚨 보안
 
