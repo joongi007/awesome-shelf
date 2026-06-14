@@ -286,6 +286,7 @@
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - 하이브 자회사에서 개발한 최소한의 오버헤드로 지역 추론을 위해 설계된 번개처럼 빠른 온디바이스 다국어 텍스트-음성 변환 시스템
 - [cwx-worst-one/WavTTS](https://github.com/cwx-worst-one/WavTTS) - 직접 원시 파형 모델링을 통한 고품질 제로샷 TTS
 - [ideogram-oss/ideogram4](https://github.com/ideogram-oss/ideogram4) - Ideogram의 첫 번째 오픈 웨이트 텍스트-이미지 모델
+- [bytedance/Bernini](https://github.com/bytedance/Bernini) - MLLM 기반의 의미론 계획기와 DiT 기반 렌더러를 결합한 통합 비디오 생성 및 편집 프레임워크
 
 ## ✏️ 프롬프트
 
