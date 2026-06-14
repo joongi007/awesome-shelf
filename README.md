@@ -284,6 +284,7 @@
 - [HiDream-ai/HiDream-O1-Image](https://github.com/HiDream-ai/HiDream-O1-Image) -  외부 VAE나 분리된 텍스트 인코더 없이 픽셀 수준 통합 변환기(UiT) 기반으로 구축된 네이티브 통합 이미지 생성 기반 모델
 - [mattpocock/skills](https://github.com/mattpocock/skills) - mattpocock의 실제 엔지니어를 위한 스킬
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - 하이브 자회사에서 개발한 최소한의 오버헤드로 지역 추론을 위해 설계된 번개처럼 빠른 온디바이스 다국어 텍스트-음성 변환 시스템
+- [cwx-worst-one/WavTTS](https://github.com/cwx-worst-one/WavTTS) - 직접 원시 파형 모델링을 통한 고품질 제로샷 TTS
 
 ## ✏️ 프롬프트
 
