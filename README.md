@@ -110,6 +110,7 @@
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - 안드로이드 앱이 직접 또는 클라우드 방식으로 API를 통해 SMS를 송수신할 수 있는 게이트웨이 오픈소스
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - Anthropic의 Claude Design에 대한 로컬 우선 오픈 소스 대안
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Screen Studio의 무료 오픈 소스 대안
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - 완전 자체 호스팅된 무료 오픈 소스 기계 번역 API
 
 ## 🤖 좋아 보이는 AI 서비스
 
