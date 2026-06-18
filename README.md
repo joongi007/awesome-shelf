@@ -288,6 +288,7 @@
 - [ideogram-oss/ideogram4](https://github.com/ideogram-oss/ideogram4) - Ideogram의 첫 번째 오픈 웨이트 텍스트-이미지 모델
 - [bytedance/Bernini](https://github.com/bytedance/Bernini) - MLLM 기반의 의미론 계획기와 DiT 기반 렌더러를 결합한 통합 비디오 생성 및 편집 프레임워크
 - [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - 80억 개의 매우 감정적인 텍스트-음성 변환 모델
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - AI 코딩 에이전트한테 "쓸데없이 코드 많이 짜지 마"라고 가르치는 플러그인/룰셋
 
 ## ✏️ 프롬프트
 
