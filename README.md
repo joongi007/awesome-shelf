@@ -29,7 +29,7 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI 자율 에이전트 목록
 - [playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) - PlayCanvas 자산, 자료 등 엄선된 목록
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)- AI 에이전트가 일관된 UI를 생성하기 위해 읽는 평문 설계 시스템 문서 모음
-
+- [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - 인공지능(AI) 강의, 도서, 비디오 강의 및 논문 엄선된 목록
 
 
 ## 🛠️ 좋아 보이는 오픈소스
