@@ -1,0 +1,18 @@
+# Python 바이트코드 캐시 (모듈 import 시 자동 생성 — 커밋 불필요)
+__pycache__/
+*.py[cod]
+
+# OS 부산물
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터
+.vscode/
+.idea/
+
+# 링크 검증 임시 산출물 (배치 분할 파일)
+data/_batches/
+
+# Pages 빌드 산출물
+_site/

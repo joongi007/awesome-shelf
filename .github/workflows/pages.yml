@@ -1,0 +1,59 @@
+name: Build & Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write   # README 자동 커밋용
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # data/shelf.json -> README.md 재생성, 변경되면 커밋
+      - name: Regenerate README from shelf.json
+        run: python build.py
+
+      - name: Commit README if changed
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: regenerate README from shelf.json"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      # index.html + data/ 만 사이트로 업로드
+      - name: Prepare site
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/index.html
+          cp data/shelf.js _site/data/shelf.js
+          cp data/shelf.json _site/data/shelf.json
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
