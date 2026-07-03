@@ -1204,6 +1204,15 @@
           "url": "https://meta.ai/",
           "desc": "페이스북, 인스타그램, 왓츠앱 등을 운영하는 메타(Meta)에서 개발한 대화형 인공지능(AI) 어시스턴트",
           "tags": []
+        },
+        {
+          "name": "Sakana AI",
+          "url": "https://sakana.ai/",
+          "desc": "일본 도쿄 기반의 프론티어 AI 연구 기업으로, 자연·진화에서 영감을 받은 방식으로 특화 모델과 솔루션을 개발",
+          "tags": [
+            "research",
+            "japanese"
+          ]
         }
       ]
     },
