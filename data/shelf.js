@@ -1086,9 +1086,11 @@ window.SHELF_DATA = {
         },
         {
           "name": "Nano Banana",
-          "url": "https://nanobanana.ai/",
-          "desc": "간단한 텍스트 프롬프트로 모든 이미지를 변환",
+          "url": "https://aistudio.google.com/models/nano-banana",
+          "desc": "구글 딥마인드의 Gemini 기반 이미지 생성·편집 모델. 텍스트 프롬프트로 이미지를 만들고 수정 (현 Nano Banana Pro)",
           "tags": [
+            "google",
+            "image-gen",
             "prompt"
           ]
         },

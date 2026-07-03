@@ -175,7 +175,7 @@ _생성형 AI 관련 서비스 모음_
 - **[Ideogram](https://ideogram.ai/)** — Typography와 그래픽 디자인에 탁월한 Text To Image AI 플랫폼
 - **[Codex CLI](https://github.com/openai/codex)** — OpenAI 의 코딩 어시스턴트를 터미널에서 실행
 - **[Base 44](https://base44.com/)** — 사용자가 몇 분 안에 완벽하게 작동하는 앱을 구축할 수 있는 AI 기반 플랫폼입니다.
-- **[Nano Banana](https://nanobanana.ai/)** — 간단한 텍스트 프롬프트로 모든 이미지를 변환
+- **[Nano Banana](https://aistudio.google.com/models/nano-banana)** — 구글 딥마인드의 Gemini 기반 이미지 생성·편집 모델. 텍스트 프롬프트로 이미지를 만들고 수정 (현 Nano Banana Pro)
 - **[Krea AI](https://www.krea.ai/)** — AI를 활용하여 이미지와 비디오를 제작하는 최첨단 플랫폼
 - **[Google Vids](https://sites.google.com/site/horstwebdesign/workspace/vids)** — 구글에서 개발한 AI 기반 업무용 동영상 제작 앱
 - **[Spec Kit](https://github.com/github/spec-kit)** — 사양 기반 개발을 시작하는 데 도움이 되는 툴킷
