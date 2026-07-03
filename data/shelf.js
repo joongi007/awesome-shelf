@@ -2178,6 +2178,15 @@ window.SHELF_DATA = {
           "tags": [
             "google"
           ]
+        },
+        {
+          "name": "krea-ai/krea-2",
+          "url": "https://github.com/krea-ai/krea-2",
+          "desc": "Krea AI가 공개한 오픈웨이트 텍스트-이미지 생성 모델로, 2K 해상도·LoRA 학습·ComfyUI를 지원하며 RAW(파인튜닝용)와 TURBO(8스텝 고속) 두 종류 제공",
+          "tags": [
+            "image-gen",
+            "open-weight"
+          ]
         }
       ]
     },
