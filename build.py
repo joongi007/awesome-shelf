@@ -111,11 +111,13 @@ def main():
         return 1
     data = json.loads(DATA.read_text(encoding="utf-8"))
 
-    README.write_text(render_readme(data), encoding="utf-8")
+    # newline="\n": OS와 무관하게 항상 LF로 저장(Windows의 CRLF 자동변환 방지).
+    # 안 그러면 로컬(CRLF)과 CI 리눅스(LF)의 결과가 매번 달라져 봇이 README를 재커밋함.
+    README.write_text(render_readme(data), encoding="utf-8", newline="\n")
 
     # 웹사이트용 전역 데이터(파일 프로토콜에서도 동작)
     payload = json.dumps(data, ensure_ascii=False, indent=2)
-    SHELF_JS.write_text(f"window.SHELF_DATA = {payload};\n", encoding="utf-8")
+    SHELF_JS.write_text(f"window.SHELF_DATA = {payload};\n", encoding="utf-8", newline="\n")
 
     total = sum(len(s["entries"]) for s in data["sections"])
     print(f"README.md + data/shelf.js 생성 완료 "

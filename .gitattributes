@@ -1,0 +1,10 @@
+# 저장소 전체 텍스트 파일의 줄바꿈을 저장소에는 LF로 정규화.
+# (Windows에서 편집해도 커밋되는 내용은 LF → CI 리눅스와 결과가 일치해
+#  build.py가 만든 README/shelf.js가 매번 재커밋되는 문제를 방지)
+* text=auto eol=lf
+
+# 자동 생성물: 항상 LF 고정
+README.md    text eol=lf
+data/shelf.js   text eol=lf
+data/shelf.json text eol=lf
+build.py     text eol=lf
