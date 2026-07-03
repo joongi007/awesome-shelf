@@ -110,6 +110,9 @@
   .search input { width: 100%; padding: 11px 80px 11px 42px; font: inherit; font-size: 15px; color: var(--text);
     background: var(--surface); border: 1px solid var(--border-strong); border-radius: var(--r-full); transition: border-color var(--t), box-shadow var(--t); }
   .search input::placeholder { color: var(--text-faint); }
+  /* 브라우저 기본 검색 클리어 버튼 숨김(커스텀 .x 버튼과 중복 방지) */
+  .search input::-webkit-search-cancel-button,
+  .search input::-webkit-search-decoration { -webkit-appearance: none; appearance: none; }
   .search input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 4px var(--ring); }
   .search .kbd { position: absolute; right: 13px; top: 50%; transform: translateY(-50%); }
   .search .kbd kbd { font: 600 11px var(--font); color: var(--text-faint); background: var(--surface-2);
