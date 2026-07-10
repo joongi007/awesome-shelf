@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **324**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **325**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -13,7 +13,7 @@
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 21 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 75 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 56 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 116 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 117 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 30 |
@@ -315,6 +315,7 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** — AI 코딩 에이전트한테 "쓸데없이 코드 많이 짜지 마"라고 가르치는 플러그인/룰셋
 - **[google-research/timesfm](https://github.com/google-research/timesfm)** — 구글 리서치가 만든 시계열 예측(time-series forecasting)용 사전학습 파운데이션 모델
 - **[krea-ai/krea-2](https://github.com/krea-ai/krea-2)** — Krea AI가 공개한 오픈웨이트 텍스트-이미지 생성 모델로, 2K 해상도·LoRA 학습·ComfyUI를 지원하며 RAW(파인튜닝용)와 TURBO(8스텝 고속) 두 종류 제공
+- **[Xingyu-Zheng/MrFlow](https://github.com/Xingyu-Zheng/MrFlow)** — Multi-Resolution Flow Matching — 저해상도 생성 후 업스케일·소량 정제로 flow-matching 이미지 모델(FLUX·Qwen-Image 등)을 학습 없이 10배 이상 가속하는 샘플링 기법
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
