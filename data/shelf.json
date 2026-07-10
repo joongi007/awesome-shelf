@@ -2189,6 +2189,14 @@
             "image-gen",
             "open-weight"
           ]
+        },
+        {
+          "name": "Xingyu-Zheng/MrFlow",
+          "url": "https://github.com/Xingyu-Zheng/MrFlow",
+          "desc": "Multi-Resolution Flow Matching — 저해상도 생성 후 업스케일·소량 정제로 flow-matching 이미지 모델(FLUX·Qwen-Image 등)을 학습 없이 10배 이상 가속하는 샘플링 기법",
+          "tags": [
+            "image-gen"
+          ]
         }
       ]
     },
