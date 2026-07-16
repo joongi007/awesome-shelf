@@ -2206,6 +2206,15 @@
             "tts",
             "benchmark"
           ]
+        },
+        {
+          "name": "Robbyant/lingbot-world-v2",
+          "url": "https://github.com/Robbyant/lingbot-world-v2",
+          "desc": "텍스트·이미지로 무한히 이어지는 인터랙티브 영상을 실시간 생성하는 월드 모델(720p 60fps, Wan2.2 기반 14B). 공격·주문 등 행동과 텍스트 이벤트로 상호작용",
+          "tags": [
+            "video-gen",
+            "world-model"
+          ]
         }
       ]
     },
