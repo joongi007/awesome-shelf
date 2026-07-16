@@ -89,7 +89,8 @@
   .navrow .nm { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .navrow .ct { font-size: 11.5px; font-weight: 600; color: var(--text-faint); background: var(--surface-2); padding: 1px 8px; border-radius: var(--r-full); }
   .navrow.active { background: hsl(var(--h, 220) 70% 55% / .14); color: hsl(var(--h, 220) 85% 74%); font-weight: 600; }
-  .navrow.active .ct { background: hsl(var(--h, 220) 70% 55% / .22); color: hsl(var(--h, 220) 85% 80%); }
+  /* 숫자는 색조에 묶인 밝은색 대신 중립 텍스트색으로 → 모든 색조·라이트/다크에서 대비 확보 */
+  .navrow.active .ct { background: hsl(var(--h, 220) 60% 50% / .25); color: var(--text); font-weight: 700; }
 
   .side-foot { margin-top: auto; padding-top: 14px; display: flex; align-items: center; gap: 8px; }
   .side-foot a, .side-foot button { display: grid; place-items: center; height: 36px; border-radius: var(--r-md);
