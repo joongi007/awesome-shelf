@@ -2197,6 +2197,15 @@
           "tags": [
             "image-gen"
           ]
+        },
+        {
+          "name": "5uck1ess/tts-bench",
+          "url": "https://github.com/5uck1ess/tts-bench",
+          "desc": "TTS 모델 55종을 속도(TTFA·RTF)·객관지표(UTMOS·WER·SIM)·블라인드 청취 투표(Elo 리더보드)로 비교하는 오픈소스 벤치마크",
+          "tags": [
+            "tts",
+            "benchmark"
+          ]
         }
       ]
     },
