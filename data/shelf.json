@@ -752,6 +752,15 @@
             "api",
             "translation"
           ]
+        },
+        {
+          "name": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "desc": "분석·AI·BI 도구 간에 지표(KPI)·시맨틱 모델 정의를 일관되게 주고받기 위한 벤더 중립 표준. JSON/YAML 스펙과 dbt·GoodData 등 변환기·검증 도구 제공",
+          "tags": [
+            "data",
+            "standard"
+          ]
         }
       ]
     },
