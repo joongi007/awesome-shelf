@@ -163,6 +163,15 @@
           "tags": [
             "tutorial"
           ]
+        },
+        {
+          "name": "AwesomeHomelab/awesome-homelab",
+          "url": "https://github.com/AwesomeHomelab/awesome-homelab",
+          "desc": "홈랩·홈서버를 위한 오픈소스 자체 호스팅 애플리케이션 엄선 목록 (companion 사이트 awesome-homelab.com 제공)",
+          "tags": [
+            "self-hosted",
+            "homelab"
+          ]
         }
       ]
     },
