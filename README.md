@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **327**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **328**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -11,7 +11,7 @@
 | 섹션 | 개수 |
 | :--- | ---: |
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 21 |
-| [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 75 |
+| [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 76 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 56 |
 | [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 119 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
@@ -129,6 +129,7 @@ _다양한 종류의 오픈소스 모음_
 - **[nexu-io/open-design](https://github.com/nexu-io/open-design)** — Anthropic의 Claude Design에 대한 로컬 우선 오픈 소스 대안
 - **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** — Screen Studio의 무료 오픈 소스 대안
 - **[LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)** — 완전 자체 호스팅된 무료 오픈 소스 기계 번역 API
+- **[apache/ossie](https://github.com/apache/ossie)** — 분석·AI·BI 도구 간에 지표(KPI)·시맨틱 모델 정의를 일관되게 주고받기 위한 벤더 중립 표준. JSON/YAML 스펙과 dbt·GoodData 등 변환기·검증 도구 제공
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
