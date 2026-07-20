@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **329**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **330**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -13,7 +13,7 @@
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 22 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 76 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 56 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 119 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 120 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 30 |
@@ -320,6 +320,7 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[Xingyu-Zheng/MrFlow](https://github.com/Xingyu-Zheng/MrFlow)** — Multi-Resolution Flow Matching — 저해상도 생성 후 업스케일·소량 정제로 flow-matching 이미지 모델(FLUX·Qwen-Image 등)을 학습 없이 10배 이상 가속하는 샘플링 기법
 - **[5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench)** — TTS 모델 55종을 속도(TTFA·RTF)·객관지표(UTMOS·WER·SIM)·블라인드 청취 투표(Elo 리더보드)로 비교하는 오픈소스 벤치마크
 - **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** — 텍스트·이미지로 무한히 이어지는 인터랙티브 영상을 실시간 생성하는 월드 모델(720p 60fps, Wan2.2 기반 14B). 공격·주문 등 행동과 텍스트 이벤트로 상호작용
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** — 완전 로컬로 돌아가는 오픈소스 AI 음성 스튜디오. TTS 엔진 7종·보이스 클로닝·받아쓰기 핫키·음성 효과를 한 앱에 묶은 ElevenLabs+Whisper 대체제 (MCP·REST API 지원)
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
