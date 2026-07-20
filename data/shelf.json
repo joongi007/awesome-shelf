@@ -2233,6 +2233,17 @@
             "video-gen",
             "world-model"
           ]
+        },
+        {
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "desc": "완전 로컬로 돌아가는 오픈소스 AI 음성 스튜디오. TTS 엔진 7종·보이스 클로닝·받아쓰기 핫키·음성 효과를 한 앱에 묶은 ElevenLabs+Whisper 대체제 (MCP·REST API 지원)",
+          "tags": [
+            "tts",
+            "audio",
+            "self-hosted",
+            "mcp"
+          ]
         }
       ]
     },
