@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **330**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **332**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -10,9 +10,9 @@
 
 | 섹션 | 개수 |
 | :--- | ---: |
-| [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 22 |
+| [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 23 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 76 |
-| [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 56 |
+| [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 57 |
 | [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 120 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
@@ -48,6 +48,7 @@ _다양한 Awesome 리스트 저장소 모음_
 - **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** — AI 에이전트가 일관된 UI를 생성하기 위해 읽는 평문 설계 시스템 문서 모음
 - **[owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)** — 인공지능(AI) 강의, 도서, 비디오 강의 및 논문 엄선된 목록
 - **[AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab)** — 홈랩·홈서버를 위한 오픈소스 자체 호스팅 애플리케이션 엄선 목록 (companion 사이트 awesome-homelab.com 제공)
+- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — 생산성 향상을 위한 실전용 Claude Skills·플러그인 1000+종 엄선 목록 (문서처리·개발·데이터 분석·SaaS 연동 등)
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -194,6 +195,7 @@ _생성형 AI 관련 서비스 모음_
 - **[Quiver AI](https://quiver.ai/)** — 텍스트나 이미지를 입력받아 편집 가능한 SVG(벡터) 형식의 로고, 아이콘, 일러스트를 생성하는 AI 서비스
 - **[Meta AI](https://meta.ai/)** — 페이스북, 인스타그램, 왓츠앱 등을 운영하는 메타(Meta)에서 개발한 대화형 인공지능(AI) 어시스턴트
 - **[Sakana AI](https://sakana.ai/)** — 일본 도쿄 기반의 프론티어 AI 연구 기업으로, 자연·진화에서 영감을 받은 방식으로 특화 모델과 솔루션을 개발
+- **[Decart](https://decart.ai/)** — 실시간 라이브 영상 변환 모델을 연이어 내놓는 AI 플랫폼. 대표 모델 Lucy 2.5는 30 FPS·1080p·40ms 미만 지연으로 라이브 스트림에 VFX 삽입·객체 제거·캐릭터 변형을 수행 (API 서비스)
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
