@@ -1242,6 +1242,15 @@
             "research",
             "japanese"
           ]
+        },
+        {
+          "name": "Decart",
+          "url": "https://decart.ai/",
+          "desc": "실시간 라이브 영상 변환 모델을 연이어 내놓는 AI 플랫폼. 대표 모델 Lucy 2.5는 30 FPS·1080p·40ms 미만 지연으로 라이브 스트림에 VFX 삽입·객체 제거·캐릭터 변형을 수행 (API 서비스)",
+          "tags": [
+            "video-gen",
+            "real-time"
+          ]
         }
       ]
     },
