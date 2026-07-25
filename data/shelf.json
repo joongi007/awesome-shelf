@@ -172,6 +172,15 @@
             "self-hosted",
             "homelab"
           ]
+        },
+        {
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "desc": "생산성 향상을 위한 실전용 Claude Skills·플러그인 1000+종 엄선 목록 (문서처리·개발·데이터 분석·SaaS 연동 등)",
+          "tags": [
+            "agent",
+            "claude"
+          ]
         }
       ]
     },
