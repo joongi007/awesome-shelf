@@ -1260,6 +1260,15 @@
             "video-gen",
             "image-gen"
           ]
+        },
+        {
+          "name": "ChatMotif",
+          "url": "https://chat.motiftech.io/",
+          "desc": "한국 소버린 AI 기업 Motif Technologies가 자체 LLM(Motif 시리즈)으로 제공하는 대화형 AI 서비스. 추론·요약·번역·코드 생성과 텍스트 기반 이미지 생성 지원",
+          "tags": [
+            "llm",
+            "korean"
+          ]
         }
       ]
     },
