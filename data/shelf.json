@@ -2271,6 +2271,15 @@
             "self-hosted",
             "mcp"
           ]
+        },
+        {
+          "name": "oso95/scroll-world",
+          "url": "https://github.com/oso95/scroll-world",
+          "desc": "스크롤에 맞춰 3D 카메라가 씬을 훑는 몰입형 랜딩 페이지를 만드는 AI 에이전트 스킬. GPT Image 2·Seedance/Kling·Higgsfield로 씬을 생성하고 프레임 연결 (Claude Code 플러그인)",
+          "tags": [
+            "agent",
+            "web"
+          ]
         }
       ]
     },
