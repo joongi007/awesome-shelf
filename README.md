@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **332**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **334**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -12,8 +12,8 @@
 | :--- | ---: |
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 23 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 76 |
-| [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 57 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 120 |
+| [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 58 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 121 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 30 |
@@ -196,6 +196,7 @@ _생성형 AI 관련 서비스 모음_
 - **[Meta AI](https://meta.ai/)** — 페이스북, 인스타그램, 왓츠앱 등을 운영하는 메타(Meta)에서 개발한 대화형 인공지능(AI) 어시스턴트
 - **[Sakana AI](https://sakana.ai/)** — 일본 도쿄 기반의 프론티어 AI 연구 기업으로, 자연·진화에서 영감을 받은 방식으로 특화 모델과 솔루션을 개발
 - **[Decart](https://decart.ai/)** — 실시간 라이브 영상 변환 모델을 연이어 내놓는 AI 플랫폼. 대표 모델 Lucy 2.5는 30 FPS·1080p·40ms 미만 지연으로 라이브 스트림에 VFX 삽입·객체 제거·캐릭터 변형을 수행 (API 서비스)
+- **[Higgsfield](https://higgsfield.ai/)** — Sora·Kling·Veo·Seedance 등 여러 모델과 자체 모델을 한곳에서 쓰는 다중 모델 AI 영상·이미지 생성 플랫폼. 카메라·모션·스타일 제어, 4K 이미지·시네마틱 영상 제작
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -323,6 +324,7 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench)** — TTS 모델 55종을 속도(TTFA·RTF)·객관지표(UTMOS·WER·SIM)·블라인드 청취 투표(Elo 리더보드)로 비교하는 오픈소스 벤치마크
 - **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** — 텍스트·이미지로 무한히 이어지는 인터랙티브 영상을 실시간 생성하는 월드 모델(720p 60fps, Wan2.2 기반 14B). 공격·주문 등 행동과 텍스트 이벤트로 상호작용
 - **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** — 완전 로컬로 돌아가는 오픈소스 AI 음성 스튜디오. TTS 엔진 7종·보이스 클로닝·받아쓰기 핫키·음성 효과를 한 앱에 묶은 ElevenLabs+Whisper 대체제 (MCP·REST API 지원)
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** — 스크롤에 맞춰 3D 카메라가 씬을 훑는 몰입형 랜딩 페이지를 만드는 AI 에이전트 스킬. GPT Image 2·Seedance/Kling·Higgsfield로 씬을 생성하고 프레임 연결 (Claude Code 플러그인)
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
