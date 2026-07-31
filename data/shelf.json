@@ -2280,6 +2280,15 @@
             "agent",
             "web"
           ]
+        },
+        {
+          "name": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "desc": "딥러닝으로 사진·영상 속 얼굴을 인식·교체하는 오픈소스 애플리케이션. 얼굴 추출·모델 학습·변환 파이프라인과 GUI 제공 (GPU 가속, 크로스플랫폼)",
+          "tags": [
+            "deepfake",
+            "self-hosted"
+          ]
         }
       ]
     },
