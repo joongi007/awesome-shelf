@@ -1251,6 +1251,15 @@
             "video-gen",
             "real-time"
           ]
+        },
+        {
+          "name": "Higgsfield",
+          "url": "https://higgsfield.ai/",
+          "desc": "Sora·Kling·Veo·Seedance 등 여러 모델과 자체 모델을 한곳에서 쓰는 다중 모델 AI 영상·이미지 생성 플랫폼. 카메라·모션·스타일 제어, 4K 이미지·시네마틱 영상 제작",
+          "tags": [
+            "video-gen",
+            "image-gen"
+          ]
         }
       ]
     },
