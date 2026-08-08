@@ -779,6 +779,16 @@
             "data",
             "standard"
           ]
+        },
+        {
+          "name": "firecrawl/anydoc",
+          "url": "https://github.com/firecrawl/anydoc",
+          "desc": "Word·PPT·Excel·PDF·EPUB 등 오피스 문서를 깔끔한 마크다운으로 변환하는 고속 Rust 라이브러리(Firecrawl Parse 구동). 구조 보존·임베디드 자산 처리·외부 OCR 없는 PDF 지원, Node·Python·WASM 바인딩",
+          "tags": [
+            "rust",
+            "markdown",
+            "library"
+          ]
         }
       ]
     },
