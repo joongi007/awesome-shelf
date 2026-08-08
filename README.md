@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **334**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **339**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -11,9 +11,9 @@
 | 섹션 | 개수 |
 | :--- | ---: |
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 23 |
-| [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 76 |
-| [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 58 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 121 |
+| [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 77 |
+| [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 59 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 124 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 30 |
@@ -132,6 +132,7 @@ _다양한 종류의 오픈소스 모음_
 - **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** — Screen Studio의 무료 오픈 소스 대안
 - **[LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)** — 완전 자체 호스팅된 무료 오픈 소스 기계 번역 API
 - **[apache/ossie](https://github.com/apache/ossie)** — 분석·AI·BI 도구 간에 지표(KPI)·시맨틱 모델 정의를 일관되게 주고받기 위한 벤더 중립 표준. JSON/YAML 스펙과 dbt·GoodData 등 변환기·검증 도구 제공
+- **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** — Word·PPT·Excel·PDF·EPUB 등 오피스 문서를 깔끔한 마크다운으로 변환하는 고속 Rust 라이브러리(Firecrawl Parse 구동). 구조 보존·임베디드 자산 처리·외부 OCR 없는 PDF 지원, Node·Python·WASM 바인딩
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -197,6 +198,7 @@ _생성형 AI 관련 서비스 모음_
 - **[Sakana AI](https://sakana.ai/)** — 일본 도쿄 기반의 프론티어 AI 연구 기업으로, 자연·진화에서 영감을 받은 방식으로 특화 모델과 솔루션을 개발
 - **[Decart](https://decart.ai/)** — 실시간 라이브 영상 변환 모델을 연이어 내놓는 AI 플랫폼. 대표 모델 Lucy 2.5는 30 FPS·1080p·40ms 미만 지연으로 라이브 스트림에 VFX 삽입·객체 제거·캐릭터 변형을 수행 (API 서비스)
 - **[Higgsfield](https://higgsfield.ai/)** — Sora·Kling·Veo·Seedance 등 여러 모델과 자체 모델을 한곳에서 쓰는 다중 모델 AI 영상·이미지 생성 플랫폼. 카메라·모션·스타일 제어, 4K 이미지·시네마틱 영상 제작
+- **[ChatMotif](https://chat.motiftech.io/)** — 한국 소버린 AI 기업 Motif Technologies가 자체 LLM(Motif 시리즈)으로 제공하는 대화형 AI 서비스. 추론·요약·번역·코드 생성과 텍스트 기반 이미지 생성 지원
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -325,6 +327,9 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** — 텍스트·이미지로 무한히 이어지는 인터랙티브 영상을 실시간 생성하는 월드 모델(720p 60fps, Wan2.2 기반 14B). 공격·주문 등 행동과 텍스트 이벤트로 상호작용
 - **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** — 완전 로컬로 돌아가는 오픈소스 AI 음성 스튜디오. TTS 엔진 7종·보이스 클로닝·받아쓰기 핫키·음성 효과를 한 앱에 묶은 ElevenLabs+Whisper 대체제 (MCP·REST API 지원)
 - **[oso95/scroll-world](https://github.com/oso95/scroll-world)** — 스크롤에 맞춰 3D 카메라가 씬을 훑는 몰입형 랜딩 페이지를 만드는 AI 에이전트 스킬. GPT Image 2·Seedance/Kling·Higgsfield로 씬을 생성하고 프레임 연결 (Claude Code 플러그인)
+- **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — 딥러닝으로 사진·영상 속 얼굴을 인식·교체하는 오픈소스 애플리케이션. 얼굴 추출·모델 학습·변환 파이프라인과 GUI 제공 (GPU 가속, 크로스플랫폼)
+- **[MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)** — 텍스트·이미지·영상·오디오 입력으로 네이티브 스테레오 음성이 포함된 영상(4~15초·최대 2K)을 생성하는 멀티모달 모델. 33B omni-transformer 기반, H3-Base 가중치 부분 공개
+- **[nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper)** — Whisper 기반 축어(verbatim) 음성인식 모델. 필러·말더듬 등 비유창성까지 그대로 받아쓰고 정제본도 함께 제공하며, 30ms급 단어 단위 타임스탬프를 지원 (코드 MIT, 가중치 비상업 연구용)
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
