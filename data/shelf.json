@@ -2308,6 +2308,16 @@
             "deepfake",
             "self-hosted"
           ]
+        },
+        {
+          "name": "MiniMax-AI/MiniMax-H3",
+          "url": "https://github.com/MiniMax-AI/MiniMax-H3",
+          "desc": "텍스트·이미지·영상·오디오 입력으로 네이티브 스테레오 음성이 포함된 영상(4~15초·최대 2K)을 생성하는 멀티모달 모델. 33B omni-transformer 기반, H3-Base 가중치 부분 공개",
+          "tags": [
+            "video-gen",
+            "audio",
+            "open-weight"
+          ]
         }
       ]
     },
