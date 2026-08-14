@@ -2346,6 +2346,15 @@
             "agent",
             "design"
           ]
+        },
+        {
+          "name": "google-deepmind/weathernext",
+          "url": "https://github.com/google-deepmind/weathernext",
+          "desc": "구글 딥마인드의 글로벌 기상 예측 AI 모델(WeatherNext 2·GraphCast·GenCast). 0.25° 해상도로 6일+ 기온·바람 등을 예보하고 태풍 경로·강도까지 예측하는 확산 앙상블 방식 (JAX·GNN)",
+          "tags": [
+            "google",
+            "weather"
+          ]
         }
       ]
     },
