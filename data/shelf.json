@@ -789,6 +789,16 @@
             "markdown",
             "library"
           ]
+        },
+        {
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "desc": "웹·데스크톱·모바일에서 돌아가는 무료 오픈소스 영상 편집기(CapCut 대체). 단일 Rust 코어 기반에 플러그인·스크립팅·AI 에이전트용 MCP 서버 지원 (현재 전면 재작성 중)",
+          "tags": [
+            "video",
+            "rust",
+            "mcp"
+          ]
         }
       ]
     },
