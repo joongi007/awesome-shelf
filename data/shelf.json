@@ -2355,6 +2355,15 @@
             "google",
             "weather"
           ]
+        },
+        {
+          "name": "Wan-Video/Wan-Animate-2",
+          "url": "https://github.com/Wan-Video/Wan-Animate-2",
+          "desc": "구동 영상과 레퍼런스 이미지만으로 캐릭터 애니메이션 영상을 생성하는 프레임워크. Diffusion Transformer로 동작을 옮기며 정체성을 보존하고, 텍스트로 시점을 제어. 실시간 스트리밍용 경량(distill)판 포함, 오픈웨이트",
+          "tags": [
+            "video-gen",
+            "open-weight"
+          ]
         }
       ]
     },
