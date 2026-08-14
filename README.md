@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **339**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **345**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -11,9 +11,9 @@
 | 섹션 | 개수 |
 | :--- | ---: |
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 23 |
-| [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 77 |
+| [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 78 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 59 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 124 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 129 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 30 |
@@ -133,6 +133,7 @@ _다양한 종류의 오픈소스 모음_
 - **[LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)** — 완전 자체 호스팅된 무료 오픈 소스 기계 번역 API
 - **[apache/ossie](https://github.com/apache/ossie)** — 분석·AI·BI 도구 간에 지표(KPI)·시맨틱 모델 정의를 일관되게 주고받기 위한 벤더 중립 표준. JSON/YAML 스펙과 dbt·GoodData 등 변환기·검증 도구 제공
 - **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** — Word·PPT·Excel·PDF·EPUB 등 오피스 문서를 깔끔한 마크다운으로 변환하는 고속 Rust 라이브러리(Firecrawl Parse 구동). 구조 보존·임베디드 자산 처리·외부 OCR 없는 PDF 지원, Node·Python·WASM 바인딩
+- **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** — 웹·데스크톱·모바일에서 돌아가는 무료 오픈소스 영상 편집기(CapCut 대체). 단일 Rust 코어 기반에 플러그인·스크립팅·AI 에이전트용 MCP 서버 지원 (현재 전면 재작성 중)
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -330,6 +331,11 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — 딥러닝으로 사진·영상 속 얼굴을 인식·교체하는 오픈소스 애플리케이션. 얼굴 추출·모델 학습·변환 파이프라인과 GUI 제공 (GPU 가속, 크로스플랫폼)
 - **[MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)** — 텍스트·이미지·영상·오디오 입력으로 네이티브 스테레오 음성이 포함된 영상(4~15초·최대 2K)을 생성하는 멀티모달 모델. 33B omni-transformer 기반, H3-Base 가중치 부분 공개
 - **[nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper)** — Whisper 기반 축어(verbatim) 음성인식 모델. 필러·말더듬 등 비유창성까지 그대로 받아쓰고 정제본도 함께 제공하며, 30ms급 단어 단위 타임스탬프를 지원 (코드 MIT, 가중치 비상업 연구용)
+- **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — 에디토리얼급 다이어그램 29종(아키텍처·플로우차트·시퀀스·간트 등)을 의존성 없는 HTML+SVG로 생성하는 에이전트 스킬. draw.io·Mermaid 임포트, 브랜드 색·폰트 자동 추출, WCAG AA 대비 검증
+- **[google-deepmind/weathernext](https://github.com/google-deepmind/weathernext)** — 구글 딥마인드의 글로벌 기상 예측 AI 모델(WeatherNext 2·GraphCast·GenCast). 0.25° 해상도로 6일+ 기온·바람 등을 예보하고 태풍 경로·강도까지 예측하는 확산 앙상블 방식 (JAX·GNN)
+- **[Wan-Video/Wan-Animate-2](https://github.com/Wan-Video/Wan-Animate-2)** — 구동 영상과 레퍼런스 이미지만으로 캐릭터 애니메이션 영상을 생성하는 프레임워크. Diffusion Transformer로 동작을 옮기며 정체성을 보존하고, 텍스트로 시점을 제어. 실시간 스트리밍용 경량(distill)판 포함, 오픈웨이트
+- **[pymaster17/VocalRender](https://github.com/pymaster17/VocalRender)** — 악보(가사·MIDI 음정·박자)를 참조 오디오 없이 곧바로 노래 오디오로 합성하는 가창 음성 합성(SVS) 모델. Audio VAE 잠재 + 자기회귀 확산 구조로 음정·음색·아티큘레이션을 세밀 제어, 오픈웨이트
+- **[zhangrongxiang/LeapTalk](https://github.com/zhangrongxiang/LeapTalk)** — 레퍼런스 이미지와 음성으로 실시간 토킹헤드(말하는 얼굴) 영상을 생성하는 모델. 청크 단위 스트리밍·단일 스텝 추론으로 라이트 모드 최대 200 FPS, 장시간 정체성 보존(Bridge Forcing), 오픈웨이트
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
