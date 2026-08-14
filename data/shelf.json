@@ -2327,6 +2327,15 @@
             "stt",
             "audio"
           ]
+        },
+        {
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "desc": "에디토리얼급 다이어그램 29종(아키텍처·플로우차트·시퀀스·간트 등)을 의존성 없는 HTML+SVG로 생성하는 에이전트 스킬. draw.io·Mermaid 임포트, 브랜드 색·폰트 자동 추출, WCAG AA 대비 검증",
+          "tags": [
+            "agent",
+            "design"
+          ]
         }
       ]
     },
