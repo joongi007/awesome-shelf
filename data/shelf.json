@@ -2364,6 +2364,16 @@
             "video-gen",
             "open-weight"
           ]
+        },
+        {
+          "name": "pymaster17/VocalRender",
+          "url": "https://github.com/pymaster17/VocalRender",
+          "desc": "악보(가사·MIDI 음정·박자)를 참조 오디오 없이 곧바로 노래 오디오로 합성하는 가창 음성 합성(SVS) 모델. Audio VAE 잠재 + 자기회귀 확산 구조로 음정·음색·아티큘레이션을 세밀 제어, 오픈웨이트",
+          "tags": [
+            "audio",
+            "singing",
+            "open-weight"
+          ]
         }
       ]
     },
