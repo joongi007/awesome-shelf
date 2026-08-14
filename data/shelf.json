@@ -2374,6 +2374,16 @@
             "singing",
             "open-weight"
           ]
+        },
+        {
+          "name": "zhangrongxiang/LeapTalk",
+          "url": "https://github.com/zhangrongxiang/LeapTalk",
+          "desc": "레퍼런스 이미지와 음성으로 실시간 토킹헤드(말하는 얼굴) 영상을 생성하는 모델. 청크 단위 스트리밍·단일 스텝 추론으로 라이트 모드 최대 200 FPS, 장시간 정체성 보존(Bridge Forcing), 오픈웨이트",
+          "tags": [
+            "video-gen",
+            "audio",
+            "open-weight"
+          ]
         }
       ]
     },
