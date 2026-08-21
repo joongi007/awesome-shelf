@@ -2008,10 +2008,12 @@
         },
         {
           "name": "Lightricks/LTX-2",
-          "url": "https://ltx.io/model/ltx-2",
-          "desc": "단일 모델 내에서 동기화된 비디오와 오디오를 생성하도록 설계된 DiT 기반의 오디오-비디오 기초 모델",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "desc": "동기화된 비디오와 오디오를 한 모델에서 생성하는 DiT 기반 오디오-비디오 기초 모델(현 LTX-2.5). 텍스트·이미지·오디오→영상 등 다양한 파이프라인과 HDR·FP8 양자화·distill을 지원, 오픈웨이트",
           "tags": [
-            "audio"
+            "video-gen",
+            "audio",
+            "open-weight"
           ]
         },
         {
