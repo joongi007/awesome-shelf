@@ -2396,6 +2396,15 @@
             "audio",
             "open-weight"
           ]
+        },
+        {
+          "name": "xiaomi-research/midashenglm-gen",
+          "url": "https://github.com/xiaomi-research/midashenglm-gen",
+          "desc": "텍스트 설명으로 말소리·음악·효과음·환경음이 섞인 오디오 장면을 한 번에 생성하는 샤오미의 오디오 생성 모델. Qwen3-1.7B 백본 + 토큰별 Flow Matching, 9개 언어·감정 제어, 오픈웨이트",
+          "tags": [
+            "audio",
+            "open-weight"
+          ]
         }
       ]
     },
