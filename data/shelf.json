@@ -2405,6 +2405,16 @@
             "audio",
             "open-weight"
           ]
+        },
+        {
+          "name": "index-tts/index-tts",
+          "url": "https://github.com/index-tts/index-tts",
+          "desc": "참조 음성 하나로 목소리를 복제하는 Bilibili의 산업용 제로샷 TTS 모델. 감정·발화 속도(0.5~2배)·발음 제어와 다국어(중·영·일·스페인·아랍)를 지원, 오픈웨이트(현 IndexTTS-2.5)",
+          "tags": [
+            "tts",
+            "audio",
+            "open-weight"
+          ]
         }
       ]
     },
