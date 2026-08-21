@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **345**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **348**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -13,7 +13,7 @@
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 23 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 78 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 59 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 129 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 132 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 30 |
@@ -292,7 +292,7 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[usestrix/strix](https://github.com/usestrix/strix)** — 침투 테스트를 위한 오픈 소스 AI 에이전트
 - **[trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)** — SNS를 위해 설계된 오픈 소스 침투 테스트 프레임워크
 - **[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)** — AI 기능과 draw.io 다이어그램을 통합한 next.js 웹 애플리케이션
-- **[Lightricks/LTX-2](https://ltx.io/model/ltx-2)** — 단일 모델 내에서 동기화된 비디오와 오디오를 생성하도록 설계된 DiT 기반의 오디오-비디오 기초 모델
+- **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** — 동기화된 비디오와 오디오를 한 모델에서 생성하는 DiT 기반 오디오-비디오 기초 모델(현 LTX-2.5). 텍스트·이미지·오디오→영상 등 다양한 파이프라인과 HDR·FP8 양자화·distill을 지원, 오픈웨이트
 - **[google/langextract](https://github.com/google/langextract)** — 정밀한 소스 기반 기반 구축과 상호작용 시각화를 갖춘 LLM을 사용하여 비구조화 텍스트에서 구조화된 정보를 추출하는 Python 라이브러리
 - **[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)** — AI 요원을 폭발시키는 절대적인 트레이너입니다
 - **[Translate Gemma](https://huggingface.co/collections/google/translategemma)** — 젬마 3(Gemma 3)를 기반으로 구축된 새로운 개방형 번역 모델
@@ -336,6 +336,9 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[Wan-Video/Wan-Animate-2](https://github.com/Wan-Video/Wan-Animate-2)** — 구동 영상과 레퍼런스 이미지만으로 캐릭터 애니메이션 영상을 생성하는 프레임워크. Diffusion Transformer로 동작을 옮기며 정체성을 보존하고, 텍스트로 시점을 제어. 실시간 스트리밍용 경량(distill)판 포함, 오픈웨이트
 - **[pymaster17/VocalRender](https://github.com/pymaster17/VocalRender)** — 악보(가사·MIDI 음정·박자)를 참조 오디오 없이 곧바로 노래 오디오로 합성하는 가창 음성 합성(SVS) 모델. Audio VAE 잠재 + 자기회귀 확산 구조로 음정·음색·아티큘레이션을 세밀 제어, 오픈웨이트
 - **[zhangrongxiang/LeapTalk](https://github.com/zhangrongxiang/LeapTalk)** — 레퍼런스 이미지와 음성으로 실시간 토킹헤드(말하는 얼굴) 영상을 생성하는 모델. 청크 단위 스트리밍·단일 스텝 추론으로 라이트 모드 최대 200 FPS, 장시간 정체성 보존(Bridge Forcing), 오픈웨이트
+- **[MiniMax-AI/MiniMax-Music3](https://github.com/minimax-ai/minimax-music3)** — 가사와 음악 설명(장르·악기·보컬 등)을 조건으로 보컬과 편곡이 어우러진 최대 5분 완곡을 생성하는 음악 생성 모델. 8B+0.6B 하이브리드 구조에 Flow Matching, 32kHz 스테레오 출력, 오픈웨이트
+- **[xiaomi-research/midashenglm-gen](https://github.com/xiaomi-research/midashenglm-gen)** — 텍스트 설명으로 말소리·음악·효과음·환경음이 섞인 오디오 장면을 한 번에 생성하는 샤오미의 오디오 생성 모델. Qwen3-1.7B 백본 + 토큰별 Flow Matching, 9개 언어·감정 제어, 오픈웨이트
+- **[index-tts/index-tts](https://github.com/index-tts/index-tts)** — 참조 음성 하나로 목소리를 복제하는 Bilibili의 산업용 제로샷 TTS 모델. 감정·발화 속도(0.5~2배)·발음 제어와 다국어(중·영·일·스페인·아랍)를 지원, 오픈웨이트(현 IndexTTS-2.5)
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
