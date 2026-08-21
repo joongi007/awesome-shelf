@@ -2386,6 +2386,16 @@
             "audio",
             "open-weight"
           ]
+        },
+        {
+          "name": "MiniMax-AI/MiniMax-Music3",
+          "url": "https://github.com/minimax-ai/minimax-music3",
+          "desc": "가사와 음악 설명(장르·악기·보컬 등)을 조건으로 보컬과 편곡이 어우러진 최대 5분 완곡을 생성하는 음악 생성 모델. 8B+0.6B 하이브리드 구조에 Flow Matching, 32kHz 스테레오 출력, 오픈웨이트",
+          "tags": [
+            "music",
+            "audio",
+            "open-weight"
+          ]
         }
       ]
     },
