@@ -2444,6 +2444,16 @@
             "inference",
             "self-hosted"
           ]
+        },
+        {
+          "name": "OpenSenseNova/SenseNova-U1",
+          "url": "https://github.com/OpenSenseNova/SenseNova-U1",
+          "desc": "센스타임 계열이 공개한 통합 멀티모달 모델. 이해와 생성을 별도 인코더/VAE 없이 한 아키텍처(NEO-unify)로 통합해 텍스트→이미지·이미지 편집·이미지-텍스트 교차 생성·VQA를 수행 (8B/A3B, 오픈웨이트)",
+          "tags": [
+            "multimodal",
+            "image-gen",
+            "open-weight"
+          ]
         }
       ]
     },
