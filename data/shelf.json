@@ -2454,6 +2454,15 @@
             "image-gen",
             "open-weight"
           ]
+        },
+        {
+          "name": "yunpeng1998/Qwen-Video-Edit",
+          "url": "https://github.com/yunpeng1998/Qwen-Video-Edit",
+          "desc": "Qwen-Image-Edit의 DiT를 Wan 2.1 영상 VAE에 연결해 지시(instruction) 기반으로 영상을 편집하는 모델. 청크 단위 롱비디오 편집, 360/480/720P 체크포인트, ComfyUI 노드 제공, 오픈웨이트",
+          "tags": [
+            "video-gen",
+            "open-weight"
+          ]
         }
       ]
     },
