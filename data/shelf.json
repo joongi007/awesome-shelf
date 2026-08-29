@@ -2415,6 +2415,15 @@
             "audio",
             "open-weight"
           ]
+        },
+        {
+          "name": "gary149/h3-game-sprites",
+          "url": "https://github.com/gary149/h3-game-sprites",
+          "desc": "AI 생성 영상을 2D 게임 스프라이트 시트로 변환하는 에이전트 스킬(모탈컴뱃식 디지타이징). 크로마키 처리·키프레임 선별·워크사이클 감지·아틀라스 패킹을 자동화, MiniMax H3·Nano Banana 활용",
+          "tags": [
+            "agent",
+            "game"
+          ]
         }
       ]
     },
