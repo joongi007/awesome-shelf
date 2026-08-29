@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **348**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **354**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -13,10 +13,10 @@
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 23 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 78 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 59 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 132 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 137 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
-| [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 30 |
+| [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
 | [🧩 이 외의 것](#-이-외의-것) | 6 |
 | [🗄️ 보관함](#️-보관함) | 2 |
 
@@ -339,6 +339,11 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[MiniMax-AI/MiniMax-Music3](https://github.com/minimax-ai/minimax-music3)** — 가사와 음악 설명(장르·악기·보컬 등)을 조건으로 보컬과 편곡이 어우러진 최대 5분 완곡을 생성하는 음악 생성 모델. 8B+0.6B 하이브리드 구조에 Flow Matching, 32kHz 스테레오 출력, 오픈웨이트
 - **[xiaomi-research/midashenglm-gen](https://github.com/xiaomi-research/midashenglm-gen)** — 텍스트 설명으로 말소리·음악·효과음·환경음이 섞인 오디오 장면을 한 번에 생성하는 샤오미의 오디오 생성 모델. Qwen3-1.7B 백본 + 토큰별 Flow Matching, 9개 언어·감정 제어, 오픈웨이트
 - **[index-tts/index-tts](https://github.com/index-tts/index-tts)** — 참조 음성 하나로 목소리를 복제하는 Bilibili의 산업용 제로샷 TTS 모델. 감정·발화 속도(0.5~2배)·발음 제어와 다국어(중·영·일·스페인·아랍)를 지원, 오픈웨이트(현 IndexTTS-2.5)
+- **[gary149/h3-game-sprites](https://github.com/gary149/h3-game-sprites)** — AI 생성 영상을 2D 게임 스프라이트 시트로 변환하는 에이전트 스킬(모탈컴뱃식 디지타이징). 크로마키 처리·키프레임 선별·워크사이클 감지·아틀라스 패킹을 자동화, MiniMax H3·Nano Banana 활용
+- **[ant-research/4DAnyone](https://github.com/ant-research/4DAnyone)** — 인물이 담긴 단일 영상 한 개를 다시점 영상으로 변환해 4D(3D+시간) 가우시안 스플래팅 복원과 자유시점 렌더링을 가능케 하는 모델. 6~48+ 시점·360° 궤도 지원, 오픈웨이트
+- **[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** — 게이밍 PC·노트북 등 소비자 하드웨어에서 대형 오픈웨이트 MoE 모델을 돌리는 엣지 네이티브 서빙 엔진. 대역폭 적응형 CPU-GPU 협업 실행·전문가 캐싱·동적 VRAM 재할당으로 DeepSeek·Qwen·GLM 등 구동 (GUI·CLI)
+- **[OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1)** — 센스타임 계열이 공개한 통합 멀티모달 모델. 이해와 생성을 별도 인코더/VAE 없이 한 아키텍처(NEO-unify)로 통합해 텍스트→이미지·이미지 편집·이미지-텍스트 교차 생성·VQA를 수행 (8B/A3B, 오픈웨이트)
+- **[yunpeng1998/Qwen-Video-Edit](https://github.com/yunpeng1998/Qwen-Video-Edit)** — Qwen-Image-Edit의 DiT를 Wan 2.1 영상 VAE에 연결해 지시(instruction) 기반으로 영상을 편집하는 모델. 청크 단위 롱비디오 편집, 360/480/720P 체크포인트, ComfyUI 노드 제공, 오픈웨이트
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -410,6 +415,7 @@ _읽어볼만한 글과 자료_
 - **[nx006-python3-alpine](https://nx006.tistory.com/70)** — Python에서 Alpine 이미지를 사용하면 안 되는 이유
 - **[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)** — 엣지 장치에서 클라우드 배포에 이르기까지 실제 AI 시스템을 구축하는 방법을 가르치는 오픈 소스 교과서
 - **[2026 Korean CSAT Leaderboard](https://isoft.cnu.ac.kr/csat2026/)** — 2026 한국대학 학업능력 수학시험 LLM 평가 리더보드
+- **[Claude Academy](https://academy.claude.com/)** — Anthropic이 운영하는 학습 플랫폼. Claude 제품 사용법 교육과 'AI Fluency'(4D 프레임워크 등) AI 기초 강의를 무료로 제공
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
