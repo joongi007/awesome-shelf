@@ -2870,6 +2870,15 @@
             "llm",
             "korean"
           ]
+        },
+        {
+          "name": "Claude Academy",
+          "url": "https://academy.claude.com/",
+          "desc": "Anthropic이 운영하는 학습 플랫폼. Claude 제품 사용법 교육과 'AI Fluency'(4D 프레임워크 등) AI 기초 강의를 무료로 제공",
+          "tags": [
+            "tutorial",
+            "claude"
+          ]
         }
       ]
     },
