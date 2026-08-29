@@ -2434,6 +2434,16 @@
             "3d",
             "open-weight"
           ]
+        },
+        {
+          "name": "FlashML-org/FreeToken",
+          "url": "https://github.com/FlashML-org/FreeToken",
+          "desc": "게이밍 PC·노트북 등 소비자 하드웨어에서 대형 오픈웨이트 MoE 모델을 돌리는 엣지 네이티브 서빙 엔진. 대역폭 적응형 CPU-GPU 협업 실행·전문가 캐싱·동적 VRAM 재할당으로 DeepSeek·Qwen·GLM 등 구동 (GUI·CLI)",
+          "tags": [
+            "llm",
+            "inference",
+            "self-hosted"
+          ]
         }
       ]
     },
