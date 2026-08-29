@@ -2424,6 +2424,16 @@
             "agent",
             "game"
           ]
+        },
+        {
+          "name": "ant-research/4DAnyone",
+          "url": "https://github.com/ant-research/4DAnyone",
+          "desc": "인물이 담긴 단일 영상 한 개를 다시점 영상으로 변환해 4D(3D+시간) 가우시안 스플래팅 복원과 자유시점 렌더링을 가능케 하는 모델. 6~48+ 시점·360° 궤도 지원, 오픈웨이트",
+          "tags": [
+            "video-gen",
+            "3d",
+            "open-weight"
+          ]
         }
       ]
     },
