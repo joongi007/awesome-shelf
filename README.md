@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **354**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **356**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -13,7 +13,7 @@
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 23 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 78 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 59 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 137 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 139 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
@@ -344,6 +344,8 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** — 게이밍 PC·노트북 등 소비자 하드웨어에서 대형 오픈웨이트 MoE 모델을 돌리는 엣지 네이티브 서빙 엔진. 대역폭 적응형 CPU-GPU 협업 실행·전문가 캐싱·동적 VRAM 재할당으로 DeepSeek·Qwen·GLM 등 구동 (GUI·CLI)
 - **[OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1)** — 센스타임 계열이 공개한 통합 멀티모달 모델. 이해와 생성을 별도 인코더/VAE 없이 한 아키텍처(NEO-unify)로 통합해 텍스트→이미지·이미지 편집·이미지-텍스트 교차 생성·VQA를 수행 (8B/A3B, 오픈웨이트)
 - **[yunpeng1998/Qwen-Video-Edit](https://github.com/yunpeng1998/Qwen-Video-Edit)** — Qwen-Image-Edit의 DiT를 Wan 2.1 영상 VAE에 연결해 지시(instruction) 기반으로 영상을 편집하는 모델. 청크 단위 롱비디오 편집, 360/480/720P 체크포인트, ComfyUI 노드 제공, 오픈웨이트
+- **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** — 완전 로컬로 돌아가는 오픈소스 음성 스튜디오(ElevenLabs 대체). 보이스 클로닝·음성 디자인·영상 더빙·전사·오디오북 제작을 지원하며 TTS 16종·ASR 11종·646개 언어를 아우름 (Tauri·크로스플랫폼)
+- **[xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem)** — 실시간 음성 에이전트를 위한 감정 인식 메모리 인프라. 사실(좌뇌)과 감정·성격(우뇌)을 나눠 저장하는 스트리밍 듀얼 브레인 구조로, 말하는 동안 메모리를 추출하며 Mem0보다 높은 정확도·낮은 토큰으로 검색
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
