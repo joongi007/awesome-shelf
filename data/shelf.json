@@ -2474,6 +2474,16 @@
             "audio",
             "self-hosted"
           ]
+        },
+        {
+          "name": "xzf-thu/VoiceMem",
+          "url": "https://github.com/xzf-thu/VoiceMem",
+          "desc": "실시간 음성 에이전트를 위한 감정 인식 메모리 인프라. 사실(좌뇌)과 감정·성격(우뇌)을 나눠 저장하는 스트리밍 듀얼 브레인 구조로, 말하는 동안 메모리를 추출하며 Mem0보다 높은 정확도·낮은 토큰으로 검색",
+          "tags": [
+            "agent",
+            "audio",
+            "memory"
+          ]
         }
       ]
     },
