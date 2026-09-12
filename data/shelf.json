@@ -2502,6 +2502,15 @@
             "audio",
             "memory"
           ]
+        },
+        {
+          "name": "Viggle/Viggle-Animate",
+          "url": "https://huggingface.co/Viggle/Viggle-Animate",
+          "desc": "구동 영상과 캐릭터를 덧칠한 프레임 한 장만으로 영상 속 캐릭터를 교체하는 오픈웨이트 모델. 포즈·마스크·프롬프트 없이 3번의 forward pass로 동작(MiniMax-H3 33.1B 파인튜닝+DMD 증류), 사람이 아닌 대상도 애니메이션",
+          "tags": [
+            "video-gen",
+            "open-weight"
+          ]
         }
       ]
     },
