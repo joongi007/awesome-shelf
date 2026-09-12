@@ -1289,6 +1289,15 @@
             "llm",
             "korean"
           ]
+        },
+        {
+          "name": "Lyria",
+          "url": "https://deepmind.google/models/lyria/",
+          "desc": "구글 딥마인드의 음악 생성 모델. 프롬프트로 템포·장르·보컬·악기를 지정해 최대 3분 트랙을 생성하고 이미지→음악도 지원. Flow Music 웹앱·AI Studio API·실시간판(Lyria RealTime) 등으로 제공",
+          "tags": [
+            "music",
+            "google"
+          ]
         }
       ]
     },
