@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **356**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **359**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -12,8 +12,8 @@
 | :--- | ---: |
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 23 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 78 |
-| [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 59 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 139 |
+| [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 61 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 140 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
@@ -200,6 +200,8 @@ _생성형 AI 관련 서비스 모음_
 - **[Decart](https://decart.ai/)** — 실시간 라이브 영상 변환 모델을 연이어 내놓는 AI 플랫폼. 대표 모델 Lucy 2.5는 30 FPS·1080p·40ms 미만 지연으로 라이브 스트림에 VFX 삽입·객체 제거·캐릭터 변형을 수행 (API 서비스)
 - **[Higgsfield](https://higgsfield.ai/)** — Sora·Kling·Veo·Seedance 등 여러 모델과 자체 모델을 한곳에서 쓰는 다중 모델 AI 영상·이미지 생성 플랫폼. 카메라·모션·스타일 제어, 4K 이미지·시네마틱 영상 제작
 - **[ChatMotif](https://chat.motiftech.io/)** — 한국 소버린 AI 기업 Motif Technologies가 자체 LLM(Motif 시리즈)으로 제공하는 대화형 AI 서비스. 추론·요약·번역·코드 생성과 텍스트 기반 이미지 생성 지원
+- **[Lyria](https://deepmind.google/models/lyria/)** — 구글 딥마인드의 음악 생성 모델. 프롬프트로 템포·장르·보컬·악기를 지정해 최대 3분 트랙을 생성하고 이미지→음악도 지원. Flow Music 웹앱·AI Studio API·실시간판(Lyria RealTime) 등으로 제공
+- **[MAI-Image-2.6](https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/)** — Microsoft AI의 텍스트→이미지·이미지 편집 생성 모델(확산 20B). 참조 이미지 최대 5장으로 일관성 유지, Bing 웹 그라운딩 지원. Azure Foundry에서 API로 제공(빠른 Flash 변형 포함)
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -346,6 +348,7 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[yunpeng1998/Qwen-Video-Edit](https://github.com/yunpeng1998/Qwen-Video-Edit)** — Qwen-Image-Edit의 DiT를 Wan 2.1 영상 VAE에 연결해 지시(instruction) 기반으로 영상을 편집하는 모델. 청크 단위 롱비디오 편집, 360/480/720P 체크포인트, ComfyUI 노드 제공, 오픈웨이트
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** — 완전 로컬로 돌아가는 오픈소스 음성 스튜디오(ElevenLabs 대체). 보이스 클로닝·음성 디자인·영상 더빙·전사·오디오북 제작을 지원하며 TTS 16종·ASR 11종·646개 언어를 아우름 (Tauri·크로스플랫폼)
 - **[xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem)** — 실시간 음성 에이전트를 위한 감정 인식 메모리 인프라. 사실(좌뇌)과 감정·성격(우뇌)을 나눠 저장하는 스트리밍 듀얼 브레인 구조로, 말하는 동안 메모리를 추출하며 Mem0보다 높은 정확도·낮은 토큰으로 검색
+- **[Viggle/Viggle-Animate](https://huggingface.co/Viggle/Viggle-Animate)** — 구동 영상과 캐릭터를 덧칠한 프레임 한 장만으로 영상 속 캐릭터를 교체하는 오픈웨이트 모델. 포즈·마스크·프롬프트 없이 3번의 forward pass로 동작(MiniMax-H3 33.1B 파인튜닝+DMD 증류), 사람이 아닌 대상도 애니메이션
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
