@@ -1298,6 +1298,15 @@
             "music",
             "google"
           ]
+        },
+        {
+          "name": "MAI-Image-2.6",
+          "url": "https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/",
+          "desc": "Microsoft AI의 텍스트→이미지·이미지 편집 생성 모델(확산 20B). 참조 이미지 최대 5장으로 일관성 유지, Bing 웹 그라운딩 지원. Azure Foundry에서 API로 제공(빠른 Flash 변형 포함)",
+          "tags": [
+            "image-gen",
+            "microsoft"
+          ]
         }
       ]
     },
