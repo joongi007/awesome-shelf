@@ -2540,6 +2540,16 @@
             "audio",
             "open-weight"
           ]
+        },
+        {
+          "name": "Tencent-Hunyuan/AuK",
+          "url": "https://github.com/Tencent-Hunyuan/AuK",
+          "desc": "지시 기반 TTS·음향/콘텐츠 편집·음성 향상·음원 분리 등 14가지 이상 오디오 작업을 자연어로 통합 처리하는 텐센트 훈위안의 1.5B 오디오 파운데이션 모델. 고품질 AuK와 4스텝 고속 AuK-Flash 2종, 오픈웨이트",
+          "tags": [
+            "tts",
+            "audio",
+            "open-weight"
+          ]
         }
       ]
     },
