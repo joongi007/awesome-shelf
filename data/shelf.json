@@ -2530,6 +2530,16 @@
             "genomics",
             "open-weight"
           ]
+        },
+        {
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "desc": "가사와 스타일 설명으로 보컬·반주가 어우러진 완곡을 생성하는 오픈소스 음악 모델(YuE2). 편집 가능한 멜로디·코드 스코어를 먼저 짜는 심볼릭 플래닝, 제로샷 커버, 대화형 편집을 지원하며 48kHz 스테레오 출력(영어·중국어)",
+          "tags": [
+            "music",
+            "audio",
+            "open-weight"
+          ]
         }
       ]
     },
