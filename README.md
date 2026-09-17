@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **359**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **363**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -10,10 +10,10 @@
 
 | 섹션 | 개수 |
 | :--- | ---: |
-| [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 23 |
+| [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 24 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 78 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 61 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 140 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 143 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
@@ -49,6 +49,7 @@ _다양한 Awesome 리스트 저장소 모음_
 - **[owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)** — 인공지능(AI) 강의, 도서, 비디오 강의 및 논문 엄선된 목록
 - **[AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab)** — 홈랩·홈서버를 위한 오픈소스 자체 호스팅 애플리케이션 엄선 목록 (companion 사이트 awesome-homelab.com 제공)
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — 생산성 향상을 위한 실전용 Claude Skills·플러그인 1000+종 엄선 목록 (문서처리·개발·데이터 분석·SaaS 연동 등)
+- **[cobanov/awesome-fly](https://github.com/cobanov/awesome-fly)** — 초파리(Drosophila) 커넥톰을 다루는 계산신경과학 프로젝트 엄선 목록. FlyWire·MaleCNS 데이터 기반 뇌 시뮬레이션·임베디드 AI 실험·분석 도구·논문·데이터셋 모음
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -349,6 +350,9 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** — 완전 로컬로 돌아가는 오픈소스 음성 스튜디오(ElevenLabs 대체). 보이스 클로닝·음성 디자인·영상 더빙·전사·오디오북 제작을 지원하며 TTS 16종·ASR 11종·646개 언어를 아우름 (Tauri·크로스플랫폼)
 - **[xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem)** — 실시간 음성 에이전트를 위한 감정 인식 메모리 인프라. 사실(좌뇌)과 감정·성격(우뇌)을 나눠 저장하는 스트리밍 듀얼 브레인 구조로, 말하는 동안 메모리를 추출하며 Mem0보다 높은 정확도·낮은 토큰으로 검색
 - **[Viggle/Viggle-Animate](https://huggingface.co/Viggle/Viggle-Animate)** — 구동 영상과 캐릭터를 덧칠한 프레임 한 장만으로 영상 속 캐릭터를 교체하는 오픈웨이트 모델. 포즈·마스크·프롬프트 없이 3번의 forward pass로 동작(MiniMax-H3 33.1B 파인튜닝+DMD 증류), 사람이 아닌 대상도 애니메이션
+- **[google-deepmind/alphagenome](https://github.com/google-deepmind/alphagenome)** — DNA 서열이 유전자 발현·스플라이싱·염색질을 어떻게 조절하고 단일염기 변이가 이를 어떻게 교란하는지 예측하는 구글 딥마인드 모델(최대 100만 염기쌍). 90억 변이 예측을 담은 AlphaGenome Atlas 공개, 모델 코드·가중치는 alphagenome_research에 제공
+- **[multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)** — 가사와 스타일 설명으로 보컬·반주가 어우러진 완곡을 생성하는 오픈소스 음악 모델(YuE2). 편집 가능한 멜로디·코드 스코어를 먼저 짜는 심볼릭 플래닝, 제로샷 커버, 대화형 편집을 지원하며 48kHz 스테레오 출력(영어·중국어)
+- **[Tencent-Hunyuan/AuK](https://github.com/Tencent-Hunyuan/AuK)** — 지시 기반 TTS·음향/콘텐츠 편집·음성 향상·음원 분리 등 14가지 이상 오디오 작업을 자연어로 통합 처리하는 텐센트 훈위안의 1.5B 오디오 파운데이션 모델. 고품질 AuK와 4스텝 고속 AuK-Flash 2종, 오픈웨이트
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
