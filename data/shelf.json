@@ -181,6 +181,15 @@
             "agent",
             "claude"
           ]
+        },
+        {
+          "name": "cobanov/awesome-fly",
+          "url": "https://github.com/cobanov/awesome-fly",
+          "desc": "초파리(Drosophila) 커넥톰을 다루는 계산신경과학 프로젝트 엄선 목록. FlyWire·MaleCNS 데이터 기반 뇌 시뮬레이션·임베디드 AI 실험·분석 도구·논문·데이터셋 모음",
+          "tags": [
+            "neuroscience",
+            "research"
+          ]
         }
       ]
     },
