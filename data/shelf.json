@@ -2520,6 +2520,16 @@
             "video-gen",
             "open-weight"
           ]
+        },
+        {
+          "name": "google-deepmind/alphagenome",
+          "url": "https://github.com/google-deepmind/alphagenome",
+          "desc": "DNA 서열이 유전자 발현·스플라이싱·염색질을 어떻게 조절하고 단일염기 변이가 이를 어떻게 교란하는지 예측하는 구글 딥마인드 모델(최대 100만 염기쌍). 90억 변이 예측을 담은 AlphaGenome Atlas 공개, 모델 코드·가중치는 alphagenome_research에 제공",
+          "tags": [
+            "google",
+            "genomics",
+            "open-weight"
+          ]
         }
       ]
     },
