@@ -2582,6 +2582,15 @@
             "agent",
             "open-weight"
           ]
+        },
+        {
+          "name": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "desc": "텍스트 기반 이미지 생성·편집을 통합한 Qwen 모델(시각 생성부 7B). 투명 배경 RGBA 생성·투명 레이어 편집·피사체 추출, 최대 10장 참조 이미지와 마스크·주석 기반 부분 편집 지원. Qwen Research 라이선스 오픈웨이트",
+          "tags": [
+            "image-gen",
+            "open-weight"
+          ]
         }
       ]
     },
