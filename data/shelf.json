@@ -2571,6 +2571,17 @@
             "automation",
             "cli"
           ]
+        },
+        {
+          "name": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
+          "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+          "desc": "샤오미의 강화학습 기반 멀티모달 MoE 모델(총 1.02T·활성 42B). 텍스트·이미지·영상·오디오와 100만 토큰 컨텍스트를 지원하며 코딩·도구 사용·장기 에이전트 작업을 통합 강화학습으로 학습, MIT 라이선스 오픈웨이트",
+          "tags": [
+            "llm",
+            "multimodal",
+            "agent",
+            "open-weight"
+          ]
         }
       ]
     },
