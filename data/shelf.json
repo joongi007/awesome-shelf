@@ -2550,6 +2550,16 @@
             "audio",
             "open-weight"
           ]
+        },
+        {
+          "name": "Tencent/BrowserSkill",
+          "url": "https://github.com/Tencent/BrowserSkill",
+          "desc": "AI 에이전트가 기존 로그인 상태의 Chrome·Edge를 제어하는 텐센트의 브라우저 자동화 도구. CLI·확장 프로그램으로 연결해 별도 에이전트 창에서 페이지 탐색·폼 입력·스크린샷·웹사이트 디버깅 지원",
+          "tags": [
+            "agent",
+            "automation",
+            "cli"
+          ]
         }
       ]
     },
