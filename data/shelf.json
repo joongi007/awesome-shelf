@@ -1316,6 +1316,17 @@
             "image-gen",
             "microsoft"
           ]
+        },
+        {
+          "name": "Fish Audio",
+          "url": "https://fish.audio/",
+          "desc": "감정·말투를 조절하는 다국어 음성 합성(TTS)·음성 복제 서비스. 한국어 지원, 음성 라이브러리·실시간 스트리밍·음성 인식(STT) API로 내레이션·오디오북·음성 에이전트 제작에 활용",
+          "tags": [
+            "tts",
+            "stt",
+            "audio",
+            "api"
+          ]
         }
       ]
     },
