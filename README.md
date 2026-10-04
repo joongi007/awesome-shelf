@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **368**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **369**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -13,7 +13,7 @@
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 24 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 78 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 62 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 147 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 148 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
@@ -358,6 +358,7 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[XiaomiMiMo/MiMo-V2.6-Pro-RL](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL)** — 샤오미의 강화학습 기반 멀티모달 MoE 모델(총 1.02T·활성 42B). 텍스트·이미지·영상·오디오와 100만 토큰 컨텍스트를 지원하며 코딩·도구 사용·장기 에이전트 작업을 통합 강화학습으로 학습, MIT 라이선스 오픈웨이트
 - **[Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)** — 텍스트 기반 이미지 생성·편집을 통합한 Qwen 모델(시각 생성부 7B). 투명 배경 RGBA 생성·투명 레이어 편집·피사체 추출, 최대 10장 참조 이미지와 마스크·주석 기반 부분 편집 지원. Qwen Research 라이선스 오픈웨이트
 - **[FLUX 3 Action](https://huggingface.co/collections/black-forest-labs/flux-3-action)** — Black Forest Labs의 7B 로봇 월드 액션 모델 컬렉션. 카메라 영상·로봇 상태·텍스트 지시로 다음 동작과 영상 프레임을 함께 예측하며, 로봇 적응용 베이스·공유 인코더·SO-101 및 DROID 제어 정책 제공. FLUX Kommunity 라이선스 오픈웨이트
+- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** — 메이퇀의 13.6B 영상 생성 모델. 텍스트→영상·이미지→영상·영상 이어 생성을 통합하며 720p·30fps 및 분 단위 장편 영상 생성 지원. 오디오 기반 단일·다중 캐릭터 애니메이션용 Avatar 모델도 제공, 오픈웨이트
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
