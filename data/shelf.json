@@ -1327,6 +1327,15 @@
             "audio",
             "api"
           ]
+        },
+        {
+          "name": "Google Playground",
+          "url": "https://labs.google/playground",
+          "desc": "텍스트 프롬프트와 채팅으로 코딩 없이 맞춤 게임을 만들고 플레이·공유하는 Google Labs의 실험적 AI 게임 제작 플랫폼. 퀴즈·타워 디펜스·레이싱 등 장르 선택 또는 처음부터 제작, 다른 사용자의 게임 탐색 지원",
+          "tags": [
+            "game",
+            "google"
+          ]
         }
       ]
     },
