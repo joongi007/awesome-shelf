@@ -2611,6 +2611,16 @@
             "audio",
             "open-weight"
           ]
+        },
+        {
+          "name": "google-deepmind/alphaprotein-novo",
+          "url": "https://github.com/google-deepmind/alphaprotein-novo",
+          "desc": "구글 딥마인드의 새로운 효소 설계를 위한 생성형 확산 파이프라인. 촉매 모티프·리간드 정보를 조건으로 단백질 구조와 서열을 함께 생성하고, LigandMPNN 서열 재설계·AlphaFold 3 구조 예측·평가를 연계. 코드 Apache-2.0, 모델 가중치는 별도 이용약관 적용",
+          "tags": [
+            "google",
+            "research",
+            "python"
+          ]
         }
       ]
     },
