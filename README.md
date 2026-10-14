@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **369**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **372**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -11,9 +11,9 @@
 | 섹션 | 개수 |
 | :--- | ---: |
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 24 |
-| [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 78 |
-| [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 62 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 148 |
+| [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 79 |
+| [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 63 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 149 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
@@ -135,6 +135,7 @@ _다양한 종류의 오픈소스 모음_
 - **[apache/ossie](https://github.com/apache/ossie)** — 분석·AI·BI 도구 간에 지표(KPI)·시맨틱 모델 정의를 일관되게 주고받기 위한 벤더 중립 표준. JSON/YAML 스펙과 dbt·GoodData 등 변환기·검증 도구 제공
 - **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** — Word·PPT·Excel·PDF·EPUB 등 오피스 문서를 깔끔한 마크다운으로 변환하는 고속 Rust 라이브러리(Firecrawl Parse 구동). 구조 보존·임베디드 자산 처리·외부 OCR 없는 PDF 지원, Node·Python·WASM 바인딩
 - **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** — 웹·데스크톱·모바일에서 돌아가는 무료 오픈소스 영상 편집기(CapCut 대체). 단일 Rust 코어 기반에 플러그인·스크립팅·AI 에이전트용 MCP 서버 지원 (현재 전면 재작성 중)
+- **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** — PhotoCraft·FilmCraft·VectorCraft 등 ArtCraft의 이미지·영상·벡터·문서·오디오 제작 앱 13종을 설치·업데이트·실행하는 공식 런처. Rust 기반 네이티브 앱으로 Windows·macOS·Linux 지원, 웹 카탈로그 제공 (앱 제품군은 초기 알파·개발 단계)
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -204,6 +205,7 @@ _생성형 AI 관련 서비스 모음_
 - **[Lyria](https://deepmind.google/models/lyria/)** — 구글 딥마인드의 음악 생성 모델. 프롬프트로 템포·장르·보컬·악기를 지정해 최대 3분 트랙을 생성하고 이미지→음악도 지원. Flow Music 웹앱·AI Studio API·실시간판(Lyria RealTime) 등으로 제공
 - **[MAI-Image-2.6](https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/)** — Microsoft AI의 텍스트→이미지·이미지 편집 생성 모델(확산 20B). 참조 이미지 최대 5장으로 일관성 유지, Bing 웹 그라운딩 지원. Azure Foundry에서 API로 제공(빠른 Flash 변형 포함)
 - **[Fish Audio](https://fish.audio/)** — 감정·말투를 조절하는 다국어 음성 합성(TTS)·음성 복제 서비스. 한국어 지원, 음성 라이브러리·실시간 스트리밍·음성 인식(STT) API로 내레이션·오디오북·음성 에이전트 제작에 활용
+- **[Google Playground](https://labs.google/playground)** — 텍스트 프롬프트와 채팅으로 코딩 없이 맞춤 게임을 만들고 플레이·공유하는 Google Labs의 실험적 AI 게임 제작 플랫폼. 퀴즈·타워 디펜스·레이싱 등 장르 선택 또는 처음부터 제작, 다른 사용자의 게임 탐색 지원
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -359,6 +361,7 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)** — 텍스트 기반 이미지 생성·편집을 통합한 Qwen 모델(시각 생성부 7B). 투명 배경 RGBA 생성·투명 레이어 편집·피사체 추출, 최대 10장 참조 이미지와 마스크·주석 기반 부분 편집 지원. Qwen Research 라이선스 오픈웨이트
 - **[FLUX 3 Action](https://huggingface.co/collections/black-forest-labs/flux-3-action)** — Black Forest Labs의 7B 로봇 월드 액션 모델 컬렉션. 카메라 영상·로봇 상태·텍스트 지시로 다음 동작과 영상 프레임을 함께 예측하며, 로봇 적응용 베이스·공유 인코더·SO-101 및 DROID 제어 정책 제공. FLUX Kommunity 라이선스 오픈웨이트
 - **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** — 메이퇀의 13.6B 영상 생성 모델. 텍스트→영상·이미지→영상·영상 이어 생성을 통합하며 720p·30fps 및 분 단위 장편 영상 생성 지원. 오디오 기반 단일·다중 캐릭터 애니메이션용 Avatar 모델도 제공, 오픈웨이트
+- **[google-deepmind/alphaprotein-novo](https://github.com/google-deepmind/alphaprotein-novo)** — 구글 딥마인드의 새로운 효소 설계를 위한 생성형 확산 파이프라인. 촉매 모티프·리간드 정보를 조건으로 단백질 구조와 서열을 함께 생성하고, LigandMPNN 서열 재설계·AlphaFold 3 구조 예측·평가를 연계. 코드 Apache-2.0, 모델 가중치는 별도 이용약관 적용
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
