@@ -808,6 +808,16 @@
             "rust",
             "mcp"
           ]
+        },
+        {
+          "name": "storytold/craft-launcher",
+          "url": "https://github.com/storytold/craft-launcher",
+          "desc": "PhotoCraft·FilmCraft·VectorCraft 등 ArtCraft의 이미지·영상·벡터·문서·오디오 제작 앱 13종을 설치·업데이트·실행하는 공식 런처. Rust 기반 네이티브 앱으로 Windows·macOS·Linux 지원, 웹 카탈로그 제공 (앱 제품군은 초기 알파·개발 단계)",
+          "tags": [
+            "rust",
+            "desktop",
+            "design"
+          ]
         }
       ]
     },
