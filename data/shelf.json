@@ -2640,6 +2640,17 @@
             "research",
             "python"
           ]
+        },
+        {
+          "name": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "desc": "구글 딥마인드의 온디바이스용 740M 멀티모달 임베딩 모델. 텍스트·코드·이미지·영상·오디오를 공통 768차원 벡터로 변환하며 100개 이상 언어·8K 컨텍스트·128~768차원 축소 지원. 검색·RAG·분류·군집화에 활용, Apache-2.0 오픈웨이트",
+          "tags": [
+            "google",
+            "multimodal",
+            "rag",
+            "open-weight"
+          ]
         }
       ]
     },
