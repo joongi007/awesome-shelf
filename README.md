@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **372**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **373**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -13,7 +13,7 @@
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 24 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 79 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 63 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 149 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 150 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
@@ -362,6 +362,7 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[FLUX 3 Action](https://huggingface.co/collections/black-forest-labs/flux-3-action)** — Black Forest Labs의 7B 로봇 월드 액션 모델 컬렉션. 카메라 영상·로봇 상태·텍스트 지시로 다음 동작과 영상 프레임을 함께 예측하며, 로봇 적응용 베이스·공유 인코더·SO-101 및 DROID 제어 정책 제공. FLUX Kommunity 라이선스 오픈웨이트
 - **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** — 메이퇀의 13.6B 영상 생성 모델. 텍스트→영상·이미지→영상·영상 이어 생성을 통합하며 720p·30fps 및 분 단위 장편 영상 생성 지원. 오디오 기반 단일·다중 캐릭터 애니메이션용 Avatar 모델도 제공, 오픈웨이트
 - **[google-deepmind/alphaprotein-novo](https://github.com/google-deepmind/alphaprotein-novo)** — 구글 딥마인드의 새로운 효소 설계를 위한 생성형 확산 파이프라인. 촉매 모티프·리간드 정보를 조건으로 단백질 구조와 서열을 함께 생성하고, LigandMPNN 서열 재설계·AlphaFold 3 구조 예측·평가를 연계. 코드 Apache-2.0, 모델 가중치는 별도 이용약관 적용
+- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** — 구글 딥마인드의 온디바이스용 740M 멀티모달 임베딩 모델. 텍스트·코드·이미지·영상·오디오를 공통 768차원 벡터로 변환하며 100개 이상 언어·8K 컨텍스트·128~768차원 축소 지원. 검색·RAG·분류·군집화에 활용, Apache-2.0 오픈웨이트
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
