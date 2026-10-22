@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **373**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **376**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -13,7 +13,7 @@
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 24 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 79 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 63 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 150 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 153 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
@@ -287,7 +287,7 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[anthropics/skills](https://github.com/anthropics/skills)** — Claude가 특수 작업의 성능을 향상시키기 위해 동적으로 로드하는 지침, 스크립트 및 리소스의 폴더에 대한 공개 저장소
 - **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** — 이미지(시각적 토큰)로 압축한 뒤 다시 텍스트로 복원하는 '컨텍스트 광학 압축'이라는 새로운 접근법을 사용하는 딥시크에서 개발한 OCR
 - **[guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)** — 워터마크 추가
-- **[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)** — SOTA Open Source TTS
+- **[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)** — Fish Audio Drama 3(총 35B·활성 3B MoE)와 S2-Pro를 제공하는 음성 합성 프로젝트. 음성 복제·자연어 연기 지시·다중 캐릭터 장편 대화 생성, 이전 생성 결과에 대한 대화형 수정·단어 단위 부분 편집 지원. Fish Audio Community 라이선스 오픈웨이트
 - **[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)** — AI Agent를 밝히는 절대적인 트레이너
 - **[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** — 100+ LLM 및 VLM의 통합된 효율적인 미세 조정
 - **[GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)** — 처음부터 빌드된 경량 vLLM 구현
@@ -363,6 +363,9 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** — 메이퇀의 13.6B 영상 생성 모델. 텍스트→영상·이미지→영상·영상 이어 생성을 통합하며 720p·30fps 및 분 단위 장편 영상 생성 지원. 오디오 기반 단일·다중 캐릭터 애니메이션용 Avatar 모델도 제공, 오픈웨이트
 - **[google-deepmind/alphaprotein-novo](https://github.com/google-deepmind/alphaprotein-novo)** — 구글 딥마인드의 새로운 효소 설계를 위한 생성형 확산 파이프라인. 촉매 모티프·리간드 정보를 조건으로 단백질 구조와 서열을 함께 생성하고, LigandMPNN 서열 재설계·AlphaFold 3 구조 예측·평가를 연계. 코드 Apache-2.0, 모델 가중치는 별도 이용약관 적용
 - **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** — 구글 딥마인드의 온디바이스용 740M 멀티모달 임베딩 모델. 텍스트·코드·이미지·영상·오디오를 공통 768차원 벡터로 변환하며 100개 이상 언어·8K 컨텍스트·128~768차원 축소 지원. 검색·RAG·분류·군집화에 활용, Apache-2.0 오픈웨이트
+- **[NVIDIA Nemotron 3.5 Super VL](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16)** — 추론·코딩·도구 사용·문서 및 영상 이해를 지원하는 NVIDIA의 비전 언어 모델(총 120B·활성 12B). Mamba-2·Transformer 하이브리드 MoE와 C-RADIO 비전 인코더 기반, 최대 100만 토큰 컨텍스트·MTP 추측 디코딩 지원. BF16 및 배포 최적화 NVFP4 가중치 제공
+- **[FLUX 3 Image Klein](https://huggingface.co/black-forest-labs/flux-3-image-klein)** — Black Forest Labs의 이미지 생성·편집 통합 모델(이미지 Transformer 5.6B, 텍스트 인코더 별도). 최대 10장 참조 이미지·바운딩 박스 기반 배치 제어·텍스트 렌더링 지원. 16스텝 증류판과 학습용 Base, BF16·FP8·NVFP4 가중치 제공. FLUX Kommunity 라이선스 오픈웨이트
+- **[OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)** — OpenMOSS의 5B DiT 기반 텍스트→이미지 모델. Base와 SFT 모델을 제공하며 자연어·태그·JSON 레이아웃으로 텍스트 위치와 객체 배치를 제어, 이미지 내 문자 렌더링·미세조정 지원. 모델 가중치와 추론 코드 Apache-2.0 공개
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
