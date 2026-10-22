@@ -2651,6 +2651,17 @@
             "rag",
             "open-weight"
           ]
+        },
+        {
+          "name": "NVIDIA Nemotron 3.5 Super VL",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16",
+          "desc": "추론·코딩·도구 사용·문서 및 영상 이해를 지원하는 NVIDIA의 비전 언어 모델(총 120B·활성 12B). Mamba-2·Transformer 하이브리드 MoE와 C-RADIO 비전 인코더 기반, 최대 100만 토큰 컨텍스트·MTP 추측 디코딩 지원. BF16 및 배포 최적화 NVFP4 가중치 제공",
+          "tags": [
+            "llm",
+            "multimodal",
+            "agent",
+            "open-weight"
+          ]
         }
       ]
     },
