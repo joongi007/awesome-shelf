@@ -1974,10 +1974,11 @@
         {
           "name": "fishaudio/fish-speech",
           "url": "https://github.com/fishaudio/fish-speech",
-          "desc": "SOTA Open Source TTS",
+          "desc": "Fish Audio Drama 3(총 35B·활성 3B MoE)와 S2-Pro를 제공하는 음성 합성 프로젝트. 음성 복제·자연어 연기 지시·다중 캐릭터 장편 대화 생성, 이전 생성 결과에 대한 대화형 수정·단어 단위 부분 편집 지원. Fish Audio Community 라이선스 오픈웨이트",
           "tags": [
             "tts",
-            "audio"
+            "audio",
+            "open-weight"
           ]
         },
         {
