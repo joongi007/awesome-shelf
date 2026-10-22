@@ -2663,6 +2663,15 @@
             "agent",
             "open-weight"
           ]
+        },
+        {
+          "name": "FLUX 3 Image Klein",
+          "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+          "desc": "Black Forest Labs의 이미지 생성·편집 통합 모델(이미지 Transformer 5.6B, 텍스트 인코더 별도). 최대 10장 참조 이미지·바운딩 박스 기반 배치 제어·텍스트 렌더링 지원. 16스텝 증류판과 학습용 Base, BF16·FP8·NVFP4 가중치 제공. FLUX Kommunity 라이선스 오픈웨이트",
+          "tags": [
+            "image-gen",
+            "open-weight"
+          ]
         }
       ]
     },
