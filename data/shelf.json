@@ -2712,6 +2712,16 @@
             "multimodal",
             "open-weight"
           ]
+        },
+        {
+          "name": "inclusionAI/Ming-3.0-tts",
+          "url": "https://github.com/inclusionAI/Ming-3.0-tts",
+          "desc": "한국어 포함 7개 언어를 지원하는 inclusionAI의 음성 합성 모델. 0.5B Dense와 Tiny MoE(총 7.9B·활성 1.3B) 제공, 음성 복제·자연어 기반 목소리 설계·감정·속도·음높이 제어 및 Tiny의 다중 화자 대화 생성 지원. MIT 라이선스 오픈웨이트",
+          "tags": [
+            "tts",
+            "audio",
+            "open-weight"
+          ]
         }
       ]
     },
