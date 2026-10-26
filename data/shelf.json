@@ -2722,6 +2722,17 @@
             "audio",
             "open-weight"
           ]
+        },
+        {
+          "name": "WeVisOne-VL",
+          "url": "https://huggingface.co/tencent/WeVisOne-VL-4B",
+          "desc": "텐센트 WeChat Vision의 Qwen3-VL 기반 통합 시각 인식 모델(2B·4B). 객체 탐지·위치 지정·개수 세기·OCR과 지시 기반 영역 분할·알파 매팅을 지원하며, 9.6M 픽셀 디코더로 마스크와 투명도를 출력. Apache-2.0 표기 오픈웨이트",
+          "tags": [
+            "vision",
+            "ocr",
+            "multimodal",
+            "open-weight"
+          ]
         }
       ]
     },
