@@ -2701,6 +2701,17 @@
             "image-gen",
             "open-weight"
           ]
+        },
+        {
+          "name": "FastH3 Omni",
+          "url": "https://huggingface.co/collections/FastVideo/fasth3-omni",
+          "desc": "MiniMax-H3 기반 8스텝 영상·오디오 생성 모델 컬렉션. 텍스트와 이미지·영상·오디오 참조로 동기화된 24fps 영상·32kHz 스테레오 오디오 생성(이미지 또는 영상 참조 필수). BF16·FP8·NVFP4 QAD·ComfyUI·MLX 변형 제공, MiniMax-H3 Community 라이선스 오픈웨이트",
+          "tags": [
+            "video-gen",
+            "audio",
+            "multimodal",
+            "open-weight"
+          ]
         }
       ]
     },
