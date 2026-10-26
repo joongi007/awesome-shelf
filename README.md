@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **376**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **381**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -11,9 +11,9 @@
 | 섹션 | 개수 |
 | :--- | ---: |
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 24 |
-| [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 79 |
+| [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 81 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 63 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 153 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 156 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
@@ -136,6 +136,8 @@ _다양한 종류의 오픈소스 모음_
 - **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** — Word·PPT·Excel·PDF·EPUB 등 오피스 문서를 깔끔한 마크다운으로 변환하는 고속 Rust 라이브러리(Firecrawl Parse 구동). 구조 보존·임베디드 자산 처리·외부 OCR 없는 PDF 지원, Node·Python·WASM 바인딩
 - **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** — 웹·데스크톱·모바일에서 돌아가는 무료 오픈소스 영상 편집기(CapCut 대체). 단일 Rust 코어 기반에 플러그인·스크립팅·AI 에이전트용 MCP 서버 지원 (현재 전면 재작성 중)
 - **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** — PhotoCraft·FilmCraft·VectorCraft 등 ArtCraft의 이미지·영상·벡터·문서·오디오 제작 앱 13종을 설치·업데이트·실행하는 공식 런처. Rust 기반 네이티브 앱으로 Windows·macOS·Linux 지원, 웹 카탈로그 제공 (앱 제품군은 초기 알파·개발 단계)
+- **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** — NVIDIA GeForce RTX 30 시리즈의 FP16·BF16 명령 발행률 제한을 해제하는 Linux 커널 모듈. NVIDIA 드라이버 로드 전에 적용해 드라이버 직접 패치 없이 행렬 연산·LLM 프리필·확산 모델 추론을 가속하며, 효과는 GPU·전력 제한·작업에 따라 다름
+- **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** — Zagitta/gpu-unlock에 RTX 4090 및 일부 Ada GPU 지원을 추가한 Linux 커널 모듈 포크. FP32 누산을 사용하는 FP16·BF16 텐서 연산 제한을 해제하며 RTX 4070 Ti SUPER 등은 실험적 지원. 기존 Ampere 대상도 유지하나 카드별 검증 수준·실제 작업 성능 향상은 다름
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -366,6 +368,9 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[NVIDIA Nemotron 3.5 Super VL](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16)** — 추론·코딩·도구 사용·문서 및 영상 이해를 지원하는 NVIDIA의 비전 언어 모델(총 120B·활성 12B). Mamba-2·Transformer 하이브리드 MoE와 C-RADIO 비전 인코더 기반, 최대 100만 토큰 컨텍스트·MTP 추측 디코딩 지원. BF16 및 배포 최적화 NVFP4 가중치 제공
 - **[FLUX 3 Image Klein](https://huggingface.co/black-forest-labs/flux-3-image-klein)** — Black Forest Labs의 이미지 생성·편집 통합 모델(이미지 Transformer 5.6B, 텍스트 인코더 별도). 최대 10장 참조 이미지·바운딩 박스 기반 배치 제어·텍스트 렌더링 지원. 16스텝 증류판과 학습용 Base, BF16·FP8·NVFP4 가중치 제공. FLUX Kommunity 라이선스 오픈웨이트
 - **[OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)** — OpenMOSS의 5B DiT 기반 텍스트→이미지 모델. Base와 SFT 모델을 제공하며 자연어·태그·JSON 레이아웃으로 텍스트 위치와 객체 배치를 제어, 이미지 내 문자 렌더링·미세조정 지원. 모델 가중치와 추론 코드 Apache-2.0 공개
+- **[FastH3 Omni](https://huggingface.co/collections/FastVideo/fasth3-omni)** — MiniMax-H3 기반 8스텝 영상·오디오 생성 모델 컬렉션. 텍스트와 이미지·영상·오디오 참조로 동기화된 24fps 영상·32kHz 스테레오 오디오 생성(이미지 또는 영상 참조 필수). BF16·FP8·NVFP4 QAD·ComfyUI·MLX 변형 제공, MiniMax-H3 Community 라이선스 오픈웨이트
+- **[inclusionAI/Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts)** — 한국어 포함 7개 언어를 지원하는 inclusionAI의 음성 합성 모델. 0.5B Dense와 Tiny MoE(총 7.9B·활성 1.3B) 제공, 음성 복제·자연어 기반 목소리 설계·감정·속도·음높이 제어 및 Tiny의 다중 화자 대화 생성 지원. MIT 라이선스 오픈웨이트
+- **[WeVisOne-VL](https://huggingface.co/tencent/WeVisOne-VL-4B)** — 텐센트 WeChat Vision의 Qwen3-VL 기반 통합 시각 인식 모델(2B·4B). 객체 탐지·위치 지정·개수 세기·OCR과 지시 기반 영역 분할·알파 매팅을 지원하며, 9.6M 픽셀 디코더로 마스크와 투명도를 출력. Apache-2.0 표기 오픈웨이트
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
