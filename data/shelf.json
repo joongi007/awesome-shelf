@@ -818,6 +818,26 @@
             "desktop",
             "design"
           ]
+        },
+        {
+          "name": "Zagitta/gpu-unlock",
+          "url": "https://github.com/Zagitta/gpu-unlock",
+          "desc": "NVIDIA GeForce RTX 30 시리즈의 FP16·BF16 명령 발행률 제한을 해제하는 Linux 커널 모듈. NVIDIA 드라이버 로드 전에 적용해 드라이버 직접 패치 없이 행렬 연산·LLM 프리필·확산 모델 추론을 가속하며, 효과는 GPU·전력 제한·작업에 따라 다름",
+          "tags": [
+            "inference",
+            "linux",
+            "gpu"
+          ]
+        },
+        {
+          "name": "JustAResearcher/gpu-unlock-ada",
+          "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+          "desc": "Zagitta/gpu-unlock에 RTX 4090 및 일부 Ada GPU 지원을 추가한 Linux 커널 모듈 포크. FP32 누산을 사용하는 FP16·BF16 텐서 연산 제한을 해제하며 RTX 4070 Ti SUPER 등은 실험적 지원. 기존 Ampere 대상도 유지하나 카드별 검증 수준·실제 작업 성능 향상은 다름",
+          "tags": [
+            "inference",
+            "linux",
+            "gpu"
+          ]
         }
       ]
     },
