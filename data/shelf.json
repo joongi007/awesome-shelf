@@ -2733,6 +2733,16 @@
             "multimodal",
             "open-weight"
           ]
+        },
+        {
+          "name": "lightningpixel/modly",
+          "url": "https://github.com/lightningpixel/modly",
+          "desc": "로컬 GPU에서 이미지·프롬프트로 3D 모델을 생성하는 데스크톱 앱. Hunyuan3D·TripoSG·Trellis2 등 모델 확장, 노드 기반 워크플로·메시 최적화·OrcaSlicer 연계 지원. Windows·Linux·Apple Silicon macOS용, 베타 개발 중",
+          "tags": [
+            "3d",
+            "desktop",
+            "self-hosted"
+          ]
         }
       ]
     },
