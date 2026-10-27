@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **381**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **382**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -13,7 +13,7 @@
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 24 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 81 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 63 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 156 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 157 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
@@ -371,6 +371,7 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[FastH3 Omni](https://huggingface.co/collections/FastVideo/fasth3-omni)** — MiniMax-H3 기반 8스텝 영상·오디오 생성 모델 컬렉션. 텍스트와 이미지·영상·오디오 참조로 동기화된 24fps 영상·32kHz 스테레오 오디오 생성(이미지 또는 영상 참조 필수). BF16·FP8·NVFP4 QAD·ComfyUI·MLX 변형 제공, MiniMax-H3 Community 라이선스 오픈웨이트
 - **[inclusionAI/Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts)** — 한국어 포함 7개 언어를 지원하는 inclusionAI의 음성 합성 모델. 0.5B Dense와 Tiny MoE(총 7.9B·활성 1.3B) 제공, 음성 복제·자연어 기반 목소리 설계·감정·속도·음높이 제어 및 Tiny의 다중 화자 대화 생성 지원. MIT 라이선스 오픈웨이트
 - **[WeVisOne-VL](https://huggingface.co/tencent/WeVisOne-VL-4B)** — 텐센트 WeChat Vision의 Qwen3-VL 기반 통합 시각 인식 모델(2B·4B). 객체 탐지·위치 지정·개수 세기·OCR과 지시 기반 영역 분할·알파 매팅을 지원하며, 9.6M 픽셀 디코더로 마스크와 투명도를 출력. Apache-2.0 표기 오픈웨이트
+- **[lightningpixel/modly](https://github.com/lightningpixel/modly)** — 로컬 GPU에서 이미지·프롬프트로 3D 모델을 생성하는 데스크톱 앱. Hunyuan3D·TripoSG·Trellis2 등 모델 확장, 노드 기반 워크플로·메시 최적화·OrcaSlicer 연계 지원. Windows·Linux·Apple Silicon macOS용, 베타 개발 중
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
