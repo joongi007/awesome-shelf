@@ -2743,6 +2743,16 @@
             "desktop",
             "self-hosted"
           ]
+        },
+        {
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "desc": "Claude Code·Codex·Cursor·OpenCode용 웹 디자인 에이전트 스킬. 50종 테마와 맞춤 디자인, 기존 페이지 리디자인·감사를 제공하며 브라우저 기반 검사로 획일적인 AI 디자인 패턴·접근성·반응형 문제를 점검. MIT 라이선스",
+          "tags": [
+            "agent",
+            "design",
+            "web"
+          ]
         }
       ]
     },
