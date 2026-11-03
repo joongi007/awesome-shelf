@@ -2806,6 +2806,16 @@
             "automation",
             "cli"
           ]
+        },
+        {
+          "name": "NVIDIA SimReady Central",
+          "url": "https://huggingface.co/spaces/nvidia/simready-central",
+          "desc": "로보틱스·Physical AI·디지털 트윈용 시뮬레이션 준비 OpenUSD 3D 에셋 검색 허브. 자연어 기반 의미 검색·RTX 시뮬레이션 미리보기 제공. NVIDIA simready-assets는 CC-BY-4.0, 외부 제공자 에셋은 비상업용을 포함한 개별 라이선스 적용",
+          "tags": [
+            "3d",
+            "robotics",
+            "dataset"
+          ]
         }
       ]
     },
