@@ -2784,6 +2784,17 @@
             "robotics",
             "open-weight"
           ]
+        },
+        {
+          "name": "Liquid AI LFM3",
+          "url": "https://huggingface.co/collections/LiquidAI/lfm3",
+          "desc": "Liquid AI의 온디바이스·특화 작업용 1.7~2B급 오픈웨이트 모델군. 텍스트 LFM3-1.7B·비전 VL-2B·음성 Audio-2B·Omni-2B와 의사결정용 d1-2B·d1-Omni-2B 포함. 텍스트 모델 256K 컨텍스트, GGUF·ONNX·MLX 배포 제공. LFM Open License v1.0(매출 규모에 따른 상업 이용 제한)",
+          "tags": [
+            "llm",
+            "multimodal",
+            "audio",
+            "open-weight"
+          ]
         }
       ]
     },
