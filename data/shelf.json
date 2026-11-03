@@ -2762,6 +2762,17 @@
             "audio",
             "open-weight"
           ]
+        },
+        {
+          "name": "NVIDIA Nemotron 3.5 Transcribe",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "desc": "NVIDIA의 다국어 음성 전사·이해 모델(오디오 인코더 포함 총 34B·활성 4.3B MoE). 40개 언어·최대 1시간 녹음·64K 컨텍스트, 화자별 전사·단어 타임스탬프·음성 번역·오디오 질의응답 지원. BF16·FP8·NVFP4 제공, OpenMDW-1.1 오픈웨이트",
+          "tags": [
+            "stt",
+            "audio",
+            "llm",
+            "open-weight"
+          ]
         }
       ]
     },
