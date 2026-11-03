@@ -2773,6 +2773,17 @@
             "llm",
             "open-weight"
           ]
+        },
+        {
+          "name": "NVlabs/motionbricks",
+          "url": "https://github.com/NVlabs/motionbricks",
+          "desc": "NVIDIA의 캐릭터·로봇 실시간 모션 생성 프레임워크. 최근 포즈와 목표 포즈 사이 동작을 생성하고 Smart Primitives로 이동·장애물 넘기·앉기 등을 조합. SOMA 인간·Unitree G1 모델, ONNX·Python 런타임·데모·편집기 제공. 코드 Apache-2.0, 가중치 NVIDIA Open Model Agreement, 샘플 모션은 NVIDIA 기술 평가·테스트용 별도 라이선스",
+          "tags": [
+            "3d",
+            "animation",
+            "robotics",
+            "open-weight"
+          ]
         }
       ]
     },
