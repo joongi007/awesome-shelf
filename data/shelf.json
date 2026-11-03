@@ -2753,6 +2753,15 @@
             "design",
             "web"
           ]
+        },
+        {
+          "name": "NVIDIA NemotronLabs RE-USE",
+          "url": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE",
+          "desc": "NVIDIA의 9.6M 다국어 음성 향상·복원 모델. 8~48kHz 모노 음성의 잡음·잔향·클리핑·대역폭 제한·코덱 왜곡·패킷 손실을 보정하며 발화 내용과 화자 특성 보존을 지향. 웃음 보존 특화 변형도 제공, OpenMDW-1.1 라이선스 오픈웨이트",
+          "tags": [
+            "audio",
+            "open-weight"
+          ]
         }
       ]
     },
