@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **382**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **389**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -13,7 +13,7 @@
 | [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 24 |
 | [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 81 |
 | [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 63 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 157 |
+| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 164 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 9 |
 | [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
@@ -372,6 +372,13 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[inclusionAI/Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts)** — 한국어 포함 7개 언어를 지원하는 inclusionAI의 음성 합성 모델. 0.5B Dense와 Tiny MoE(총 7.9B·활성 1.3B) 제공, 음성 복제·자연어 기반 목소리 설계·감정·속도·음높이 제어 및 Tiny의 다중 화자 대화 생성 지원. MIT 라이선스 오픈웨이트
 - **[WeVisOne-VL](https://huggingface.co/tencent/WeVisOne-VL-4B)** — 텐센트 WeChat Vision의 Qwen3-VL 기반 통합 시각 인식 모델(2B·4B). 객체 탐지·위치 지정·개수 세기·OCR과 지시 기반 영역 분할·알파 매팅을 지원하며, 9.6M 픽셀 디코더로 마스크와 투명도를 출력. Apache-2.0 표기 오픈웨이트
 - **[lightningpixel/modly](https://github.com/lightningpixel/modly)** — 로컬 GPU에서 이미지·프롬프트로 3D 모델을 생성하는 데스크톱 앱. Hunyuan3D·TripoSG·Trellis2 등 모델 확장, 노드 기반 워크플로·메시 최적화·OrcaSlicer 연계 지원. Windows·Linux·Apple Silicon macOS용, 베타 개발 중
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Claude Code·Codex·Cursor·OpenCode용 웹 디자인 에이전트 스킬. 50종 테마와 맞춤 디자인, 기존 페이지 리디자인·감사를 제공하며 브라우저 기반 검사로 획일적인 AI 디자인 패턴·접근성·반응형 문제를 점검. MIT 라이선스
+- **[NVIDIA NemotronLabs RE-USE](https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE)** — NVIDIA의 9.6M 다국어 음성 향상·복원 모델. 8~48kHz 모노 음성의 잡음·잔향·클리핑·대역폭 제한·코덱 왜곡·패킷 손실을 보정하며 발화 내용과 화자 특성 보존을 지향. 웃음 보존 특화 변형도 제공, OpenMDW-1.1 라이선스 오픈웨이트
+- **[NVIDIA Nemotron 3.5 Transcribe](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** — NVIDIA의 다국어 음성 전사·이해 모델(오디오 인코더 포함 총 34B·활성 4.3B MoE). 40개 언어·최대 1시간 녹음·64K 컨텍스트, 화자별 전사·단어 타임스탬프·음성 번역·오디오 질의응답 지원. BF16·FP8·NVFP4 제공, OpenMDW-1.1 오픈웨이트
+- **[NVlabs/motionbricks](https://github.com/NVlabs/motionbricks)** — NVIDIA의 캐릭터·로봇 실시간 모션 생성 프레임워크. 최근 포즈와 목표 포즈 사이 동작을 생성하고 Smart Primitives로 이동·장애물 넘기·앉기 등을 조합. SOMA 인간·Unitree G1 모델, ONNX·Python 런타임·데모·편집기 제공. 코드 Apache-2.0, 가중치 NVIDIA Open Model Agreement, 샘플 모션은 NVIDIA 기술 평가·테스트용 별도 라이선스
+- **[Liquid AI LFM3](https://huggingface.co/collections/LiquidAI/lfm3)** — Liquid AI의 온디바이스·특화 작업용 1.7~2B급 오픈웨이트 모델군. 텍스트 LFM3-1.7B·비전 VL-2B·음성 Audio-2B·Omni-2B와 의사결정용 d1-2B·d1-Omni-2B 포함. 텍스트 모델 256K 컨텍스트, GGUF·ONNX·MLX 배포 제공. LFM Open License v1.0(매출 규모에 따른 상업 이용 제한)
+- **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** — AI 에이전트용 데스크톱 자동화 CLI·C 라이브러리. OS 접근성 트리를 JSON 스냅샷으로 읽고 요소 참조로 클릭·입력·스크롤·창 관리 등을 수행. macOS·Windows·Linux 지원(플랫폼별 기능 차이), 에이전트 스킬 제공. Apache-2.0 라이선스
+- **[NVIDIA SimReady Central](https://huggingface.co/spaces/nvidia/simready-central)** — 로보틱스·Physical AI·디지털 트윈용 시뮬레이션 준비 OpenUSD 3D 에셋 검색 허브. 자연어 기반 의미 검색·RTX 시뮬레이션 미리보기 제공. NVIDIA simready-assets는 CC-BY-4.0, 외부 제공자 에셋은 비상업용을 포함한 개별 라이선스 적용
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
