@@ -2795,6 +2795,17 @@
             "audio",
             "open-weight"
           ]
+        },
+        {
+          "name": "vercel-labs/agent-desktop",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "desc": "AI 에이전트용 데스크톱 자동화 CLI·C 라이브러리. OS 접근성 트리를 JSON 스냅샷으로 읽고 요소 참조로 클릭·입력·스크롤·창 관리 등을 수행. macOS·Windows·Linux 지원(플랫폼별 기능 차이), 에이전트 스킬 제공. Apache-2.0 라이선스",
+          "tags": [
+            "agent",
+            "desktop",
+            "automation",
+            "cli"
+          ]
         }
       ]
     },
