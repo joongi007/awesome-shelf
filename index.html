@@ -184,7 +184,8 @@
   .card .desc { font-size: 13px; color: var(--text-dim); margin: 0; line-height: 1.5;
     display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
   .card .tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: auto; padding-top: 3px; }
-  .card .tags .chip { padding: 2px 9px; font-size: 11.5px; background: transparent; }
+  .card .tags .chip { padding: 2px 9px; font-size: 11.5px; }
+  .card .tags .chip:not(.active) { background: transparent; }
 
   /* ── Archive ───────────────────────────────────────────────── */
   .archive { margin: 8px 0 30px; border: 1px dashed var(--border-strong); border-radius: var(--r-lg); background: var(--surface); }
