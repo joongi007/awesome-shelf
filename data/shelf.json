@@ -3015,6 +3015,16 @@
           "tags": [
             "security"
           ]
+        },
+        {
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "desc": "Cloudflare의 코딩 에이전트용 다단계 보안 감사 스킬. 코드 구조·신뢰 경계 분석, 커버리지 기반 취약점 탐색, 독립 에이전트의 검증을 거쳐 JSON 결과·Markdown 보고서 생성. 도구 사용·병렬 서브에이전트 지원 모델과 Node.js 필요. MIT 라이선스",
+          "tags": [
+            "security",
+            "agent",
+            "automation"
+          ]
         }
       ]
     },
