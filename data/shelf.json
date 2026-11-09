@@ -906,6 +906,18 @@
           "tags": [
             "vision"
           ]
+        },
+        {
+          "name": "tailscale/tailscale",
+          "url": "https://github.com/tailscale/tailscale",
+          "desc": "WireGuard 기반 메시 VPN으로 개인 기기·홈서버·클라우드 서버를 암호화된 사설 네트워크로 연결하는 도구. 접근 제어·SSO·출구 노드 지원. 핵심 데몬·CLI는 BSD-3-Clause 오픈소스이며, 공식 관리 서버와 일부 플랫폼 GUI는 비공개",
+          "tags": [
+            "networking",
+            "vpn",
+            "security",
+            "homelab",
+            "cli"
+          ]
         }
       ]
     },
