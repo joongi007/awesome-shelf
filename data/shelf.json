@@ -2875,6 +2875,17 @@
             "game",
             "web"
           ]
+        },
+        {
+          "name": "wheresryan22/anatomy",
+          "url": "https://github.com/wheresryan22/anatomy",
+          "desc": "기계·복잡한 시스템·기술 개념을 인터랙티브 아이소메트릭 도해로 설명하는 AI 에이전트 스킬. SVG 부품·분해도·동작 시각화에 WebGL 효과와 베타 3D 모드를 결합하며, 독립 HTML·SVG·React/Next.js 컴포넌트로 출력. MIT 라이선스",
+          "tags": [
+            "agent",
+            "design",
+            "3d",
+            "web"
+          ]
         }
       ]
     },
