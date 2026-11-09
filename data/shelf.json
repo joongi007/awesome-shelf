@@ -2853,6 +2853,17 @@
             "animation",
             "game"
           ]
+        },
+        {
+          "name": "achimala/dream-loop",
+          "url": "https://github.com/achimala/dream-loop",
+          "desc": "이미지 생성으로 목표 화면을 만들고 게임·앱·3D 장면 구현과 시각적 평가를 반복하는 AI 에이전트 스킬. 별도 평가 에이전트가 실제 화면과 목표 이미지를 비교해 개선 방향을 제시하며, 맞춤 3D 모델링에 Blender MCP·스크립트 연동 활용. 이미지 생성·시각 입력 필요, MIT 라이선스",
+          "tags": [
+            "agent",
+            "3d",
+            "design",
+            "game"
+          ]
         }
       ]
     },
