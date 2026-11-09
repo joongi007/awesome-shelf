@@ -2779,6 +2779,17 @@
             "video",
             "cli"
           ]
+        },
+        {
+          "name": "remotion-dev/skills",
+          "url": "https://github.com/remotion-dev/skills",
+          "desc": "Remotion 공식 AI 에이전트 스킬 모음. Claude Code·Codex·Kimi Code·Cursor 등에서 React 기반 영상 프로젝트 생성, 애니메이션·레이아웃·오디오·자막 작성, Studio 미리보기·렌더링·문서 검색을 지원",
+          "tags": [
+            "agent",
+            "video",
+            "animation",
+            "react"
+          ]
         }
       ]
     },
