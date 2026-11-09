@@ -2757,6 +2757,16 @@
             "design",
             "web"
           ]
+        },
+        {
+          "name": "JuneYaooo/rea-video",
+          "url": "https://github.com/JuneYaooo/rea-video",
+          "desc": "AI 에이전트용 영상 분석 CLI·스킬. 영상을 샷 단위로 나눠 실사·AI 생성·3D·코드 기반 제작 여부를 추정하고, 카메라·조명·자막·편집·오디오 분석과 재제작 계획을 HTML 보고서로 제공. 영상 모델 연동 지원, Python·ffmpeg 필요. Apache-2.0 라이선스",
+          "tags": [
+            "agent",
+            "video",
+            "cli"
+          ]
         }
       ]
     },
