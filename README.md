@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **405**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **406**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -11,7 +11,7 @@
 | 섹션 | 개수 |
 | :--- | ---: |
 | [📦 Awesome 리스트](#-awesome-리스트) | 25 |
-| [🛠️ 오픈소스 도구](#️-오픈소스-도구) | 82 |
+| [🛠️ 오픈소스 도구](#️-오픈소스-도구) | 83 |
 | [🤖 AI 서비스](#-ai-서비스) | 62 |
 | [🧠 AI 모델](#-ai-모델) | 83 |
 | [🛠️ AI 도구·개발](#️-ai-도구개발) | 43 |
@@ -142,6 +142,7 @@ _개발·생산성·미디어 작업 등에 활용하는 범용 오픈소스 도
 - **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** — NVIDIA GeForce RTX 30 시리즈의 FP16·BF16 명령 발행률 제한을 해제하는 Linux 커널 모듈. NVIDIA 드라이버 로드 전에 적용해 드라이버 직접 패치 없이 행렬 연산·LLM 프리필·확산 모델 추론을 가속하며, 효과는 GPU·전력 제한·작업에 따라 다름
 - **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** — Zagitta/gpu-unlock에 RTX 4090 및 일부 Ada GPU 지원을 추가한 Linux 커널 모듈 포크. FP32 누산을 사용하는 FP16·BF16 텐서 연산 제한을 해제하며 RTX 4070 Ti SUPER 등은 실험적 지원. 기존 Ampere 대상도 유지하나 카드별 검증 수준·실제 작업 성능 향상은 다름
 - **[guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)** — 이미지에 워터마크를 추가하는 도구
+- **[tailscale/tailscale](https://github.com/tailscale/tailscale)** — WireGuard 기반 메시 VPN으로 개인 기기·홈서버·클라우드 서버를 암호화된 사설 네트워크로 연결하는 도구. 접근 제어·SSO·출구 노드 지원. 핵심 데몬·CLI는 BSD-3-Clause 오픈소스이며, 공식 관리 서버와 일부 플랫폼 GUI는 비공개
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
