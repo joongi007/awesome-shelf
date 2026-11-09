@@ -2831,6 +2831,16 @@
             "animation",
             "design"
           ]
+        },
+        {
+          "name": "ahujasid/mcp-for-blender",
+          "url": "https://github.com/ahujasid/mcp-for-blender",
+          "desc": "AI 에이전트가 MCP로 Blender를 제어하는 커뮤니티 플러그인(구 blender-mcp). 자연어 기반 3D 오브젝트·장면 생성 및 수정, 재질 제어, Blender Python 실행과 렌더링 기반 결과 확인 지원. 외부 에셋·3D 생성 서비스 연동, Blender 비공식 프로젝트. MIT 라이선스",
+          "tags": [
+            "agent",
+            "mcp",
+            "3d"
+          ]
         }
       ]
     },
