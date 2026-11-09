@@ -2820,6 +2820,17 @@
             "video",
             "animation"
           ]
+        },
+        {
+          "name": "Tejashmakwana/motionmaxxing",
+          "url": "https://github.com/Tejashmakwana/motionmaxxing",
+          "desc": "브랜드·제품 홍보 영상과 키네틱 타이포그래피를 만드는 AI 에이전트 스킬. 웹사이트에서 브랜드 특징을 추출하고 모션 사례 기반 타이밍·이징을 적용해 HTML 영상을 로컬 렌더링. 스크립트로 반복적인 레이아웃·정지 프레임 등을 점검. 초기 공개 단계, Apache-2.0 라이선스",
+          "tags": [
+            "agent",
+            "video",
+            "animation",
+            "design"
+          ]
         }
       ]
     },
