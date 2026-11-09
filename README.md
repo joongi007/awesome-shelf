@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **389**개 항목 &nbsp;·&nbsp; 🗂️ **8**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **388**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -10,19 +10,21 @@
 
 | 섹션 | 개수 |
 | :--- | ---: |
-| [📦 Awesome 리스트 저장소](#-awesome-리스트-저장소) | 24 |
-| [🛠️ 좋아 보이는 오픈소스](#️-좋아-보이는-오픈소스) | 81 |
-| [🤖 좋아 보이는 AI 서비스](#-좋아-보이는-ai-서비스) | 63 |
-| [🧠 좋아 보이는 AI 관련 프로젝트 또는 모델](#-좋아-보이는-ai-관련-프로젝트-또는-모델) | 164 |
+| [📦 Awesome 리스트](#-awesome-리스트) | 25 |
+| [🛠️ 오픈소스 도구](#️-오픈소스-도구) | 82 |
+| [🤖 AI 서비스](#-ai-서비스) | 62 |
+| [🧠 AI 모델](#-ai-모델) | 81 |
+| [🛠️ AI 도구·개발](#️-ai-도구개발) | 41 |
+| [🤖 에이전트·스킬](#-에이전트스킬) | 32 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
-| [🚨 보안](#-보안) | 9 |
-| [📖 기사, 블로그 또는 자료](#-기사-블로그-또는-자료) | 31 |
-| [🧩 이 외의 것](#-이-외의-것) | 6 |
+| [🚨 보안](#-보안) | 14 |
+| [📖 기사·자료](#-기사자료) | 34 |
+| [🧩 기타](#-기타) | 6 |
 | [🗄️ 보관함](#️-보관함) | 2 |
 
 ---
 
-## 📦 Awesome 리스트 저장소
+## 📦 Awesome 리스트
 
 _다양한 Awesome 리스트 저장소 모음_
 
@@ -50,12 +52,13 @@ _다양한 Awesome 리스트 저장소 모음_
 - **[AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab)** — 홈랩·홈서버를 위한 오픈소스 자체 호스팅 애플리케이션 엄선 목록 (companion 사이트 awesome-homelab.com 제공)
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — 생산성 향상을 위한 실전용 Claude Skills·플러그인 1000+종 엄선 목록 (문서처리·개발·데이터 분석·SaaS 연동 등)
 - **[cobanov/awesome-fly](https://github.com/cobanov/awesome-fly)** — 초파리(Drosophila) 커넥톰을 다루는 계산신경과학 프로젝트 엄선 목록. FlyWire·MaleCNS 데이터 기반 뇌 시뮬레이션·임베디드 AI 실험·분석 도구·논문·데이터셋 모음
+- **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** — 다양한 산업 분야의 AI 에이전트 사용 사례를 선별한 컬렉션
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
-## 🛠️ 좋아 보이는 오픈소스
+## 🛠️ 오픈소스 도구
 
-_다양한 종류의 오픈소스 모음_
+_개발·생산성·미디어 작업 등에 활용하는 범용 오픈소스 도구_
 
 - **[AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)** — GitHub/Gitlab 리포지토리를 위한 AI 기반 오픈소스 Wiki 생성기
 - **[unionlabs/union](https://github.com/unionlabs/union)** — 검열 저항, 매우 높은 보안 및 탈중앙화 금융을 위한 신뢰를 최소화한 zero-knowledge bridging 프로토콜
@@ -138,12 +141,13 @@ _다양한 종류의 오픈소스 모음_
 - **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** — PhotoCraft·FilmCraft·VectorCraft 등 ArtCraft의 이미지·영상·벡터·문서·오디오 제작 앱 13종을 설치·업데이트·실행하는 공식 런처. Rust 기반 네이티브 앱으로 Windows·macOS·Linux 지원, 웹 카탈로그 제공 (앱 제품군은 초기 알파·개발 단계)
 - **[Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)** — NVIDIA GeForce RTX 30 시리즈의 FP16·BF16 명령 발행률 제한을 해제하는 Linux 커널 모듈. NVIDIA 드라이버 로드 전에 적용해 드라이버 직접 패치 없이 행렬 연산·LLM 프리필·확산 모델 추론을 가속하며, 효과는 GPU·전력 제한·작업에 따라 다름
 - **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** — Zagitta/gpu-unlock에 RTX 4090 및 일부 Ada GPU 지원을 추가한 Linux 커널 모듈 포크. FP32 누산을 사용하는 FP16·BF16 텐서 연산 제한을 해제하며 RTX 4070 Ti SUPER 등은 실험적 지원. 기존 Ampere 대상도 유지하나 카드별 검증 수준·실제 작업 성능 향상은 다름
+- **[guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)** — 워터마크 추가
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
-## 🤖 좋아 보이는 AI 서비스
+## 🤖 AI 서비스
 
-_생성형 AI 관련 서비스 모음_
+_웹에서 바로 이용하는 AI 서비스와 호스팅 플랫폼_
 
 - **[ChatGPT](https://chatgpt.com)** — 오픈 AI가 개발한 대화형 인공지능 서비스
 - **[Claude](https://claude.ai)** — Anthropic에서 개발한 인공지능 서비스
@@ -174,7 +178,7 @@ _생성형 AI 관련 서비스 모음_
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** — Gemini의 기능을 터미널에 직접 가져오는 오픈 소스 AI 에이전트
 - **[Udio](https://www.udio.com/)** — 오디오 및 음악 생성 인공지능
 - **[kling AI](https://klingai.com/)** — 최첨단 생성형 AI 방법을 기반으로 상상력이 풍부한 이미지와 비디오를 만들기 위한 도구
-- **[Higgsfield](https://higgsfield.ai)** — 사진 한 장만으로 동영상을 생성해주는 인공지능 기반 플랫폼
+- **[Higgsfield](https://higgsfield.ai)** — Sora·Kling·Veo·Seedance 등 여러 모델과 자체 모델을 한곳에서 쓰는 다중 모델 AI 영상·이미지 생성 플랫폼. 카메라·모션·스타일 제어, 4K 이미지·시네마틱 영상 제작
 - **[Firebase Studio](https://firebase.studio/)** — 구글에서 만든 AI 에이전트로 전체 개발 수명 주기를 가속화하는 풀스택 AI 작업 공간
 - **[Opal](https://opal.withgoogle.com/landing/)** — 구글에서 개발한 간단한 자연어와 시각적 수정을 사용하여 프롬프트, 모델, 도구를 연결하는 강력한 AI 미니 앱 제작 도구
 - **[Hedra](https://www.hedra.com/)** — 차세대 멀티모달 콘텐츠 제작 플랫폼
@@ -202,7 +206,6 @@ _생성형 AI 관련 서비스 모음_
 - **[Meta AI](https://meta.ai/)** — 페이스북, 인스타그램, 왓츠앱 등을 운영하는 메타(Meta)에서 개발한 대화형 인공지능(AI) 어시스턴트
 - **[Sakana AI](https://sakana.ai/)** — 일본 도쿄 기반의 프론티어 AI 연구 기업으로, 자연·진화에서 영감을 받은 방식으로 특화 모델과 솔루션을 개발
 - **[Decart](https://decart.ai/)** — 실시간 라이브 영상 변환 모델을 연이어 내놓는 AI 플랫폼. 대표 모델 Lucy 2.5는 30 FPS·1080p·40ms 미만 지연으로 라이브 스트림에 VFX 삽입·객체 제거·캐릭터 변형을 수행 (API 서비스)
-- **[Higgsfield](https://higgsfield.ai/)** — Sora·Kling·Veo·Seedance 등 여러 모델과 자체 모델을 한곳에서 쓰는 다중 모델 AI 영상·이미지 생성 플랫폼. 카메라·모션·스타일 제어, 4K 이미지·시네마틱 영상 제작
 - **[ChatMotif](https://chat.motiftech.io/)** — 한국 소버린 AI 기업 Motif Technologies가 자체 LLM(Motif 시리즈)으로 제공하는 대화형 AI 서비스. 추론·요약·번역·코드 생성과 텍스트 기반 이미지 생성 지원
 - **[Lyria](https://deepmind.google/models/lyria/)** — 구글 딥마인드의 음악 생성 모델. 프롬프트로 템포·장르·보컬·악기를 지정해 최대 3분 트랙을 생성하고 이미지→음악도 지원. Flow Music 웹앱·AI Studio API·실시간판(Lyria RealTime) 등으로 제공
 - **[MAI-Image-2.6](https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/)** — Microsoft AI의 텍스트→이미지·이미지 편집 생성 모델(확산 20B). 참조 이미지 최대 5장으로 일관성 유지, Bing 웹 그라운딩 지원. Azure Foundry에서 API로 제공(빠른 Flash 변형 포함)
@@ -211,135 +214,61 @@ _생성형 AI 관련 서비스 모음_
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
-## 🧠 좋아 보이는 AI 관련 프로젝트 또는 모델
+## 🧠 AI 모델
 
-_생성형 AI 관련 오픈소스 리소스 모음_
+_언어·이미지·음성·영상·멀티모달 모델과 연구 구현. 공개 범위와 라이선스는 항목별로 확인_
 
 - **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** — 모든 영역에 걸친 게놈 모델링 및 설계
-- **[aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci)** — AI 에이전트를 멀티 테넌트 인증, 세분화된 권한 및 직접 함수 호출 또는 통합 MCP 서버를 통한 액세스를 통해 600+ 도구 통합에 연결하는 오픈 소스 플랫폼
-- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — 실시간 얼굴 스왑 및 원클릭 비디오 딥페이크
-- **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — 자연어를 사용하여 컴퓨터를 제어
-- **[google/A2A](https://github.com/google/A2A)** — 독립 AI 에이전트 간의 통신을 용이하게 하는 프로토콜
-- **[modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)** — 애플리케이션이 LLM에 컨텍스트를 제공하는 방법을 표준화하는 개방형 프로토콜
-- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — 네이티브 AI 기능을 갖춘 오픈소스 페어 코드 워크플로우 자동화 플랫폼
-- **[langgenius/dify](https://github.com/langgenius/dify)** — 오픈 소스 AI 워크플로우, RAG 파이프라인, 에이전트 등의 LLM 기능 앱 개발 플랫폼
-- **[krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)** — LLM으로 구동되는 비디오 번역 및 더빙 도구
-- **[jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)** — Whisper 모델을 사용하여 쉽게 자막을 만들 수 있는 웹 UI
-- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — 완전히 오프라인에서 작동하도록 설계된 사용자 친화적인 자체 호스팅 AI 플랫폼
-- **[vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)** — 강력한 챗봇 애플리케이션을 빠르게 빌드하는 데 도움이 되는 Next.js 및 AI SDK로 구축된 무료 오픈 소스 템플릿
 - **[FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** — 다국어 대형 음성 생성 모델로, 추론, 학습 및 배포 전체 스택 기능을 제공
-- **[Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)** — 실시간 회의 오디오를 캡처하고, 실시간으로 기록하고, 요약을 생성하는 동시에 사용자 개인 정보를 보호하는 AI 기반 회의 도우미
-- **[NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** — RAG(Retrieval-Augmented Generation) 시스템을 위한 다양한 고급 기술
-- **[lllyasviel/FramePack](https://github.com/lllyasviel/FramePack)** — ["Packing Input Frame Context in Next-Frame Prediction Models for Video Generation"](https://lllyasviel.github.io/frame_pack_gitpage/)을 위한 공식 구현 및 데스크톱 소프트웨어
-- **[funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)** — PDF 과학 논문 번역 및 이중 언어 비교 라이브러리
 - **[nari-labs/dia](https://github.com/nari-labs/dia)** — Nari Labs에서 만든 1.6B 매개 변수 텍스트 음성 변환 모델
-- **[de-pixelate_gaV-O6NPWrI](https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI)** — 픽셀화된 이미지를 자동으로 역설계
 - **[MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)** — 오디오 이해, 생성 및 대화에 탁월한 오픈 소스 오디오 파운데이션 모델
-- **[PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)** — AI 모델이 응답에 대해 재귀적으로 생각하고, 대안을 생성하고, 최상의 응답을 선택하도록 함
-- **[QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)** — Qwen>=3.0을 기반으로 구축된 에이전트 프레임워크 및 애플리케이션
-- **[simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)** — 컴퓨터를 인간처럼 사용하는 개방형 에이전트 프레임워크
-- **[GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai)** — AI 기반 쿠버네티스 어시스턴트
 - **[River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit)** — 적은 학습 데이터로 로컬에서 뛰어난 이미지 편집 가능
-- **[dabidstudio/python_deepresearch](https://github.com/dabidstudio/python_deepresearch)** — 심층 연구 에이전트의 가장 간단한 구현을 제공
-- **[RUC-NLPIR/WebThinker](https://github.com/RUC-NLPIR/WebThinker)** — 자율적으로 웹 페이지를 검색하고, 심층적으로 탐색하고, 연구 보고서 초안을 작성
-- **[awslabs/agent-squad](https://github.com/awslabs/agent-squad)** — 아마존에서 개발한 여러 AI 에이전트를 관리하고 복잡한 대화를 처리하기 위한 유연힌 프레임워크
-- **[cline/cline](https://github.com/cline/cline)** — VS code에서 바로 사용할 수 있는 자율 코딩 에이전트
-- **[Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)** — 바이두에서 개발한 과학 PDF 문서 번역 및 이중 언어 비교 도구
 - **[Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)** — 고품질 영상을 실시간으로 제작할 수 있는 최초의 DiT 기반 영상 생성 모델 공식 저장소
 - **[Peterande/D-FINE](https://github.com/Peterande/D-FINE)** — FDR 재정의와 GO-LSD를 도입하여 추가 추론 및 교육 비용 없이 뛰어난 성능을 달성하는 강력한 실시간 객체 검출기
-- **[openai/evals](https://github.com/openai/evals)** — LLM 및 LLM 시스템을 평가하기 위한 프레임워크
-- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** — LLM 친화적인 웹 크롤러 및 스크레이퍼 오프소스
-- **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** — 온디바이스 ML/GenAI 사용 사례를 선보이고 사람들이 로컬에서 모델을 시도하고 사용할 수 있는 갤러리
-- **[google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)** — Gemini 2.5 및 LangGraph를 사용하여 풀스택 에이전트 구축 시작하기
-- **[cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)** — 모든 Git 리포지토리를 LLM에 대한 프롬프트 친화적인 텍스트로 변환
 - **[OmniGen2/OmniGen2](https://huggingface.co/OmniGen2/OmniGen2)** — 시각적 이해, text to image, 인간, 참조 개체, 장면을 포함한 다양한 입력을 처리, instruction을 통한 Image Editing 모델
-- **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** — 표준화된 출력 형식의 다중 유형 데이터 레이블 지정 및 주석 도구
-- **[humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** — 신뢰할 수 있는 LLM 어플리케이션 구축을 위한 원칙
 - **[tau-yihouxiang/EX-4D](https://github.com/tau-yihouxiang/EX-4D)** — 단일 시점 비디오로부터 극한의 시점에서도 물리적으로 일관성 있는 고품질 4D 비디오를 합성하는 기술
 - **[Calligrapher2025/Calligrapher](https://github.com/Calligrapher2025/Calligrapher)** — 디지털 캘리그래피 및 디자인 응용 분야에서 정밀한 스타일 제어와 다양한 텍스트 이미지 생성
 - **[CN-makers/LongAnimation](https://github.com/CN-makers/LongAnimation)** — 단기 컬러화 방식의 한계였던 장기 색상 일관성을 유지하며 긴 애니메이션을 생성하는 기술
 - **[microsoft/MoGe](https://github.com/microsoft/MoGe)** — 개방 영역 이미지에 대한 정확한 단안 기하학 추정
-- **[OpenPipe/ART](https://github.com/OpenPipe/ART)** — GRPO를 사용하여 실제 작업을 위한 다단계 에이전트를 교육
-- **[getzep/graphiti](https://github.com/getzep/graphiti)** — AI 에이전트를 위한 실시간 지식 그래프 구축
-- **[bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD)** — AI 에이전트 기반의 애자일 개발 방법론 및 프레임워크
-- **[soxoj/maigret](https://github.com/soxoj/maigret)** — 이름을 통해 인터넷 상의 방대한 수천 개 웹사이트에서 정보를 자동으로 수집하여 종합적인 인물 프로필을 생성
-- **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)** — Git 저장소, 파일, 또는 표준 입력에서 비밀 정보를 탐지하는 도구
 - **[FunAudioLLM/ThinkSound](https://github.com/FunAudioLLM/ThinkSound)** — 비디오, 텍스트, 오디오 등 다양한 소스에서 오디오를 생성하고 편집하는 통합 프레임워크
 - **[MedGemma](https://huggingface.co/collections/google/medgemma-release-680aade845f90bec6a3f60c4)** — 구글 Deep Mind팀에서 개발한 오픈소스 건강 AI 모델
-- **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** — 다양한 산업 분야의 AI 에이전트 사용 사례를 선별한 컬렉션
 - **[boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio)** — Boson AI의 텍스트-오디오 파운데이션 모델
 - **[Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)** — 개방형 및 고급 대규모 비디오 생성 모델
 - **[openai/gpt-oss](https://github.com/openai/gpt-oss)** — 강력한 추론, 에이전트 작업 및 다양한 개발자 사용 사례를 위해 설계된 OpenAI의 오픈 가중치 모델
 - **[manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM)** — 구조화된 실내 모델링을 위한 대규모 언어 모델 학습
-- **[microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)** — 인간 중심 웹 에이전트의 연구 프로토타입
-- **[moeru-ai/airi](https://github.com/moeru-ai/airi)** — 자체 호스팅, 당신은 와이푸의 영혼, 사이버 생활의 컨테이너인 Grok Companion
 - **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** — 프론티어 오픈 소스 텍스트 음성 변환
-- **[QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)** — 실시간 및 로컬 음성을 텍스트로 변환, 번역 및 화자 다이어라이제이션
-- **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** — 이미지 생성 소프트웨어
 - **[resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)** — SoTA 오픈 소스 TTS
-- **[LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment)** — ChatGPT가 실제 현금 소형주 포트폴리오를 관리하는 블로그 실험
-- **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — 모든 PDF 또는 이미지 문서를 AI용 구조화된 데이터로 변환
 - **[Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc)** — 제로샷 음성 변환 및 노래 음성 변환, 실시간 지원
-- **[microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)** — 마이크로소프트에서 제작한  R&D 프로세스를 자동화하기 위한 Agent
 - **[SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** — 삼성 SAIT에서 개발한 거대 모델을 능가하는 초소형 추론 모델
 - **[inclusionAI/Ring-1T](https://huggingface.co/inclusionAI/Ring-1T)** — 앤트 그룹에서 개발한 1조 매개변수를 가진 오픈소스 모델
 - **[myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)** — MIT와 MyShell의 즉각적인 음성 복제. 오디오 기반 모델
-- **[DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)** — 전자책, 음성 복제 및 1107+ 언어에서 오디오북을 생성
-- **[huggingface/lerobot](https://github.com/huggingface/lerobot)** — 엔드투엔드 학습을 통해 로봇 공학을 위한 AI에 대한 접근성 향상
-- **[anthropics/skills](https://github.com/anthropics/skills)** — Claude가 특수 작업의 성능을 향상시키기 위해 동적으로 로드하는 지침, 스크립트 및 리소스의 폴더에 대한 공개 저장소
 - **[deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** — 이미지(시각적 토큰)로 압축한 뒤 다시 텍스트로 복원하는 '컨텍스트 광학 압축'이라는 새로운 접근법을 사용하는 딥시크에서 개발한 OCR
-- **[guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)** — 워터마크 추가
 - **[fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)** — Fish Audio Drama 3(총 35B·활성 3B MoE)와 S2-Pro를 제공하는 음성 합성 프로젝트. 음성 복제·자연어 연기 지시·다중 캐릭터 장편 대화 생성, 이전 생성 결과에 대한 대화형 수정·단어 단위 부분 편집 지원. Fish Audio Community 라이선스 오픈웨이트
-- **[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)** — AI Agent를 밝히는 절대적인 트레이너
-- **[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** — 100+ LLM 및 VLM의 통합된 효율적인 미세 조정
-- **[GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)** — 처음부터 빌드된 경량 vLLM 구현
-- **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** — 추론 기반 RAG에 대한 문서 인덱스
-- **[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)** — 세계에서 가장 작은 벡터 인덱스
 - **[alex4727/motionstream](https://github.com/alex4727/motionstream)** — 인터랙티브 모션 컨트롤을 통한 실시간 비디오 생성
-- **[AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)** — 로봇 공학 알고리즘에 대한 Python 샘플 코드 및 교과서
-- **[usestrix/strix](https://github.com/usestrix/strix)** — 침투 테스트를 위한 오픈 소스 AI 에이전트
-- **[trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)** — SNS를 위해 설계된 오픈 소스 침투 테스트 프레임워크
-- **[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)** — AI 기능과 draw.io 다이어그램을 통합한 next.js 웹 애플리케이션
 - **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** — 동기화된 비디오와 오디오를 한 모델에서 생성하는 DiT 기반 오디오-비디오 기초 모델(현 LTX-2.5). 텍스트·이미지·오디오→영상 등 다양한 파이프라인과 HDR·FP8 양자화·distill을 지원, 오픈웨이트
-- **[google/langextract](https://github.com/google/langextract)** — 정밀한 소스 기반 기반 구축과 상호작용 시각화를 갖춘 LLM을 사용하여 비구조화 텍스트에서 구조화된 정보를 추출하는 Python 라이브러리
-- **[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)** — AI 요원을 폭발시키는 절대적인 트레이너입니다
 - **[Translate Gemma](https://huggingface.co/collections/google/translategemma)** — 젬마 3(Gemma 3)를 기반으로 구축된 새로운 개방형 번역 모델
 - **[kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)** — CPU에서 효율적으로 실행되도록 설계된 경량 텍스트 음성 변환(TTS) 애플리케이션
 - **[ekwek1/soprano](https://github.com/ekwek1/soprano)** — 즉각적이고 초현실적인 텍스트 음성 변환
 - **[HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib)** — 가사와 태그를 기반으로 음악을 생성하는 음악 언어 모델
-- **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** — Kimi Code CLI를 떠나지 않고도 셸 명령을 직접 실행할 수 있는 AI 에이전트
-- **[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)** — 채널 상태 정보(CSI) 데이터와 첨단 머신러닝을 활용해 카메라 없이도 실시간 프라이버시 보호 자세 감지를 제공하는 최첨단 WiFi 기반 인간 자세 추정 시스템
 - **[Seedance 2.0](https://seed.bytedance.com/en/seedance2_0)** — 바이트댄스(ByteDance)가 개발한 고품질 멀티모달 AI 비디오 생성 엔진
 - **[moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)** — 엣지 디바이스용 빠르고 정확한 자동 음성 인식
 - **[datalab-to/chandra](https://github.com/datalab-to/chandra)** — 복잡한 표, 양식, 손글씨를 완전한 레이아웃으로 처리하는 OCR 모델
-- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — AI가 디자인에 더 능숙하게 활용되도록 만드는 디자인 언어
 - **[GAIR-NLP/daVinci-MagiHuman](https://github.com/GAIR-NLP/daVinci-MagiHuman)** — 빠른 오디오-비디오 생성 기초 모델을 위한 단일 스트림 아키텍처 모델
-- **[ID-LoRA/ID-LoRA](https://github.com/ID-LoRA/ID-LoRA)** — LTX-2/LTX-2.3 + Identity In-Context LoRA를 기반으로 맞춤형 음성과 외형으로 고해상도 영상을 생성
 - **[FunAudioLLM/ThinkSound/tree/prismaudio](https://github.com/FunAudioLLM/ThinkSound/tree/prismaudio)** — [ThinkSound]를 구현한 것으로, 어떤 모달리티에서든 오디오를 생성할 수 있는 통합 프레임워크
 - **[CohereLabs/cohere-transcribe-03-2026](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026)** — 2B 파라미터 전용 오디오, 텍스트 출력 자동 음성 인식(ASR) 오픈 소스 모델
 - **[mistralai/Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603)** — 빠르고 즉각적으로 적응 가능하며 음성 상담원을 위한 생생한 음성 합성 기능을 제공하는 개척형 오픈 웨이트 텍스트-음성 변환 모델
 - **[Netflix/void-model](https://github.com/Netflix/void-model)** — 넷플릭스에서 개발한 영상에서 객체와 그것이 장면에 유발하는 모든 상호작용을 제거하는 모델
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — Andrej Karpathy가 LLM 코딩의 함정에 대해 관찰한 바 있어, Claude Code 동작을 개선하기 위한 단일 CLAUDE.md 파일
-- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — 코드베이스의 지식 그래프를 만들어 AI 코딩 도구가 필요한 파일만 읽게 해주는 MCP 기반 토큰 절약 도구
 - **[HiDream-ai/HiDream-O1-Image](https://github.com/HiDream-ai/HiDream-O1-Image)** — 외부 VAE나 분리된 텍스트 인코더 없이 픽셀 수준 통합 변환기(UiT) 기반으로 구축된 네이티브 통합 이미지 생성 기반 모델
-- **[mattpocock/skills](https://github.com/mattpocock/skills)** — mattpocock의 실제 엔지니어를 위한 스킬
 - **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** — 하이브 자회사에서 개발한 최소한의 오버헤드로 지역 추론을 위해 설계된 번개처럼 빠른 온디바이스 다국어 텍스트-음성 변환 시스템
 - **[cwx-worst-one/WavTTS](https://github.com/cwx-worst-one/WavTTS)** — 직접 원시 파형 모델링을 통한 고품질 제로샷 TTS
 - **[ideogram-oss/ideogram4](https://github.com/ideogram-oss/ideogram4)** — Ideogram의 첫 번째 오픈 웨이트 텍스트-이미지 모델
 - **[bytedance/Bernini](https://github.com/bytedance/Bernini)** — MLLM 기반의 의미론 계획기와 DiT 기반 렌더러를 결합한 통합 비디오 생성 및 편집 프레임워크
 - **[MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS)** — 80억 개의 매우 감정적인 텍스트-음성 변환 모델
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** — AI 코딩 에이전트한테 "쓸데없이 코드 많이 짜지 마"라고 가르치는 플러그인/룰셋
 - **[google-research/timesfm](https://github.com/google-research/timesfm)** — 구글 리서치가 만든 시계열 예측(time-series forecasting)용 사전학습 파운데이션 모델
 - **[krea-ai/krea-2](https://github.com/krea-ai/krea-2)** — Krea AI가 공개한 오픈웨이트 텍스트-이미지 생성 모델로, 2K 해상도·LoRA 학습·ComfyUI를 지원하며 RAW(파인튜닝용)와 TURBO(8스텝 고속) 두 종류 제공
-- **[Xingyu-Zheng/MrFlow](https://github.com/Xingyu-Zheng/MrFlow)** — Multi-Resolution Flow Matching — 저해상도 생성 후 업스케일·소량 정제로 flow-matching 이미지 모델(FLUX·Qwen-Image 등)을 학습 없이 10배 이상 가속하는 샘플링 기법
-- **[5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench)** — TTS 모델 55종을 속도(TTFA·RTF)·객관지표(UTMOS·WER·SIM)·블라인드 청취 투표(Elo 리더보드)로 비교하는 오픈소스 벤치마크
 - **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** — 텍스트·이미지로 무한히 이어지는 인터랙티브 영상을 실시간 생성하는 월드 모델(720p 60fps, Wan2.2 기반 14B). 공격·주문 등 행동과 텍스트 이벤트로 상호작용
-- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** — 완전 로컬로 돌아가는 오픈소스 AI 음성 스튜디오. TTS 엔진 7종·보이스 클로닝·받아쓰기 핫키·음성 효과를 한 앱에 묶은 ElevenLabs+Whisper 대체제 (MCP·REST API 지원)
-- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** — 스크롤에 맞춰 3D 카메라가 씬을 훑는 몰입형 랜딩 페이지를 만드는 AI 에이전트 스킬. GPT Image 2·Seedance/Kling·Higgsfield로 씬을 생성하고 프레임 연결 (Claude Code 플러그인)
-- **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — 딥러닝으로 사진·영상 속 얼굴을 인식·교체하는 오픈소스 애플리케이션. 얼굴 추출·모델 학습·변환 파이프라인과 GUI 제공 (GPU 가속, 크로스플랫폼)
 - **[MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)** — 텍스트·이미지·영상·오디오 입력으로 네이티브 스테레오 음성이 포함된 영상(4~15초·최대 2K)을 생성하는 멀티모달 모델. 33B omni-transformer 기반, H3-Base 가중치 부분 공개
 - **[nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper)** — Whisper 기반 축어(verbatim) 음성인식 모델. 필러·말더듬 등 비유창성까지 그대로 받아쓰고 정제본도 함께 제공하며, 30ms급 단어 단위 타임스탬프를 지원 (코드 MIT, 가중치 비상업 연구용)
-- **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — 에디토리얼급 다이어그램 29종(아키텍처·플로우차트·시퀀스·간트 등)을 의존성 없는 HTML+SVG로 생성하는 에이전트 스킬. draw.io·Mermaid 임포트, 브랜드 색·폰트 자동 추출, WCAG AA 대비 검증
 - **[google-deepmind/weathernext](https://github.com/google-deepmind/weathernext)** — 구글 딥마인드의 글로벌 기상 예측 AI 모델(WeatherNext 2·GraphCast·GenCast). 0.25° 해상도로 6일+ 기온·바람 등을 예보하고 태풍 경로·강도까지 예측하는 확산 앙상블 방식 (JAX·GNN)
 - **[Wan-Video/Wan-Animate-2](https://github.com/Wan-Video/Wan-Animate-2)** — 구동 영상과 레퍼런스 이미지만으로 캐릭터 애니메이션 영상을 생성하는 프레임워크. Diffusion Transformer로 동작을 옮기며 정체성을 보존하고, 텍스트로 시점을 제어. 실시간 스트리밍용 경량(distill)판 포함, 오픈웨이트
 - **[pymaster17/VocalRender](https://github.com/pymaster17/VocalRender)** — 악보(가사·MIDI 음정·박자)를 참조 오디오 없이 곧바로 노래 오디오로 합성하는 가창 음성 합성(SVS) 모델. Audio VAE 잠재 + 자기회귀 확산 구조로 음정·음색·아티큘레이션을 세밀 제어, 오픈웨이트
@@ -347,18 +276,13 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[MiniMax-AI/MiniMax-Music3](https://github.com/minimax-ai/minimax-music3)** — 가사와 음악 설명(장르·악기·보컬 등)을 조건으로 보컬과 편곡이 어우러진 최대 5분 완곡을 생성하는 음악 생성 모델. 8B+0.6B 하이브리드 구조에 Flow Matching, 32kHz 스테레오 출력, 오픈웨이트
 - **[xiaomi-research/midashenglm-gen](https://github.com/xiaomi-research/midashenglm-gen)** — 텍스트 설명으로 말소리·음악·효과음·환경음이 섞인 오디오 장면을 한 번에 생성하는 샤오미의 오디오 생성 모델. Qwen3-1.7B 백본 + 토큰별 Flow Matching, 9개 언어·감정 제어, 오픈웨이트
 - **[index-tts/index-tts](https://github.com/index-tts/index-tts)** — 참조 음성 하나로 목소리를 복제하는 Bilibili의 산업용 제로샷 TTS 모델. 감정·발화 속도(0.5~2배)·발음 제어와 다국어(중·영·일·스페인·아랍)를 지원, 오픈웨이트(현 IndexTTS-2.5)
-- **[gary149/h3-game-sprites](https://github.com/gary149/h3-game-sprites)** — AI 생성 영상을 2D 게임 스프라이트 시트로 변환하는 에이전트 스킬(모탈컴뱃식 디지타이징). 크로마키 처리·키프레임 선별·워크사이클 감지·아틀라스 패킹을 자동화, MiniMax H3·Nano Banana 활용
 - **[ant-research/4DAnyone](https://github.com/ant-research/4DAnyone)** — 인물이 담긴 단일 영상 한 개를 다시점 영상으로 변환해 4D(3D+시간) 가우시안 스플래팅 복원과 자유시점 렌더링을 가능케 하는 모델. 6~48+ 시점·360° 궤도 지원, 오픈웨이트
-- **[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** — 게이밍 PC·노트북 등 소비자 하드웨어에서 대형 오픈웨이트 MoE 모델을 돌리는 엣지 네이티브 서빙 엔진. 대역폭 적응형 CPU-GPU 협업 실행·전문가 캐싱·동적 VRAM 재할당으로 DeepSeek·Qwen·GLM 등 구동 (GUI·CLI)
 - **[OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1)** — 센스타임 계열이 공개한 통합 멀티모달 모델. 이해와 생성을 별도 인코더/VAE 없이 한 아키텍처(NEO-unify)로 통합해 텍스트→이미지·이미지 편집·이미지-텍스트 교차 생성·VQA를 수행 (8B/A3B, 오픈웨이트)
 - **[yunpeng1998/Qwen-Video-Edit](https://github.com/yunpeng1998/Qwen-Video-Edit)** — Qwen-Image-Edit의 DiT를 Wan 2.1 영상 VAE에 연결해 지시(instruction) 기반으로 영상을 편집하는 모델. 청크 단위 롱비디오 편집, 360/480/720P 체크포인트, ComfyUI 노드 제공, 오픈웨이트
-- **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** — 완전 로컬로 돌아가는 오픈소스 음성 스튜디오(ElevenLabs 대체). 보이스 클로닝·음성 디자인·영상 더빙·전사·오디오북 제작을 지원하며 TTS 16종·ASR 11종·646개 언어를 아우름 (Tauri·크로스플랫폼)
-- **[xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem)** — 실시간 음성 에이전트를 위한 감정 인식 메모리 인프라. 사실(좌뇌)과 감정·성격(우뇌)을 나눠 저장하는 스트리밍 듀얼 브레인 구조로, 말하는 동안 메모리를 추출하며 Mem0보다 높은 정확도·낮은 토큰으로 검색
 - **[Viggle/Viggle-Animate](https://huggingface.co/Viggle/Viggle-Animate)** — 구동 영상과 캐릭터를 덧칠한 프레임 한 장만으로 영상 속 캐릭터를 교체하는 오픈웨이트 모델. 포즈·마스크·프롬프트 없이 3번의 forward pass로 동작(MiniMax-H3 33.1B 파인튜닝+DMD 증류), 사람이 아닌 대상도 애니메이션
 - **[google-deepmind/alphagenome](https://github.com/google-deepmind/alphagenome)** — DNA 서열이 유전자 발현·스플라이싱·염색질을 어떻게 조절하고 단일염기 변이가 이를 어떻게 교란하는지 예측하는 구글 딥마인드 모델(최대 100만 염기쌍). 90억 변이 예측을 담은 AlphaGenome Atlas 공개, 모델 코드·가중치는 alphagenome_research에 제공
 - **[multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)** — 가사와 스타일 설명으로 보컬·반주가 어우러진 완곡을 생성하는 오픈소스 음악 모델(YuE2). 편집 가능한 멜로디·코드 스코어를 먼저 짜는 심볼릭 플래닝, 제로샷 커버, 대화형 편집을 지원하며 48kHz 스테레오 출력(영어·중국어)
 - **[Tencent-Hunyuan/AuK](https://github.com/Tencent-Hunyuan/AuK)** — 지시 기반 TTS·음향/콘텐츠 편집·음성 향상·음원 분리 등 14가지 이상 오디오 작업을 자연어로 통합 처리하는 텐센트 훈위안의 1.5B 오디오 파운데이션 모델. 고품질 AuK와 4스텝 고속 AuK-Flash 2종, 오픈웨이트
-- **[Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)** — AI 에이전트가 기존 로그인 상태의 Chrome·Edge를 제어하는 텐센트의 브라우저 자동화 도구. CLI·확장 프로그램으로 연결해 별도 에이전트 창에서 페이지 탐색·폼 입력·스크린샷·웹사이트 디버깅 지원
 - **[XiaomiMiMo/MiMo-V2.6-Pro-RL](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL)** — 샤오미의 강화학습 기반 멀티모달 MoE 모델(총 1.02T·활성 42B). 텍스트·이미지·영상·오디오와 100만 토큰 컨텍스트를 지원하며 코딩·도구 사용·장기 에이전트 작업을 통합 강화학습으로 학습, MIT 라이선스 오픈웨이트
 - **[Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)** — 텍스트 기반 이미지 생성·편집을 통합한 Qwen 모델(시각 생성부 7B). 투명 배경 RGBA 생성·투명 레이어 편집·피사체 추출, 최대 10장 참조 이미지와 마스크·주석 기반 부분 편집 지원. Qwen Research 라이선스 오픈웨이트
 - **[FLUX 3 Action](https://huggingface.co/collections/black-forest-labs/flux-3-action)** — Black Forest Labs의 7B 로봇 월드 액션 모델 컬렉션. 카메라 영상·로봇 상태·텍스트 지시로 다음 동작과 영상 프레임을 함께 예측하며, 로봇 적응용 베이스·공유 인코더·SO-101 및 DROID 제어 정책 제공. FLUX Kommunity 라이선스 오픈웨이트
@@ -371,14 +295,97 @@ _생성형 AI 관련 오픈소스 리소스 모음_
 - **[FastH3 Omni](https://huggingface.co/collections/FastVideo/fasth3-omni)** — MiniMax-H3 기반 8스텝 영상·오디오 생성 모델 컬렉션. 텍스트와 이미지·영상·오디오 참조로 동기화된 24fps 영상·32kHz 스테레오 오디오 생성(이미지 또는 영상 참조 필수). BF16·FP8·NVFP4 QAD·ComfyUI·MLX 변형 제공, MiniMax-H3 Community 라이선스 오픈웨이트
 - **[inclusionAI/Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts)** — 한국어 포함 7개 언어를 지원하는 inclusionAI의 음성 합성 모델. 0.5B Dense와 Tiny MoE(총 7.9B·활성 1.3B) 제공, 음성 복제·자연어 기반 목소리 설계·감정·속도·음높이 제어 및 Tiny의 다중 화자 대화 생성 지원. MIT 라이선스 오픈웨이트
 - **[WeVisOne-VL](https://huggingface.co/tencent/WeVisOne-VL-4B)** — 텐센트 WeChat Vision의 Qwen3-VL 기반 통합 시각 인식 모델(2B·4B). 객체 탐지·위치 지정·개수 세기·OCR과 지시 기반 영역 분할·알파 매팅을 지원하며, 9.6M 픽셀 디코더로 마스크와 투명도를 출력. Apache-2.0 표기 오픈웨이트
-- **[lightningpixel/modly](https://github.com/lightningpixel/modly)** — 로컬 GPU에서 이미지·프롬프트로 3D 모델을 생성하는 데스크톱 앱. Hunyuan3D·TripoSG·Trellis2 등 모델 확장, 노드 기반 워크플로·메시 최적화·OrcaSlicer 연계 지원. Windows·Linux·Apple Silicon macOS용, 베타 개발 중
-- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Claude Code·Codex·Cursor·OpenCode용 웹 디자인 에이전트 스킬. 50종 테마와 맞춤 디자인, 기존 페이지 리디자인·감사를 제공하며 브라우저 기반 검사로 획일적인 AI 디자인 패턴·접근성·반응형 문제를 점검. MIT 라이선스
 - **[NVIDIA NemotronLabs RE-USE](https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE)** — NVIDIA의 9.6M 다국어 음성 향상·복원 모델. 8~48kHz 모노 음성의 잡음·잔향·클리핑·대역폭 제한·코덱 왜곡·패킷 손실을 보정하며 발화 내용과 화자 특성 보존을 지향. 웃음 보존 특화 변형도 제공, OpenMDW-1.1 라이선스 오픈웨이트
 - **[NVIDIA Nemotron 3.5 Transcribe](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)** — NVIDIA의 다국어 음성 전사·이해 모델(오디오 인코더 포함 총 34B·활성 4.3B MoE). 40개 언어·최대 1시간 녹음·64K 컨텍스트, 화자별 전사·단어 타임스탬프·음성 번역·오디오 질의응답 지원. BF16·FP8·NVFP4 제공, OpenMDW-1.1 오픈웨이트
 - **[NVlabs/motionbricks](https://github.com/NVlabs/motionbricks)** — NVIDIA의 캐릭터·로봇 실시간 모션 생성 프레임워크. 최근 포즈와 목표 포즈 사이 동작을 생성하고 Smart Primitives로 이동·장애물 넘기·앉기 등을 조합. SOMA 인간·Unitree G1 모델, ONNX·Python 런타임·데모·편집기 제공. 코드 Apache-2.0, 가중치 NVIDIA Open Model Agreement, 샘플 모션은 NVIDIA 기술 평가·테스트용 별도 라이선스
 - **[Liquid AI LFM3](https://huggingface.co/collections/LiquidAI/lfm3)** — Liquid AI의 온디바이스·특화 작업용 1.7~2B급 오픈웨이트 모델군. 텍스트 LFM3-1.7B·비전 VL-2B·음성 Audio-2B·Omni-2B와 의사결정용 d1-2B·d1-Omni-2B 포함. 텍스트 모델 256K 컨텍스트, GGUF·ONNX·MLX 배포 제공. LFM Open License v1.0(매출 규모에 따른 상업 이용 제한)
-- **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** — AI 에이전트용 데스크톱 자동화 CLI·C 라이브러리. OS 접근성 트리를 JSON 스냅샷으로 읽고 요소 참조로 클릭·입력·스크롤·창 관리 등을 수행. macOS·Windows·Linux 지원(플랫폼별 기능 차이), 에이전트 스킬 제공. Apache-2.0 라이선스
+
+<sub>[⬆ 목차로](#-목차)</sub>
+
+## 🛠️ AI 도구·개발
+
+_AI 앱, 모델 실행·학습·평가 도구, SDK·라이브러리와 데이터셋_
+
+- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — 실시간 얼굴 스왑 및 원클릭 비디오 딥페이크
+- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — 네이티브 AI 기능을 갖춘 오픈소스 페어 코드 워크플로우 자동화 플랫폼
+- **[langgenius/dify](https://github.com/langgenius/dify)** — 오픈 소스 AI 워크플로우, RAG 파이프라인, 에이전트 등의 LLM 기능 앱 개발 플랫폼
+- **[krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)** — LLM으로 구동되는 비디오 번역 및 더빙 도구
+- **[jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)** — Whisper 모델을 사용하여 쉽게 자막을 만들 수 있는 웹 UI
+- **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — 완전히 오프라인에서 작동하도록 설계된 사용자 친화적인 자체 호스팅 AI 플랫폼
+- **[vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)** — 강력한 챗봇 애플리케이션을 빠르게 빌드하는 데 도움이 되는 Next.js 및 AI SDK로 구축된 무료 오픈 소스 템플릿
+- **[Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)** — 실시간 회의 오디오를 캡처하고, 실시간으로 기록하고, 요약을 생성하는 동시에 사용자 개인 정보를 보호하는 AI 기반 회의 도우미
+- **[lllyasviel/FramePack](https://github.com/lllyasviel/FramePack)** — ["Packing Input Frame Context in Next-Frame Prediction Models for Video Generation"](https://lllyasviel.github.io/frame_pack_gitpage/)을 위한 공식 구현 및 데스크톱 소프트웨어
+- **[funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)** — PDF 과학 논문 번역 및 이중 언어 비교 라이브러리
+- **[de-pixelate_gaV-O6NPWrI](https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI)** — 픽셀화된 이미지를 자동으로 역설계
+- **[PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts)** — AI 모델이 응답에 대해 재귀적으로 생각하고, 대안을 생성하고, 최상의 응답을 선택하도록 함
+- **[Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)** — 바이두에서 개발한 과학 PDF 문서 번역 및 이중 언어 비교 도구
+- **[openai/evals](https://github.com/openai/evals)** — LLM 및 LLM 시스템을 평가하기 위한 프레임워크
+- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** — LLM 친화적인 웹 크롤러 및 스크레이퍼 오프소스
+- **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** — 온디바이스 ML/GenAI 사용 사례를 선보이고 사람들이 로컬에서 모델을 시도하고 사용할 수 있는 갤러리
+- **[cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)** — 모든 Git 리포지토리를 LLM에 대한 프롬프트 친화적인 텍스트로 변환
+- **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** — 표준화된 출력 형식의 다중 유형 데이터 레이블 지정 및 주석 도구
+- **[OpenPipe/ART](https://github.com/OpenPipe/ART)** — GRPO를 사용하여 실제 작업을 위한 다단계 에이전트를 교육
+- **[moeru-ai/airi](https://github.com/moeru-ai/airi)** — 자체 호스팅, 당신은 와이푸의 영혼, 사이버 생활의 컨테이너인 Grok Companion
+- **[QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)** — 실시간 및 로컬 음성을 텍스트로 변환, 번역 및 화자 다이어라이제이션
+- **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** — 이미지 생성 소프트웨어
+- **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — 모든 PDF 또는 이미지 문서를 AI용 구조화된 데이터로 변환
+- **[DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)** — 전자책, 음성 복제 및 1107+ 언어에서 오디오북을 생성
+- **[huggingface/lerobot](https://github.com/huggingface/lerobot)** — 엔드투엔드 학습을 통해 로봇 공학을 위한 AI에 대한 접근성 향상
+- **[hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** — 100+ LLM 및 VLM의 통합된 효율적인 미세 조정
+- **[GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)** — 처음부터 빌드된 경량 vLLM 구현
+- **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** — 추론 기반 RAG에 대한 문서 인덱스
+- **[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)** — 세계에서 가장 작은 벡터 인덱스
+- **[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)** — AI 기능과 draw.io 다이어그램을 통합한 next.js 웹 애플리케이션
+- **[google/langextract](https://github.com/google/langextract)** — 정밀한 소스 기반 기반 구축과 상호작용 시각화를 갖춘 LLM을 사용하여 비구조화 텍스트에서 구조화된 정보를 추출하는 Python 라이브러리
+- **[ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)** — 채널 상태 정보(CSI) 데이터와 첨단 머신러닝을 활용해 카메라 없이도 실시간 프라이버시 보호 자세 감지를 제공하는 최첨단 WiFi 기반 인간 자세 추정 시스템
+- **[ID-LoRA/ID-LoRA](https://github.com/ID-LoRA/ID-LoRA)** — LTX-2/LTX-2.3 + Identity In-Context LoRA를 기반으로 맞춤형 음성과 외형으로 고해상도 영상을 생성
+- **[Xingyu-Zheng/MrFlow](https://github.com/Xingyu-Zheng/MrFlow)** — Multi-Resolution Flow Matching — 저해상도 생성 후 업스케일·소량 정제로 flow-matching 이미지 모델(FLUX·Qwen-Image 등)을 학습 없이 10배 이상 가속하는 샘플링 기법
+- **[5uck1ess/tts-bench](https://github.com/5uck1ess/tts-bench)** — TTS 모델 55종을 속도(TTFA·RTF)·객관지표(UTMOS·WER·SIM)·블라인드 청취 투표(Elo 리더보드)로 비교하는 오픈소스 벤치마크
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** — 완전 로컬로 돌아가는 오픈소스 AI 음성 스튜디오. TTS 엔진 7종·보이스 클로닝·받아쓰기 핫키·음성 효과를 한 앱에 묶은 ElevenLabs+Whisper 대체제 (MCP·REST API 지원)
+- **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — 딥러닝으로 사진·영상 속 얼굴을 인식·교체하는 오픈소스 애플리케이션. 얼굴 추출·모델 학습·변환 파이프라인과 GUI 제공 (GPU 가속, 크로스플랫폼)
+- **[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** — 게이밍 PC·노트북 등 소비자 하드웨어에서 대형 오픈웨이트 MoE 모델을 돌리는 엣지 네이티브 서빙 엔진. 대역폭 적응형 CPU-GPU 협업 실행·전문가 캐싱·동적 VRAM 재할당으로 DeepSeek·Qwen·GLM 등 구동 (GUI·CLI)
+- **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** — 완전 로컬로 돌아가는 오픈소스 음성 스튜디오(ElevenLabs 대체). 보이스 클로닝·음성 디자인·영상 더빙·전사·오디오북 제작을 지원하며 TTS 16종·ASR 11종·646개 언어를 아우름 (Tauri·크로스플랫폼)
+- **[lightningpixel/modly](https://github.com/lightningpixel/modly)** — 로컬 GPU에서 이미지·프롬프트로 3D 모델을 생성하는 데스크톱 앱. Hunyuan3D·TripoSG·Trellis2 등 모델 확장, 노드 기반 워크플로·메시 최적화·OrcaSlicer 연계 지원. Windows·Linux·Apple Silicon macOS용, 베타 개발 중
 - **[NVIDIA SimReady Central](https://huggingface.co/spaces/nvidia/simready-central)** — 로보틱스·Physical AI·디지털 트윈용 시뮬레이션 준비 OpenUSD 3D 에셋 검색 허브. 자연어 기반 의미 검색·RTX 시뮬레이션 미리보기 제공. NVIDIA simready-assets는 CC-BY-4.0, 외부 제공자 에셋은 비상업용을 포함한 개별 라이선스 적용
+
+<sub>[⬆ 목차로](#-목차)</sub>
+
+## 🤖 에이전트·스킬
+
+_AI 에이전트, 에이전트 프레임워크·연동 프로토콜·MCP와 작업별 스킬_
+
+- **[aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci)** — AI 에이전트를 멀티 테넌트 인증, 세분화된 권한 및 직접 함수 호출 또는 통합 MCP 서버를 통한 액세스를 통해 600+ 도구 통합에 연결하는 오픈 소스 플랫폼
+- **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — 자연어를 사용하여 컴퓨터를 제어
+- **[google/A2A](https://github.com/google/A2A)** — 독립 AI 에이전트 간의 통신을 용이하게 하는 프로토콜
+- **[modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)** — 애플리케이션이 LLM에 컨텍스트를 제공하는 방법을 표준화하는 개방형 프로토콜
+- **[QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)** — Qwen>=3.0을 기반으로 구축된 에이전트 프레임워크 및 애플리케이션
+- **[simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)** — 컴퓨터를 인간처럼 사용하는 개방형 에이전트 프레임워크
+- **[GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai)** — AI 기반 쿠버네티스 어시스턴트
+- **[dabidstudio/python_deepresearch](https://github.com/dabidstudio/python_deepresearch)** — 심층 연구 에이전트의 가장 간단한 구현을 제공
+- **[RUC-NLPIR/WebThinker](https://github.com/RUC-NLPIR/WebThinker)** — 자율적으로 웹 페이지를 검색하고, 심층적으로 탐색하고, 연구 보고서 초안을 작성
+- **[awslabs/agent-squad](https://github.com/awslabs/agent-squad)** — 아마존에서 개발한 여러 AI 에이전트를 관리하고 복잡한 대화를 처리하기 위한 유연힌 프레임워크
+- **[cline/cline](https://github.com/cline/cline)** — VS code에서 바로 사용할 수 있는 자율 코딩 에이전트
+- **[google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)** — Gemini 2.5 및 LangGraph를 사용하여 풀스택 에이전트 구축 시작하기
+- **[getzep/graphiti](https://github.com/getzep/graphiti)** — AI 에이전트를 위한 실시간 지식 그래프 구축
+- **[bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD)** — AI 에이전트 기반의 애자일 개발 방법론 및 프레임워크
+- **[microsoft/magentic-ui](https://github.com/microsoft/magentic-ui)** — 인간 중심 웹 에이전트의 연구 프로토타입
+- **[microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)** — 마이크로소프트에서 제작한  R&D 프로세스를 자동화하기 위한 Agent
+- **[anthropics/skills](https://github.com/anthropics/skills)** — Claude가 특수 작업의 성능을 향상시키기 위해 동적으로 로드하는 지침, 스크립트 및 리소스의 폴더에 대한 공개 저장소
+- **[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)** — AI 에이전트 학습을 위한 프레임워크
+- **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** — Kimi Code CLI를 떠나지 않고도 셸 명령을 직접 실행할 수 있는 AI 에이전트
+- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — AI가 디자인에 더 능숙하게 활용되도록 만드는 디자인 언어
+- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — Andrej Karpathy가 LLM 코딩의 함정에 대해 관찰한 바 있어, Claude Code 동작을 개선하기 위한 단일 CLAUDE.md 파일
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — 코드베이스의 지식 그래프를 만들어 AI 코딩 도구가 필요한 파일만 읽게 해주는 MCP 기반 토큰 절약 도구
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — mattpocock의 실제 엔지니어를 위한 스킬
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** — AI 코딩 에이전트한테 "쓸데없이 코드 많이 짜지 마"라고 가르치는 플러그인/룰셋
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** — 스크롤에 맞춰 3D 카메라가 씬을 훑는 몰입형 랜딩 페이지를 만드는 AI 에이전트 스킬. GPT Image 2·Seedance/Kling·Higgsfield로 씬을 생성하고 프레임 연결 (Claude Code 플러그인)
+- **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — 에디토리얼급 다이어그램 29종(아키텍처·플로우차트·시퀀스·간트 등)을 의존성 없는 HTML+SVG로 생성하는 에이전트 스킬. draw.io·Mermaid 임포트, 브랜드 색·폰트 자동 추출, WCAG AA 대비 검증
+- **[gary149/h3-game-sprites](https://github.com/gary149/h3-game-sprites)** — AI 생성 영상을 2D 게임 스프라이트 시트로 변환하는 에이전트 스킬(모탈컴뱃식 디지타이징). 크로마키 처리·키프레임 선별·워크사이클 감지·아틀라스 패킹을 자동화, MiniMax H3·Nano Banana 활용
+- **[xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem)** — 실시간 음성 에이전트를 위한 감정 인식 메모리 인프라. 사실(좌뇌)과 감정·성격(우뇌)을 나눠 저장하는 스트리밍 듀얼 브레인 구조로, 말하는 동안 메모리를 추출하며 Mem0보다 높은 정확도·낮은 토큰으로 검색
+- **[Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)** — AI 에이전트가 기존 로그인 상태의 Chrome·Edge를 제어하는 텐센트의 브라우저 자동화 도구. CLI·확장 프로그램으로 연결해 별도 에이전트 창에서 페이지 탐색·폼 입력·스크린샷·웹사이트 디버깅 지원
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Claude Code·Codex·Cursor·OpenCode용 웹 디자인 에이전트 스킬. 50종 테마와 맞춤 디자인, 기존 페이지 리디자인·감사를 제공하며 브라우저 기반 검사로 획일적인 AI 디자인 패턴·접근성·반응형 문제를 점검. MIT 라이선스
+- **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** — AI 에이전트용 데스크톱 자동화 CLI·C 라이브러리. OS 접근성 트리를 JSON 스냅샷으로 읽고 요소 참조로 클릭·입력·스크롤·창 관리 등을 수행. macOS·Windows·Linux 지원(플랫폼별 기능 차이), 에이전트 스킬 제공. Apache-2.0 라이선스
+- **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — AI 코딩 에이전트용 UI/UX 디자인 스킬. 제품 요구사항에 맞춰 디자인 스타일·색상 팔레트·폰트 조합·랜딩 페이지 패턴을 검색하고 디자인 시스템을 생성. 여러 플랫폼·프레임워크의 UI 구현과 접근성·반응형 점검을 지원. MIT 라이선스
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -413,10 +420,15 @@ _보안과 관련된 오픈소스 모음_
 - **[swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)** — 웹 보안 침투 테스트 페이로드, 우회 기법, 취약점 공략 모음집
 - **[projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)** — 보안 취약점을 찾기 위해 핵 엔진에 대한 커뮤니티 선별된 템플릿 목록
 - **[imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)** — Linux 서버 보안을 위한 진화하는 방법 가이드
+- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — Cloudflare의 코딩 에이전트용 다단계 보안 감사 스킬. 코드 구조·신뢰 경계 분석, 커버리지 기반 취약점 탐색, 독립 에이전트의 검증을 거쳐 JSON 결과·Markdown 보고서 생성. 도구 사용·병렬 서브에이전트 지원 모델과 Node.js 필요. MIT 라이선스
+- **[soxoj/maigret](https://github.com/soxoj/maigret)** — 이름을 통해 인터넷 상의 방대한 수천 개 웹사이트에서 정보를 자동으로 수집하여 종합적인 인물 프로필을 생성
+- **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)** — Git 저장소, 파일, 또는 표준 입력에서 비밀 정보를 탐지하는 도구
+- **[usestrix/strix](https://github.com/usestrix/strix)** — 침투 테스트를 위한 오픈 소스 AI 에이전트
+- **[trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)** — SNS를 위해 설계된 오픈 소스 침투 테스트 프레임워크
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
-## 📖 기사, 블로그 또는 자료
+## 📖 기사·자료
 
 _읽어볼만한 글과 자료_
 
@@ -430,7 +442,6 @@ _읽어볼만한 글과 자료_
 - **[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** — 개발자를 위한 커뮤니티 중심의 로드맵, 기사 및 리소스 모음
 - **[ossu/computer-science](https://github.com/ossu/computer-science)** — 온라인 자료를 사용한 컴퓨터 과학에 대한 완전한 교육
 - **[mlabonne/llm-course](https://github.com/mlabonne/llm-course)** — 대규모 언어 모델(LLM)에 대해 알아볼 수 있는 과정
-- **[practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)** — 프로젝트 기반 자습서의 선별된 목록
 - **[unslothai/notebooks](https://github.com/unslothai/notebooks)** — LLM을 미세 조정하는 Colab 가이드 모음
 - **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)** — FastAPI 모범 사례 및 규칙
 - **[anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)** — Claude를 재미있고 효과적으로 사용하는 방법을 보여주는 노트북/레시피 모음
@@ -451,10 +462,14 @@ _읽어볼만한 글과 자료_
 - **[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)** — 엣지 장치에서 클라우드 배포에 이르기까지 실제 AI 시스템을 구축하는 방법을 가르치는 오픈 소스 교과서
 - **[2026 Korean CSAT Leaderboard](https://isoft.cnu.ac.kr/csat2026/)** — 2026 한국대학 학업능력 수학시험 LLM 평가 리더보드
 - **[Claude Academy](https://academy.claude.com/)** — Anthropic이 운영하는 학습 플랫폼. Claude 제품 사용법 교육과 'AI Fluency'(4D 프레임워크 등) AI 기초 강의를 무료로 제공
+- **[NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** — RAG(Retrieval-Augmented Generation) 시스템을 위한 다양한 고급 기술
+- **[humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** — 신뢰할 수 있는 LLM 어플리케이션 구축을 위한 원칙
+- **[LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment)** — ChatGPT가 실제 현금 소형주 포트폴리오를 관리하는 블로그 실험
+- **[AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)** — 로봇 공학 알고리즘에 대한 Python 샘플 코드 및 교과서
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
-## 🧩 이 외의 것
+## 🧩 기타
 
 _분류하기 애매하거나 잡다하지만 유용한 것들_
 
