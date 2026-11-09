@@ -2841,6 +2841,18 @@
             "mcp",
             "3d"
           ]
+        },
+        {
+          "name": "arjun988/blender-skills",
+          "url": "https://github.com/arjun988/blender-skills",
+          "desc": "Cursor·Claude Code·Kiro·Codex용 Blender 전문 스킬 94종. Blender MCP를 통해 기본 형태 구성부터 모델링·스컬프팅·UV·재질·리깅·애니메이션·최적화·게임 엔진 내보내기까지 3D 에셋 제작 과정을 안내하고 실행. MIT 라이선스",
+          "tags": [
+            "agent",
+            "mcp",
+            "3d",
+            "animation",
+            "game"
+          ]
         }
       ]
     },
