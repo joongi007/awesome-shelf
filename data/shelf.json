@@ -2810,6 +2810,16 @@
             "animation",
             "web"
           ]
+        },
+        {
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "desc": "Claude Code·Codex용 Remotion 기반 제품 홍보 영상 제작 스킬. 실제 페이지 캡처와 문구를 바탕으로 샷 구성·애니메이션·비트 동기화·사운드 디자인을 연계. 124종 샷 레시피·150개 미리보기, Motion Workbench 편집과 JianYing(CapCut 중국판) 프로젝트 내보내기 지원. Apache-2.0 라이선스",
+          "tags": [
+            "agent",
+            "video",
+            "animation"
+          ]
         }
       ]
     },
