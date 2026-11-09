@@ -2886,6 +2886,17 @@
             "3d",
             "web"
           ]
+        },
+        {
+          "name": "viettranx/3dviz-pro-max",
+          "url": "https://github.com/viettranx/3dviz-pro-max",
+          "desc": "아이디어를 인터랙티브 Three.js·Blender 장면으로 구현하는 AI 에이전트 스킬. 시각적 방향 설정·오브젝트 구성·동작 구현·실제 화면 캡처와 개선을 연계하며, 검색 가능한 제작 레시피·지식 자료·실행 템플릿 제공. 자체 코드·데이터는 MIT, 외부 에셋·미디어는 별도 조건 적용",
+          "tags": [
+            "agent",
+            "3d",
+            "design",
+            "web"
+          ]
         }
       ]
     },
