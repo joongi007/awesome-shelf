@@ -17,10 +17,11 @@
         {
           "name": "hotheadhacker/awesome-selfhost-docker",
           "url": "https://github.com/hotheadhacker/awesome-selfhost-docker",
-          "desc": "Docker 및 docker-compose를 사용하여 배포할 수 있는  오픈 소스 자체 호스팅 프로젝트 목록",
+          "desc": "Docker·Docker Compose로 배포할 수 있는 자체 호스팅 오픈소스 프로젝트 목록",
           "tags": [
             "self-hosted",
-            "docker"
+            "docker",
+            "homelab"
           ]
         },
         {
@@ -37,7 +38,8 @@
           "desc": "AI 에이전트 및 RAG가 포함된 멋진 LLM 앱 모음",
           "tags": [
             "agent",
-            "llm"
+            "llm",
+            "rag"
           ]
         },
         {
@@ -89,19 +91,24 @@
           "name": "public-apis/public-apis",
           "url": "https://github.com/public-apis/public-apis",
           "desc": "무료 API의 집합 목록",
-          "tags": []
+          "tags": [
+            "api"
+          ]
         },
         {
           "name": "binhnguyennus/awesome-scalability",
           "url": "https://github.com/binhnguyennus/awesome-scalability",
-          "desc": "확장 가능하고 안정적이며 성능이 뛰어난 대규모 시스템의 패턴을 설명하기 위해 업데이트되고 체계적인 읽기 목록",
+          "desc": "확장성·안정성·성능을 고려한 대규모 시스템 설계 패턴과 읽을거리 모음",
           "tags": []
         },
         {
           "name": "ccbikai/awesome-homelab",
           "url": "https://github.com/ccbikai/awesome-homelab",
-          "desc": "Homelab 매니아를 위한 최고의 오픈 소스 앱 큐레이팅",
-          "tags": []
+          "desc": "홈랩용 오픈소스 앱 모음",
+          "tags": [
+            "self-hosted",
+            "homelab"
+          ]
         },
         {
           "name": "awesomedata/awesome-public-datasets",
@@ -114,13 +121,15 @@
         {
           "name": "mjhea0/awesome-fastapi",
           "url": "https://github.com/mjhea0/awesome-fastapi",
-          "desc": "FastAPI와 관련된 멋진 것들의 선별된 목록",
-          "tags": []
+          "desc": "FastAPI 관련 도구와 자료 모음",
+          "tags": [
+            "python"
+          ]
         },
         {
           "name": "bobeff/open-source-games",
           "url": "https://github.com/bobeff/open-source-games",
-          "desc": "오픈 소스 게임 목록",
+          "desc": "오픈소스 게임 목록",
           "tags": [
             "game"
           ]
@@ -146,14 +155,18 @@
           "name": "playcanvas/awesome-playcanvas",
           "url": "https://github.com/playcanvas/awesome-playcanvas",
           "desc": "PlayCanvas 자산, 자료 등 엄선된 목록",
-          "tags": []
+          "tags": [
+            "3d",
+            "game"
+          ]
         },
         {
           "name": "VoltAgent/awesome-design-md",
           "url": "https://github.com/VoltAgent/awesome-design-md",
           "desc": "AI 에이전트가 일관된 UI를 생성하기 위해 읽는 평문 설계 시스템 문서 모음",
           "tags": [
-            "agent"
+            "agent",
+            "design"
           ]
         },
         {
@@ -179,7 +192,9 @@
           "desc": "생산성 향상을 위한 실전용 Claude Skills·플러그인 1000+종 엄선 목록 (문서처리·개발·데이터 분석·SaaS 연동 등)",
           "tags": [
             "agent",
-            "claude"
+            "claude",
+            "anthropic",
+            "skill"
           ]
         },
         {
@@ -211,7 +226,9 @@
           "name": "AsyncFuncAI/deepwiki-open",
           "url": "https://github.com/AsyncFuncAI/deepwiki-open",
           "desc": "GitHub/Gitlab 리포지토리를 위한 AI 기반 오픈소스 Wiki 생성기",
-          "tags": []
+          "tags": [
+            "llm"
+          ]
         },
         {
           "name": "unionlabs/union",
@@ -233,7 +250,8 @@
           "url": "https://github.com/PennyroyalTea/gibberlink",
           "desc": "두 대화형 AI 에이전트가 서로가 AI 에이전트임을 확인한 후 사운드 레벨 프로토콜로 전환",
           "tags": [
-            "agent"
+            "agent",
+            "audio"
           ]
         },
         {
@@ -258,7 +276,8 @@
           "url": "https://github.com/ai-dynamo/dynamo",
           "desc": "데이터 센터 규모 분산 추론 제공 프레임워크",
           "tags": [
-            "framework"
+            "framework",
+            "inference"
           ]
         },
         {
@@ -273,23 +292,28 @@
         {
           "name": "jkf87/hwp-mcp",
           "url": "https://github.com/jkf87/hwp-mcp",
-          "desc": "hwp 처리를 위한 mcp",
+          "desc": "HWP 문서 처리를 위한 MCP 서버",
           "tags": [
-            "mcp"
+            "mcp",
+            "korean"
           ]
         },
         {
           "name": "YunoHost/yunohost",
           "url": "https://github.com/YunoHost/yunohost",
           "desc": "서버 관리를 최대한 단순화하는 것을 목표로 하는 운영 체제",
-          "tags": []
+          "tags": [
+            "self-hosted"
+          ]
         },
         {
           "name": "th-ch/youtube-music",
           "url": "https://github.com/th-ch/youtube-music",
           "desc": "YouTube Music 데스크톱 앱(및 내장 광고 차단기/다운로더)",
           "tags": [
-            "desktop"
+            "desktop",
+            "audio",
+            "music"
           ]
         },
         {
@@ -297,7 +321,7 @@
           "url": "https://github.com/carbon-app/carbon",
           "desc": "코드 스니펫 이미지 생성기",
           "tags": [
-            "image-gen"
+            "design"
           ]
         },
         {
@@ -309,7 +333,7 @@
         {
           "name": "calcom/cal.com",
           "url": "https://github.com/calcom/cal.com",
-          "desc": "절대적으로 모든 사람을 위한 인프라 스케줄링",
+          "desc": "일정 예약을 위한 인프라",
           "tags": []
         },
         {
@@ -326,7 +350,8 @@
           "url": "https://github.com/juliangarnier/anime",
           "desc": "JavaScript 애니메이션 엔진",
           "tags": [
-            "animation"
+            "animation",
+            "web"
           ]
         },
         {
@@ -335,7 +360,8 @@
           "desc": "파일 및 Office 문서를 Markdown으로 변환하기 위한 Python 패키지",
           "tags": [
             "python",
-            "microsoft"
+            "microsoft",
+            "markdown"
           ]
         },
         {
@@ -345,8 +371,7 @@
           "tags": [
             "rust",
             "database",
-            "security",
-            "note-taking"
+            "game"
           ]
         },
         {
@@ -361,9 +386,8 @@
         {
           "name": "OpenBB-finance/OpenBB",
           "url": "https://github.com/OpenBB-finance/OpenBB",
-          "desc": "무료이며 완전히 오픈 소스인 최초의 금융 플랫폼",
+          "desc": "무료이며 완전히 오픈소스인 최초의 금융 플랫폼",
           "tags": [
-            "security",
             "finance"
           ]
         },
@@ -381,16 +405,17 @@
           "url": "https://github.com/Stirling-Tools/Stirling-PDF",
           "desc": "PDF 파일에 대해 다양한 작업을 수행할 수 있는 로컬로 호스팅되는 웹 응용 프로그램",
           "tags": [
-            "pdf"
+            "pdf",
+            "self-hosted"
           ]
         },
         {
           "name": "bgstaal/multipleWindow3dScene",
           "url": "https://github.com/bgstaal/multipleWindow3dScene",
-          "desc": "three.js와 localStorage를 사용하여 여러 창에서 3D 장면을 \"동기화\"하는 방법에 대한 간단한 예",
+          "desc": "Three.js와 localStorage로 여러 브라우저 창의 3D 장면을 동기화하는 예제",
           "tags": [
-            "storage",
-            "3d"
+            "3d",
+            "web"
           ]
         },
         {
@@ -404,7 +429,7 @@
         {
           "name": "koreader/koreader",
           "url": "https://github.com/koreader/koreader",
-          "desc": "Cervantes, Kindle, Kobo, PocketBook 및 Android 장치에서 실행되는 PDF, DjVu, EPUB, FB2 등등을 지원하는 전자 책 리더 응용 프로그램",
+          "desc": "Cervantes·Kindle·Kobo·PocketBook·Android용 전자책 리더. PDF·DjVu·EPUB·FB2 등 지원",
           "tags": [
             "pdf"
           ]
@@ -420,10 +445,8 @@
         {
           "name": "rybbit-io/rybbit",
           "url": "https://github.com/rybbit-io/rybbit",
-          "desc": "Google Analytics의 오픈 소스 및 개인 정보 보호 친화적인 대안",
-          "tags": [
-            "google"
-          ]
+          "desc": "Google Analytics의 오픈소스 및 개인 정보 보호 친화적인 대안",
+          "tags": []
         },
         {
           "name": "ahmedkhaleel2004/gitdiagram",
@@ -436,7 +459,7 @@
         {
           "name": "usememos/memos",
           "url": "https://github.com/usememos/memos",
-          "desc": "오픈 소스의 가벼운 메모 작성 솔루션",
+          "desc": "오픈소스의 가벼운 메모 작성 솔루션",
           "tags": [
             "note-taking"
           ]
@@ -488,9 +511,10 @@
         {
           "name": "GyulyVGC/sniffnet",
           "url": "https://github.com/GyulyVGC/sniffnet",
-          "desc": "인터넷 트래픽을 편안하게 모니터링 🕵️‍♂️",
+          "desc": "인터넷 트래픽을 모니터링하는 도구",
           "tags": [
-            "monitoring"
+            "monitoring",
+            "security"
           ]
         },
         {
@@ -505,9 +529,10 @@
         {
           "name": "toeverything/AFFiNE",
           "url": "https://github.com/toeverything/AFFiNE",
-          "desc": "오픈 소스, 올인원 작업 공간이며 지식 기반과 Wiki, 지식 관리, 프레젠테이션 및 디지털 자산을 구성하는 모든 구성 요소를 위한 운영 체제",
+          "desc": "문서·지식 베이스·위키·프레젠테이션·디지털 자산을 관리하는 오픈소스 통합 작업 공간",
           "tags": [
-            "presentation"
+            "presentation",
+            "note-taking"
           ]
         },
         {
@@ -554,13 +579,13 @@
         {
           "name": "frappe/hrms",
           "url": "https://github.com/frappe/hrms",
-          "desc": "오픈소스 인사 관리 및 금여 소프트웨어",
+          "desc": "오픈소스 인사·급여 관리 소프트웨어",
           "tags": []
         },
         {
           "name": "semgrep/semgrep",
           "url": "https://github.com/semgrep/semgrep",
-          "desc": "코드를 검색하고, 버그를 찾고, 보안 가드레일 및 코딩 표준을 적용하는 빠른 오픈 소스 정적 분석 도구",
+          "desc": "코드를 검색하고, 버그를 찾고, 보안 가드레일 및 코딩 표준을 적용하는 빠른 오픈소스 정적 분석 도구",
           "tags": [
             "security"
           ]
@@ -571,7 +596,8 @@
           "desc": "React Native의 재구현된 Animated 라이브러리",
           "tags": [
             "react",
-            "library"
+            "library",
+            "animation"
           ]
         },
         {
@@ -595,23 +621,28 @@
         {
           "name": "steveiliop56/tinyauth",
           "url": "https://github.com/steveiliop56/tinyauth",
-          "desc": "모든 도커 앱에 간단한 로그인 화면 또는 Google, Github 및 모든 공급자를 사용하는 OAuth를 추가하는 간단한 인증 미들웨어",
+          "desc": "Docker 앱에 로그인 화면과 Google·GitHub 등 공급자의 OAuth 인증을 추가하는 미들웨어",
           "tags": [
             "docker",
-            "google"
+            "security"
           ]
         },
         {
           "name": "zumerlab/snapdom",
           "url": "https://github.com/zumerlab/snapdom",
           "desc": "모든 HTML 요소를 확장 가능한 SVG 이미지로 캡처하여 스타일, 글꼴, 배경 이미지, 의사 요소 및 섀도우 DOM까지 보존",
-          "tags": []
+          "tags": [
+            "web"
+          ]
         },
         {
           "name": "datalab-to/marker",
           "url": "https://github.com/datalab-to/marker",
           "desc": "PDF를 마크다운 + JSON으로 빠르게 높은 정확도로 변환",
-          "tags": []
+          "tags": [
+            "pdf",
+            "markdown"
+          ]
         },
         {
           "name": "qarmin/czkawka",
@@ -624,7 +655,8 @@
           "url": "https://github.com/immich-app/immich",
           "desc": "고성능 자체 호스팅 사진 및 비디오 관리 솔루션",
           "tags": [
-            "self-hosted"
+            "self-hosted",
+            "video"
           ]
         },
         {
@@ -651,7 +683,7 @@
         {
           "name": "tabler/tabler",
           "url": "https://github.com/tabler/tabler",
-          "desc": "Bootstrap을 기반으로 구축된 무료 오픈 소스 HTML 대시보드 UI 키트",
+          "desc": "Bootstrap을 기반으로 구축된 무료 오픈소스 HTML 대시보드 UI 키트",
           "tags": [
             "dashboard",
             "ui"
@@ -662,8 +694,7 @@
           "url": "https://github.com/ansible/ansible",
           "desc": "매우 간단한 IT 자동화 플랫폼",
           "tags": [
-            "automation",
-            "security"
+            "automation"
           ]
         },
         {
@@ -678,13 +709,18 @@
           "name": "paperless-ngx/paperless-ngx",
           "url": "https://github.com/paperless-ngx/paperless-ngx",
           "desc": "모든 문서를 스캔, 색인 생성 및 보관할 수 있는 강력한 문서 관리 시스템",
-          "tags": []
+          "tags": [
+            "self-hosted"
+          ]
         },
         {
           "name": "spipm/Depixelization_poc",
           "url": "https://github.com/spipm/Depixelization_poc",
           "desc": "픽셀화된 스크린샷에서 일반 텍스트를 복구하는 기술을 위한 PoC",
-          "tags": []
+          "tags": [
+            "security",
+            "vision"
+          ]
         },
         {
           "name": "localstack/localstack",
@@ -701,8 +737,10 @@
         {
           "name": "beclab/Olares",
           "url": "https://github.com/beclab/Olares",
-          "desc": "데이터를 되찾는 오픈 소스 개인 클라우드",
-          "tags": []
+          "desc": "데이터를 되찾는 오픈소스 개인 클라우드",
+          "tags": [
+            "self-hosted"
+          ]
         },
         {
           "name": "sinelaw/fresh",
@@ -731,26 +769,36 @@
         {
           "name": "rendercv/rendercv",
           "url": "https://github.com/rendercv/rendercv",
-          "desc": "학자와 엔지니어를 위한 이력서/이력서 생성기",
+          "desc": "학자·엔지니어를 위한 이력서 생성기",
           "tags": []
         },
         {
           "name": "bluenviron/mediamtx",
           "url": "https://github.com/bluenviron/mediamtx",
           "desc": "의존성이 없는 실시간 미디어 서버 및 미디어 프록시",
-          "tags": []
+          "tags": [
+            "video",
+            "audio"
+          ]
         },
         {
           "name": "remotion-dev/remotion",
           "url": "https://github.com/remotion-dev/remotion",
-          "desc": "React로 프로그래매틱으로 영상을 만듭니다",
-          "tags": []
+          "desc": "React 코드로 영상을 제작하는 도구",
+          "tags": [
+            "react",
+            "video",
+            "animation"
+          ]
         },
         {
           "name": "excalidraw/excalidraw",
           "url": "https://github.com/excalidraw/excalidraw",
           "desc": "손으로 그린 도표 같은 스케치용 가상 화이트보드",
-          "tags": []
+          "tags": [
+            "diagram",
+            "design"
+          ]
         },
         {
           "name": "magnum6actual/flipoff",
@@ -762,26 +810,30 @@
           "name": "capcom6/android-sms-gateway",
           "url": "https://github.com/capcom6/android-sms-gateway",
           "desc": "안드로이드 앱이 직접 또는 클라우드 방식으로 API를 통해 SMS를 송수신할 수 있는 게이트웨이 오픈소스",
-          "tags": []
+          "tags": [
+            "api"
+          ]
         },
         {
           "name": "nexu-io/open-design",
           "url": "https://github.com/nexu-io/open-design",
-          "desc": "Anthropic의 Claude Design에 대한 로컬 우선 오픈 소스 대안",
+          "desc": "Anthropic의 Claude Design에 대한 로컬 우선 오픈소스 대안",
           "tags": [
-            "anthropic"
+            "design"
           ]
         },
         {
           "name": "siddharthvaddem/openscreen",
           "url": "https://github.com/siddharthvaddem/openscreen",
-          "desc": "Screen Studio의 무료 오픈 소스 대안",
-          "tags": []
+          "desc": "Screen Studio의 무료 오픈소스 대안",
+          "tags": [
+            "video"
+          ]
         },
         {
           "name": "LibreTranslate/LibreTranslate",
           "url": "https://github.com/LibreTranslate/LibreTranslate",
-          "desc": "완전 자체 호스팅된 무료 오픈 소스 기계 번역 API",
+          "desc": "완전 자체 호스팅된 무료 오픈소스 기계 번역 API",
           "tags": [
             "self-hosted",
             "api",
@@ -850,8 +902,10 @@
         {
           "name": "guofei9987/blind_watermark",
           "url": "https://github.com/guofei9987/blind_watermark",
-          "desc": "워터마크 추가",
-          "tags": []
+          "desc": "이미지에 워터마크를 추가하는 도구",
+          "tags": [
+            "vision"
+          ]
         }
       ]
     },
@@ -864,7 +918,7 @@
         {
           "name": "ChatGPT",
           "url": "https://chatgpt.com",
-          "desc": "오픈 AI가 개발한 대화형 인공지능 서비스",
+          "desc": "OpenAI의 대화형 AI 서비스",
           "tags": [
             "openai"
           ]
@@ -890,17 +944,15 @@
           "url": "https://aistudio.google.com/prompts/new_chat",
           "desc": "구글이 제공하는 생성형 AI 모델을 빠르게 테스트하고 개발할 수 있는 브라우저 기반 IDE 플랫폼",
           "tags": [
-            "security",
             "google"
           ]
         },
         {
           "name": "Google Antigravity",
           "url": "https://antigravity.google/",
-          "desc": "소프트웨어 개발을 위한 AI 에이전트 플랫폼을 우선시하는  구글이 개발한 AI 기반 통합 개발 환경",
+          "desc": "소프트웨어 개발용 AI 에이전트를 중심으로 구성한 Google의 통합 개발 환경",
           "tags": [
             "agent",
-            "security",
             "google"
           ]
         },
@@ -925,7 +977,6 @@
           "url": "https://wrtn.ai",
           "desc": "한국의 AI 기반 콘텐츠 제작 및 검색 플랫폼",
           "tags": [
-            "security",
             "korean"
           ]
         },
@@ -942,13 +993,15 @@
           "url": "https://grok.com/imagine",
           "desc": "xAI가 개발한 이미지 및 비디오 생성 AI 서비스",
           "tags": [
-            "video-gen"
+            "video-gen",
+            "image-gen",
+            "video"
           ]
         },
         {
           "name": "Perplexity",
           "url": "https://www.perplexity.ai/",
-          "desc": "정보를 발견하는 방법을 혁신하기 위해 설계된 인공지능(AI) 검색 엔진",
+          "desc": "AI 기반 검색 엔진",
           "tags": []
         },
         {
@@ -988,13 +1041,14 @@
           "desc": "가상 아바타를 선택하고, 텍스트를 작성하고, 배경 음악을 추가하여 AI 동영상 제작을 위한 소프트웨어",
           "tags": [
             "audio",
-            "video-gen"
+            "video-gen",
+            "video"
           ]
         },
         {
           "name": "Elevenlabs",
           "url": "https://elevenlabs.io",
-          "desc": "딥러닝을 활용한 자연스러운 음성 합성 소프트웨어를 전문적으로 개발하는 소프트웨어",
+          "desc": "자연스러운 음성 합성을 제공하는 AI 서비스",
           "tags": [
             "tts",
             "audio"
@@ -1006,14 +1060,17 @@
           "desc": "간단한 프롬프트 입력만으로 음악을 만들 수 있는 음악 작곡 · 생성 인공지능",
           "tags": [
             "audio",
-            "prompt"
+            "music"
           ]
         },
         {
-          "name": "SUNO Stuido",
+          "name": "SUNO Studio",
           "url": "https://suno.com/studio-welcome",
-          "desc": "SUNO AI와 DAW 기능을 지원하는 버전으로 트랙별 생성 및 편집이 가능",
-          "tags": []
+          "desc": "SUNO AI와 DAW 기능을 결합한 음악 제작 도구. 트랙별 생성·편집 지원",
+          "tags": [
+            "audio",
+            "music"
+          ]
         },
         {
           "name": "Midjourney",
@@ -1052,7 +1109,9 @@
           "name": "Cursor",
           "url": "https://www.cursor.com/",
           "desc": "VS Code 기반의 AI 기술을 활용한 새로운 통합 개발 환경",
-          "tags": []
+          "tags": [
+            "agent"
+          ]
         },
         {
           "name": "Replit",
@@ -1065,7 +1124,7 @@
         {
           "name": "Claude Code",
           "url": "https://github.com/anthropics/claude-code",
-          "desc": "터미널에서 코드베이스를 이해하고 프롬프트를 통해 더 빠른 코딩을 도와주는 에이전트 코딩 도그",
+          "desc": "터미널에서 코드베이스를 이해하고 자연어 지시로 코딩을 돕는 AI 에이전트",
           "tags": [
             "cli",
             "agent",
@@ -1076,7 +1135,7 @@
         {
           "name": "Gemini CLI",
           "url": "https://github.com/google-gemini/gemini-cli",
-          "desc": "Gemini의 기능을 터미널에 직접 가져오는 오픈 소스 AI 에이전트",
+          "desc": "Gemini의 기능을 터미널에 직접 가져오는 오픈소스 AI 에이전트",
           "tags": [
             "cli",
             "agent",
@@ -1088,14 +1147,19 @@
           "url": "https://www.udio.com/",
           "desc": "오디오 및 음악 생성 인공지능",
           "tags": [
-            "audio"
+            "audio",
+            "music"
           ]
         },
         {
           "name": "kling AI",
           "url": "https://klingai.com/",
           "desc": "최첨단 생성형 AI 방법을 기반으로 상상력이 풍부한 이미지와 비디오를 만들기 위한 도구",
-          "tags": []
+          "tags": [
+            "image-gen",
+            "video-gen",
+            "video"
+          ]
         },
         {
           "name": "Higgsfield",
@@ -1103,8 +1167,8 @@
           "desc": "Sora·Kling·Veo·Seedance 등 여러 모델과 자체 모델을 한곳에서 쓰는 다중 모델 AI 영상·이미지 생성 플랫폼. 카메라·모션·스타일 제어, 4K 이미지·시네마틱 영상 제작",
           "tags": [
             "video-gen",
-            "security",
-            "image-gen"
+            "image-gen",
+            "video"
           ]
         },
         {
@@ -1129,9 +1193,7 @@
           "name": "Hedra",
           "url": "https://www.hedra.com/",
           "desc": "차세대 멀티모달 콘텐츠 제작 플랫폼",
-          "tags": [
-            "security"
-          ]
+          "tags": []
         },
         {
           "name": "Runway",
@@ -1139,7 +1201,7 @@
           "desc": "AI 도구를 활용해 이미지 생성, 편집, 변환 등 다양한 크리에이티브 작업을 할 수 있는 플랫폼",
           "tags": [
             "image-gen",
-            "security"
+            "design"
           ]
         },
         {
@@ -1156,7 +1218,7 @@
           "desc": "AI 언어모델을 로컬에서 안전하게 실행할 수 있도록 돕는 경량화 플랫폼",
           "tags": [
             "llm",
-            "security"
+            "inference"
           ]
         },
         {
@@ -1165,25 +1227,24 @@
           "desc": "Typography와 그래픽 디자인에 탁월한 Text To Image AI 플랫폼",
           "tags": [
             "image-gen",
-            "security"
+            "design"
           ]
         },
         {
           "name": "Codex CLI",
           "url": "https://github.com/openai/codex",
-          "desc": "OpenAI 의 코딩 어시스턴트를 터미널에서 실행",
+          "desc": "OpenAI의 코딩 어시스턴트를 터미널에서 실행하는 CLI",
           "tags": [
             "cli",
-            "openai"
+            "openai",
+            "agent"
           ]
         },
         {
           "name": "Base 44",
           "url": "https://base44.com/",
-          "desc": "사용자가 몇 분 안에 완벽하게 작동하는 앱을 구축할 수 있는 AI 기반 플랫폼입니다.",
-          "tags": [
-            "security"
-          ]
+          "desc": "자연어로 앱을 만드는 AI 플랫폼",
+          "tags": []
         },
         {
           "name": "Nano Banana",
@@ -1200,7 +1261,9 @@
           "url": "https://www.krea.ai/",
           "desc": "AI를 활용하여 이미지와 비디오를 제작하는 최첨단 플랫폼",
           "tags": [
-            "security"
+            "image-gen",
+            "video-gen",
+            "video"
           ]
         },
         {
@@ -1209,7 +1272,8 @@
           "desc": "구글에서 개발한 AI 기반 업무용 동영상 제작 앱",
           "tags": [
             "video-gen",
-            "google"
+            "google",
+            "video"
           ]
         },
         {
@@ -1223,7 +1287,9 @@
           "url": "https://sora.chatgpt.com/explore",
           "desc": "오픈AI가 개발한 텍스트-비디오 모델",
           "tags": [
-            "openai"
+            "openai",
+            "video-gen",
+            "video"
           ]
         },
         {
@@ -1231,21 +1297,27 @@
           "url": "https://stitch.withgoogle.com",
           "desc": "모바일 및 웹 애플리케이션용 UI를 Gemini로 빠르게 구상할 수 있는 플랫폼",
           "tags": [
-            "security",
-            "google"
+            "google",
+            "ui",
+            "design"
           ]
         },
         {
           "name": "v0 by Vercel",
           "url": "https://v0.app/",
           "desc": "vercel에서 개발한 웹용 풀스택 애플리케이션을 설계, 반복 및 확장할 수 있는 협업 AI 도우미",
-          "tags": []
+          "tags": [
+            "web",
+            "design"
+          ]
         },
         {
           "name": "Lovable",
           "url": "https://lovable.dev",
           "desc": "복잡한 코드 한 줄 없이 자연어만으로 웹 앱이나 웹사이트를 만들어주는 AI 서비스",
-          "tags": []
+          "tags": [
+            "web"
+          ]
         },
         {
           "name": "Kimi",
@@ -1256,31 +1328,32 @@
         {
           "name": "Comfy Cloud",
           "url": "https://www.comfy.org/cloud",
-          "desc": "시각적 AI를 위한 세계 최고의 노드 기반 클라우드 플랫폼",
-          "tags": [
-            "security"
-          ]
+          "desc": "시각 콘텐츠 제작을 위한 노드 기반 AI 클라우드 플랫폼",
+          "tags": []
         },
         {
           "name": "LiveAvatar by HeyGen",
           "url": "https://www.liveavatar.com/",
-          "desc": "초현실적인 실시간 아바타",
-          "tags": []
+          "desc": "실시간 아바타 서비스",
+          "tags": [
+            "video",
+            "audio",
+            "real-time"
+          ]
         },
         {
           "name": "Code Wiki",
           "url": "https://codewiki.google/",
           "desc": "코드 저장소를 자동으로 분석해 항상 최신 상태로 유지되는 구조화된 위키 문서를 생성하는 플랫폼",
-          "tags": [
-            "security"
-          ]
+          "tags": []
         },
         {
           "name": "LTX Studio",
           "url": "https://ltx.studio/",
-          "desc": "창의적인 아이디어를 고품질의 전문적인 영상으로 변환하는 올인원 생성형 AI 플랫폼",
+          "desc": "아이디어를 영상으로 제작하는 생성형 AI 플랫폼",
           "tags": [
-            "security"
+            "video-gen",
+            "video"
           ]
         },
         {
@@ -1289,8 +1362,9 @@
           "desc": "바이트댄스(ByteDance)에서 개발한 캡컷(CapCut)의 AI 기반 이미지 및 영상 생성 플랫폼",
           "tags": [
             "video-gen",
-            "security",
-            "bytedance"
+            "bytedance",
+            "image-gen",
+            "video"
           ]
         },
         {
@@ -1298,8 +1372,9 @@
           "url": "https://quiver.ai/",
           "desc": "텍스트나 이미지를 입력받아 편집 가능한 SVG(벡터) 형식의 로고, 아이콘, 일러스트를 생성하는 AI 서비스",
           "tags": [
-            "rust",
-            "ui"
+            "ui",
+            "image-gen",
+            "design"
           ]
         },
         {
@@ -1323,7 +1398,8 @@
           "desc": "실시간 라이브 영상 변환 모델을 연이어 내놓는 AI 플랫폼. 대표 모델 Lucy 2.5는 30 FPS·1080p·40ms 미만 지연으로 라이브 스트림에 VFX 삽입·객체 제거·캐릭터 변형을 수행 (API 서비스)",
           "tags": [
             "video-gen",
-            "real-time"
+            "real-time",
+            "video"
           ]
         },
         {
@@ -1332,7 +1408,8 @@
           "desc": "한국 소버린 AI 기업 Motif Technologies가 자체 LLM(Motif 시리즈)으로 제공하는 대화형 AI 서비스. 추론·요약·번역·코드 생성과 텍스트 기반 이미지 생성 지원",
           "tags": [
             "llm",
-            "korean"
+            "korean",
+            "image-gen"
           ]
         },
         {
@@ -1341,7 +1418,8 @@
           "desc": "구글 딥마인드의 음악 생성 모델. 프롬프트로 템포·장르·보컬·악기를 지정해 최대 3분 트랙을 생성하고 이미지→음악도 지원. Flow Music 웹앱·AI Studio API·실시간판(Lyria RealTime) 등으로 제공",
           "tags": [
             "music",
-            "google"
+            "google",
+            "audio"
           ]
         },
         {
@@ -1385,7 +1463,9 @@
           "name": "ArcInstitute/evo2",
           "url": "https://github.com/ArcInstitute/evo2",
           "desc": "모든 영역에 걸친 게놈 모델링 및 설계",
-          "tags": []
+          "tags": [
+            "genomics"
+          ]
         },
         {
           "name": "FunAudioLLM/CosyVoice",
@@ -1408,7 +1488,7 @@
         {
           "name": "MoonshotAI/Kimi-Audio",
           "url": "https://github.com/MoonshotAI/Kimi-Audio",
-          "desc": "오디오 이해, 생성 및 대화에 탁월한 오픈 소스 오디오 파운데이션 모델",
+          "desc": "오디오 이해, 생성 및 대화에 탁월한 오픈소스 오디오 파운데이션 모델",
           "tags": [
             "audio"
           ]
@@ -1427,22 +1507,22 @@
           "url": "https://github.com/Lightricks/LTX-Video",
           "desc": "고품질 영상을 실시간으로 제작할 수 있는 최초의 DiT 기반 영상 생성 모델 공식 저장소",
           "tags": [
-            "video-gen"
+            "video-gen",
+            "video"
           ]
         },
         {
           "name": "Peterande/D-FINE",
           "url": "https://github.com/Peterande/D-FINE",
-          "desc": "FDR 재정의와 GO-LSD를 도입하여 추가 추론 및 교육 비용 없이 뛰어난 성능을 달성하는 강력한 실시간 객체 검출기",
+          "desc": "FDR·GO-LSD를 도입한 실시간 객체 탐지 모델. 추가 추론·학습 비용 없이 성능 개선을 지향",
           "tags": [
-            "tutorial",
             "vision"
           ]
         },
         {
           "name": "OmniGen2/OmniGen2",
           "url": "https://huggingface.co/OmniGen2/OmniGen2",
-          "desc": "시각적 이해, text to image, 인간, 참조 개체, 장면을 포함한 다양한 입력을 처리, instruction을 통한 Image Editing 모델",
+          "desc": "시각적 이해·텍스트 기반 이미지 생성·지시 기반 이미지 편집 모델. 인물·참조 객체·장면 등 다양한 입력 처리",
           "tags": [
             "image-gen"
           ]
@@ -1451,12 +1531,15 @@
           "name": "tau-yihouxiang/EX-4D",
           "url": "https://github.com/tau-yihouxiang/EX-4D",
           "desc": "단일 시점 비디오로부터 극한의 시점에서도 물리적으로 일관성 있는 고품질 4D 비디오를 합성하는 기술",
-          "tags": []
+          "tags": [
+            "video",
+            "3d"
+          ]
         },
         {
           "name": "Calligrapher2025/Calligrapher",
           "url": "https://github.com/Calligrapher2025/Calligrapher",
-          "desc": "디지털 캘리그래피 및 디자인 응용 분야에서 정밀한 스타일 제어와 다양한 텍스트 이미지 생성",
+          "desc": "디지털 캘리그래피·디자인용 텍스트 이미지 생성 모델. 세밀한 스타일 제어 지원",
           "tags": [
             "image-gen"
           ]
@@ -1466,15 +1549,19 @@
           "url": "https://github.com/CN-makers/LongAnimation",
           "desc": "단기 컬러화 방식의 한계였던 장기 색상 일관성을 유지하며 긴 애니메이션을 생성하는 기술",
           "tags": [
-            "animation"
+            "animation",
+            "video-gen",
+            "video"
           ]
         },
         {
           "name": "microsoft/MoGe",
           "url": "https://github.com/microsoft/MoGe",
-          "desc": "개방 영역 이미지에 대한 정확한 단안 기하학 추정",
+          "desc": "다양한 이미지에서 단안 기하 정보를 추정하는 모델",
           "tags": [
-            "microsoft"
+            "microsoft",
+            "vision",
+            "3d"
           ]
         },
         {
@@ -1507,7 +1594,8 @@
           "url": "https://github.com/Wan-Video/Wan2.2",
           "desc": "개방형 및 고급 대규모 비디오 생성 모델",
           "tags": [
-            "video-gen"
+            "video-gen",
+            "video"
           ]
         },
         {
@@ -1516,7 +1604,9 @@
           "desc": "강력한 추론, 에이전트 작업 및 다양한 개발자 사용 사례를 위해 설계된 OpenAI의 오픈 가중치 모델",
           "tags": [
             "agent",
-            "openai"
+            "openai",
+            "llm",
+            "open-weight"
           ]
         },
         {
@@ -1524,13 +1614,14 @@
           "url": "https://github.com/manycore-research/SpatialLM",
           "desc": "구조화된 실내 모델링을 위한 대규모 언어 모델 학습",
           "tags": [
-            "llm"
+            "llm",
+            "3d"
           ]
         },
         {
           "name": "microsoft/VibeVoice",
           "url": "https://github.com/microsoft/VibeVoice",
-          "desc": "프론티어 오픈 소스 텍스트 음성 변환",
+          "desc": "오픈소스 텍스트 음성 변환(TTS) 모델",
           "tags": [
             "tts",
             "audio",
@@ -1540,9 +1631,10 @@
         {
           "name": "resemble-ai/chatterbox",
           "url": "https://github.com/resemble-ai/chatterbox",
-          "desc": "SoTA 오픈 소스 TTS",
+          "desc": "오픈소스 텍스트 음성 변환(TTS) 모델",
           "tags": [
-            "tts"
+            "tts",
+            "audio"
           ]
         },
         {
@@ -1550,7 +1642,6 @@
           "url": "https://github.com/Plachtaa/seed-vc",
           "desc": "제로샷 음성 변환 및 노래 음성 변환, 실시간 지원",
           "tags": [
-            "tts",
             "audio"
           ]
         },
@@ -1564,7 +1655,9 @@
           "name": "inclusionAI/Ring-1T",
           "url": "https://huggingface.co/inclusionAI/Ring-1T",
           "desc": "앤트 그룹에서 개발한 1조 매개변수를 가진 오픈소스 모델",
-          "tags": []
+          "tags": [
+            "llm"
+          ]
         },
         {
           "name": "myshell-ai/OpenVoice",
@@ -1597,7 +1690,8 @@
           "url": "https://github.com/alex4727/motionstream",
           "desc": "인터랙티브 모션 컨트롤을 통한 실시간 비디오 생성",
           "tags": [
-            "video-gen"
+            "video-gen",
+            "video"
           ]
         },
         {
@@ -1607,7 +1701,8 @@
           "tags": [
             "video-gen",
             "audio",
-            "open-weight"
+            "open-weight",
+            "video"
           ]
         },
         {
@@ -1631,7 +1726,7 @@
         {
           "name": "ekwek1/soprano",
           "url": "https://github.com/ekwek1/soprano",
-          "desc": "즉각적이고 초현실적인 텍스트 음성 변환",
+          "desc": "빠르고 자연스러운 텍스트 음성 변환(TTS) 모델",
           "tags": [
             "tts",
             "audio"
@@ -1643,7 +1738,8 @@
           "desc": "가사와 태그를 기반으로 음악을 생성하는 음악 언어 모델",
           "tags": [
             "llm",
-            "audio"
+            "audio",
+            "music"
           ]
         },
         {
@@ -1652,7 +1748,8 @@
           "desc": "바이트댄스(ByteDance)가 개발한 고품질 멀티모달 AI 비디오 생성 엔진",
           "tags": [
             "video-gen",
-            "bytedance"
+            "bytedance",
+            "video"
           ]
         },
         {
@@ -1678,7 +1775,8 @@
           "desc": "빠른 오디오-비디오 생성 기초 모델을 위한 단일 스트림 아키텍처 모델",
           "tags": [
             "audio",
-            "video-gen"
+            "video-gen",
+            "video"
           ]
         },
         {
@@ -1693,7 +1791,7 @@
         {
           "name": "CohereLabs/cohere-transcribe-03-2026",
           "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
-          "desc": "2B 파라미터 전용 오디오, 텍스트 출력 자동 음성 인식(ASR) 오픈 소스 모델",
+          "desc": "2B 파라미터 전용 오디오, 텍스트 출력 자동 음성 인식(ASR) 오픈소스 모델",
           "tags": [
             "stt",
             "audio"
@@ -1702,7 +1800,7 @@
         {
           "name": "mistralai/Voxtral-4B-TTS-2603",
           "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
-          "desc": "빠르고 즉각적으로 적응 가능하며 음성 상담원을 위한 생생한 음성 합성 기능을 제공하는 개척형 오픈 웨이트 텍스트-음성 변환 모델",
+          "desc": "음성 에이전트용 오픈웨이트 텍스트 음성 변환(TTS) 모델. 빠른 적응과 자연스러운 음성 합성 지원",
           "tags": [
             "tts",
             "audio"
@@ -1712,7 +1810,9 @@
           "name": "Netflix/void-model",
           "url": "https://github.com/Netflix/void-model",
           "desc": "넷플릭스에서 개발한 영상에서 객체와 그것이 장면에 유발하는 모든 상호작용을 제거하는 모델",
-          "tags": []
+          "tags": [
+            "video"
+          ]
         },
         {
           "name": "HiDream-ai/HiDream-O1-Image",
@@ -1725,7 +1825,7 @@
         {
           "name": "supertone-inc/supertonic",
           "url": "https://github.com/supertone-inc/supertonic",
-          "desc": "하이브 자회사에서 개발한 최소한의 오버헤드로 지역 추론을 위해 설계된 번개처럼 빠른 온디바이스 다국어 텍스트-음성 변환 시스템",
+          "desc": "하이브 자회사가 개발한 온디바이스 다국어 텍스트 음성 변환(TTS) 시스템. 낮은 오버헤드와 빠른 로컬 추론을 지향",
           "tags": [
             "tts",
             "audio"
@@ -1736,14 +1836,18 @@
           "url": "https://github.com/cwx-worst-one/WavTTS",
           "desc": "직접 원시 파형 모델링을 통한 고품질 제로샷 TTS",
           "tags": [
-            "tts"
+            "tts",
+            "audio"
           ]
         },
         {
           "name": "ideogram-oss/ideogram4",
           "url": "https://github.com/ideogram-oss/ideogram4",
-          "desc": "Ideogram의 첫 번째 오픈 웨이트 텍스트-이미지 모델",
-          "tags": []
+          "desc": "Ideogram의 첫 번째 오픈웨이트 텍스트-이미지 모델",
+          "tags": [
+            "image-gen",
+            "open-weight"
+          ]
         },
         {
           "name": "bytedance/Bernini",
@@ -1752,13 +1856,14 @@
           "tags": [
             "framework",
             "video-gen",
-            "bytedance"
+            "bytedance",
+            "video"
           ]
         },
         {
           "name": "MisoLabsAI/MisoTTS",
           "url": "https://github.com/MisoLabsAI/MisoTTS",
-          "desc": "80억 개의 매우 감정적인 텍스트-음성 변환 모델",
+          "desc": "감정 표현을 지원하는 8B 텍스트 음성 변환(TTS) 모델",
           "tags": [
             "tts",
             "audio"
@@ -1787,7 +1892,8 @@
           "desc": "텍스트·이미지로 무한히 이어지는 인터랙티브 영상을 실시간 생성하는 월드 모델(720p 60fps, Wan2.2 기반 14B). 공격·주문 등 행동과 텍스트 이벤트로 상호작용",
           "tags": [
             "video-gen",
-            "world-model"
+            "world-model",
+            "video"
           ]
         },
         {
@@ -1797,7 +1903,8 @@
           "tags": [
             "video-gen",
             "audio",
-            "open-weight"
+            "open-weight",
+            "video"
           ]
         },
         {
@@ -1824,7 +1931,9 @@
           "desc": "구동 영상과 레퍼런스 이미지만으로 캐릭터 애니메이션 영상을 생성하는 프레임워크. Diffusion Transformer로 동작을 옮기며 정체성을 보존하고, 텍스트로 시점을 제어. 실시간 스트리밍용 경량(distill)판 포함, 오픈웨이트",
           "tags": [
             "video-gen",
-            "open-weight"
+            "open-weight",
+            "animation",
+            "video"
           ]
         },
         {
@@ -1844,7 +1953,8 @@
           "tags": [
             "video-gen",
             "audio",
-            "open-weight"
+            "open-weight",
+            "video"
           ]
         },
         {
@@ -1883,7 +1993,8 @@
           "tags": [
             "video-gen",
             "3d",
-            "open-weight"
+            "open-weight",
+            "video"
           ]
         },
         {
@@ -1902,7 +2013,8 @@
           "desc": "Qwen-Image-Edit의 DiT를 Wan 2.1 영상 VAE에 연결해 지시(instruction) 기반으로 영상을 편집하는 모델. 청크 단위 롱비디오 편집, 360/480/720P 체크포인트, ComfyUI 노드 제공, 오픈웨이트",
           "tags": [
             "video-gen",
-            "open-weight"
+            "open-weight",
+            "video"
           ]
         },
         {
@@ -1911,7 +2023,9 @@
           "desc": "구동 영상과 캐릭터를 덧칠한 프레임 한 장만으로 영상 속 캐릭터를 교체하는 오픈웨이트 모델. 포즈·마스크·프롬프트 없이 3번의 forward pass로 동작(MiniMax-H3 33.1B 파인튜닝+DMD 증류), 사람이 아닌 대상도 애니메이션",
           "tags": [
             "video-gen",
-            "open-weight"
+            "open-weight",
+            "animation",
+            "video"
           ]
         },
         {
@@ -1981,7 +2095,8 @@
           "tags": [
             "video-gen",
             "audio",
-            "open-weight"
+            "open-weight",
+            "video"
           ]
         },
         {
@@ -2042,7 +2157,8 @@
             "video-gen",
             "audio",
             "multimodal",
-            "open-weight"
+            "open-weight",
+            "video"
           ]
         },
         {
@@ -2083,7 +2199,8 @@
             "stt",
             "audio",
             "llm",
-            "open-weight"
+            "open-weight",
+            "translation"
           ]
         },
         {
@@ -2141,7 +2258,9 @@
           "url": "https://github.com/hacksider/Deep-Live-Cam",
           "desc": "실시간 얼굴 스왑 및 원클릭 비디오 딥페이크",
           "tags": [
-            "vision"
+            "vision",
+            "deepfake",
+            "video"
           ]
         },
         {
@@ -2149,20 +2268,18 @@
           "url": "https://github.com/n8n-io/n8n",
           "desc": "네이티브 AI 기능을 갖춘 오픈소스 페어 코드 워크플로우 자동화 플랫폼",
           "tags": [
-            "automation",
-            "security"
+            "automation"
           ]
         },
         {
           "name": "langgenius/dify",
           "url": "https://github.com/langgenius/dify",
-          "desc": "오픈 소스 AI 워크플로우, RAG 파이프라인, 에이전트 등의 LLM 기능 앱 개발 플랫폼",
+          "desc": "오픈소스 AI 워크플로우, RAG 파이프라인, 에이전트 등의 LLM 기능 앱 개발 플랫폼",
           "tags": [
             "agent",
             "llm",
             "rag",
-            "automation",
-            "security"
+            "automation"
           ]
         },
         {
@@ -2170,7 +2287,9 @@
           "url": "https://github.com/krillinai/KrillinAI",
           "desc": "LLM으로 구동되는 비디오 번역 및 더빙 도구",
           "tags": [
-            "translation"
+            "translation",
+            "video",
+            "audio"
           ]
         },
         {
@@ -2179,7 +2298,8 @@
           "desc": "Whisper 모델을 사용하여 쉽게 자막을 만들 수 있는 웹 UI",
           "tags": [
             "ui",
-            "stt"
+            "stt",
+            "audio"
           ]
         },
         {
@@ -2187,14 +2307,13 @@
           "url": "https://github.com/open-webui/open-webui",
           "desc": "완전히 오프라인에서 작동하도록 설계된 사용자 친화적인 자체 호스팅 AI 플랫폼",
           "tags": [
-            "self-hosted",
-            "security"
+            "self-hosted"
           ]
         },
         {
           "name": "vercel/ai-chatbot",
           "url": "https://github.com/vercel/ai-chatbot",
-          "desc": "강력한 챗봇 애플리케이션을 빠르게 빌드하는 데 도움이 되는 Next.js 및 AI SDK로 구축된 무료 오픈 소스 템플릿",
+          "desc": "강력한 챗봇 애플리케이션을 빠르게 빌드하는 데 도움이 되는 Next.js 및 AI SDK로 구축된 무료 오픈소스 템플릿",
           "tags": [
             "nextjs",
             "template",
@@ -2206,7 +2325,8 @@
           "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
           "desc": "실시간 회의 오디오를 캡처하고, 실시간으로 기록하고, 요약을 생성하는 동시에 사용자 개인 정보를 보호하는 AI 기반 회의 도우미",
           "tags": [
-            "audio"
+            "audio",
+            "stt"
           ]
         },
         {
@@ -2215,7 +2335,8 @@
           "desc": "[\"Packing Input Frame Context in Next-Frame Prediction Models for Video Generation\"](https://lllyasviel.github.io/frame_pack_gitpage/)을 위한 공식 구현 및 데스크톱 소프트웨어",
           "tags": [
             "desktop",
-            "video-gen"
+            "video-gen",
+            "video"
           ]
         },
         {
@@ -2232,13 +2353,17 @@
           "name": "de-pixelate_gaV-O6NPWrI",
           "url": "https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI",
           "desc": "픽셀화된 이미지를 자동으로 역설계",
-          "tags": []
+          "tags": [
+            "vision"
+          ]
         },
         {
           "name": "PhialsBasement/Chain-of-Recursive-Thoughts",
           "url": "https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts",
           "desc": "AI 모델이 응답에 대해 재귀적으로 생각하고, 대안을 생성하고, 최상의 응답을 선택하도록 함",
-          "tags": []
+          "tags": [
+            "llm"
+          ]
         },
         {
           "name": "Byaidu/PDFMathTranslate",
@@ -2262,7 +2387,7 @@
         {
           "name": "unclecode/crawl4ai",
           "url": "https://github.com/unclecode/crawl4ai",
-          "desc": "LLM 친화적인 웹 크롤러 및 스크레이퍼 오프소스",
+          "desc": "LLM 친화적인 오픈소스 웹 크롤러·스크레이퍼",
           "tags": [
             "llm"
           ]
@@ -2280,7 +2405,8 @@
           "url": "https://github.com/cyclotruc/gitingest",
           "desc": "모든 Git 리포지토리를 LLM에 대한 프롬프트 친화적인 텍스트로 변환",
           "tags": [
-            "prompt"
+            "prompt",
+            "llm"
           ]
         },
         {
@@ -2294,10 +2420,9 @@
         {
           "name": "OpenPipe/ART",
           "url": "https://github.com/OpenPipe/ART",
-          "desc": "GRPO를 사용하여 실제 작업을 위한 다단계 에이전트를 교육",
+          "desc": "GRPO로 실제 작업을 수행하는 다단계 에이전트를 학습하는 도구",
           "tags": [
-            "agent",
-            "tutorial"
+            "agent"
           ]
         },
         {
@@ -2312,10 +2437,11 @@
         {
           "name": "QuentinFuxa/WhisperLiveKit",
           "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
-          "desc": "실시간 및 로컬 음성을 텍스트로 변환, 번역 및 화자 다이어라이제이션",
+          "desc": "로컬에서 실시간 음성 인식·번역·화자 분리를 수행하는 도구",
           "tags": [
             "audio",
-            "translation"
+            "translation",
+            "stt"
           ]
         },
         {
@@ -2340,7 +2466,8 @@
           "url": "https://github.com/DrewThomasson/ebook2audiobook",
           "desc": "전자책, 음성 복제 및 1107+ 언어에서 오디오북을 생성",
           "tags": [
-            "audio"
+            "audio",
+            "tts"
           ]
         },
         {
@@ -2364,19 +2491,26 @@
           "name": "GeeeekExplorer/nano-vllm",
           "url": "https://github.com/GeeeekExplorer/nano-vllm",
           "desc": "처음부터 빌드된 경량 vLLM 구현",
-          "tags": []
+          "tags": [
+            "llm",
+            "inference"
+          ]
         },
         {
           "name": "VectifyAI/PageIndex",
           "url": "https://github.com/VectifyAI/PageIndex",
           "desc": "추론 기반 RAG에 대한 문서 인덱스",
-          "tags": []
+          "tags": [
+            "rag"
+          ]
         },
         {
           "name": "yichuan-w/LEANN",
           "url": "https://github.com/yichuan-w/LEANN",
           "desc": "세계에서 가장 작은 벡터 인덱스",
-          "tags": []
+          "tags": [
+            "rag"
+          ]
         },
         {
           "name": "DayuanJiang/next-ai-draw-io",
@@ -2390,7 +2524,7 @@
         {
           "name": "google/langextract",
           "url": "https://github.com/google/langextract",
-          "desc": "정밀한 소스 기반 기반 구축과 상호작용 시각화를 갖춘 LLM을 사용하여 비구조화 텍스트에서 구조화된 정보를 추출하는 Python 라이브러리",
+          "desc": "LLM으로 비정형 텍스트에서 구조화된 정보를 추출하는 Python 라이브러리. 원문 근거 연결과 인터랙티브 시각화 제공",
           "tags": [
             "python",
             "library",
@@ -2400,15 +2534,19 @@
         {
           "name": "ruvnet/wifi-densepose",
           "url": "https://github.com/ruvnet/wifi-densepose",
-          "desc": "채널 상태 정보(CSI) 데이터와 첨단 머신러닝을 활용해 카메라 없이도 실시간 프라이버시 보호 자세 감지를 제공하는 최첨단 WiFi 기반 인간 자세 추정 시스템",
-          "tags": []
+          "desc": "Wi-Fi 채널 상태 정보(CSI)와 머신러닝을 활용해 카메라 없이 실시간으로 사람의 자세를 추정하는 시스템",
+          "tags": [
+            "research"
+          ]
         },
         {
           "name": "ID-LoRA/ID-LoRA",
           "url": "https://github.com/ID-LoRA/ID-LoRA",
           "desc": "LTX-2/LTX-2.3 + Identity In-Context LoRA를 기반으로 맞춤형 음성과 외형으로 고해상도 영상을 생성",
           "tags": [
-            "audio"
+            "audio",
+            "video-gen",
+            "video"
           ]
         },
         {
@@ -2425,7 +2563,8 @@
           "desc": "TTS 모델 55종을 속도(TTFA·RTF)·객관지표(UTMOS·WER·SIM)·블라인드 청취 투표(Elo 리더보드)로 비교하는 오픈소스 벤치마크",
           "tags": [
             "tts",
-            "benchmark"
+            "benchmark",
+            "audio"
           ]
         },
         {
@@ -2445,7 +2584,9 @@
           "desc": "딥러닝으로 사진·영상 속 얼굴을 인식·교체하는 오픈소스 애플리케이션. 얼굴 추출·모델 학습·변환 파이프라인과 GUI 제공 (GPU 가속, 크로스플랫폼)",
           "tags": [
             "deepfake",
-            "self-hosted"
+            "self-hosted",
+            "vision",
+            "video"
           ]
         },
         {
@@ -2498,7 +2639,8 @@
             "animation",
             "framework",
             "agent",
-            "cli"
+            "cli",
+            "skill"
           ]
         },
         {
@@ -2510,7 +2652,8 @@
             "3d",
             "game",
             "react",
-            "agent"
+            "agent",
+            "skill"
           ]
         }
       ]
@@ -2524,7 +2667,7 @@
         {
           "name": "aipotheosis-labs/aci",
           "url": "https://github.com/aipotheosis-labs/aci",
-          "desc": "AI 에이전트를 멀티 테넌트 인증, 세분화된 권한 및 직접 함수 호출 또는 통합 MCP 서버를 통한 액세스를 통해 600+ 도구 통합에 연결하는 오픈 소스 플랫폼",
+          "desc": "AI 에이전트를 멀티 테넌트 인증, 세분화된 권한 및 직접 함수 호출 또는 통합 MCP 서버를 통한 액세스를 통해 600+ 도구 통합에 연결하는 오픈소스 플랫폼",
           "tags": [
             "mcp",
             "agent",
@@ -2538,7 +2681,9 @@
           "tags": [
             "desktop",
             "ui",
-            "bytedance"
+            "bytedance",
+            "agent",
+            "automation"
           ]
         },
         {
@@ -2554,7 +2699,9 @@
           "name": "modelcontextprotocol/modelcontextprotocol",
           "url": "https://github.com/modelcontextprotocol/modelcontextprotocol",
           "desc": "애플리케이션이 LLM에 컨텍스트를 제공하는 방법을 표준화하는 개방형 프로토콜",
-          "tags": []
+          "tags": [
+            "mcp"
+          ]
         },
         {
           "name": "QwenLM/Qwen-Agent",
@@ -2580,7 +2727,8 @@
           "desc": "AI 기반 쿠버네티스 어시스턴트",
           "tags": [
             "kubernetes",
-            "google"
+            "google",
+            "agent"
           ]
         },
         {
@@ -2596,12 +2744,15 @@
           "name": "RUC-NLPIR/WebThinker",
           "url": "https://github.com/RUC-NLPIR/WebThinker",
           "desc": "자율적으로 웹 페이지를 검색하고, 심층적으로 탐색하고, 연구 보고서 초안을 작성",
-          "tags": []
+          "tags": [
+            "agent",
+            "research"
+          ]
         },
         {
           "name": "awslabs/agent-squad",
           "url": "https://github.com/awslabs/agent-squad",
-          "desc": "아마존에서 개발한 여러 AI 에이전트를 관리하고 복잡한 대화를 처리하기 위한 유연힌 프레임워크",
+          "desc": "여러 AI 에이전트를 관리하고 복잡한 대화를 처리하는 Amazon의 프레임워크",
           "tags": [
             "framework",
             "agent"
@@ -2654,7 +2805,7 @@
         {
           "name": "microsoft/RD-Agent",
           "url": "https://github.com/microsoft/RD-Agent",
-          "desc": "마이크로소프트에서 제작한  R&D 프로세스를 자동화하기 위한 Agent",
+          "desc": "마이크로소프트에서 제작한 R&D 프로세스를 자동화하기 위한 Agent",
           "tags": [
             "agent",
             "automation",
@@ -2664,9 +2815,11 @@
         {
           "name": "anthropics/skills",
           "url": "https://github.com/anthropics/skills",
-          "desc": "Claude가 특수 작업의 성능을 향상시키기 위해 동적으로 로드하는 지침, 스크립트 및 리소스의 폴더에 대한 공개 저장소",
+          "desc": "Claude가 작업에 맞춰 동적으로 불러오는 지침·스크립트·자료로 구성된 에이전트 스킬 저장소",
           "tags": [
-            "anthropic"
+            "anthropic",
+            "agent",
+            "skill"
           ]
         },
         {
@@ -2691,15 +2844,21 @@
           "name": "pbakaus/impeccable",
           "url": "https://github.com/pbakaus/impeccable",
           "desc": "AI가 디자인에 더 능숙하게 활용되도록 만드는 디자인 언어",
-          "tags": []
+          "tags": [
+            "agent",
+            "design",
+            "skill"
+          ]
         },
         {
           "name": "forrestchang/andrej-karpathy-skills",
           "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-          "desc": "Andrej Karpathy가 LLM 코딩의 함정에 대해 관찰한 바 있어, Claude Code 동작을 개선하기 위한 단일 CLAUDE.md 파일",
+          "desc": "Andrej Karpathy의 LLM 코딩 관련 관찰을 바탕으로 Claude Code 동작을 개선하는 단일 CLAUDE.md 파일",
           "tags": [
             "llm",
-            "anthropic"
+            "anthropic",
+            "agent",
+            "skill"
           ]
         },
         {
@@ -2713,13 +2872,16 @@
         {
           "name": "mattpocock/skills",
           "url": "https://github.com/mattpocock/skills",
-          "desc": "mattpocock의 실제 엔지니어를 위한 스킬",
-          "tags": []
+          "desc": "Matt Pocock의 소프트웨어 엔지니어링용 에이전트 스킬 모음",
+          "tags": [
+            "agent",
+            "skill"
+          ]
         },
         {
           "name": "DietrichGebert/ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
-          "desc": "AI 코딩 에이전트한테 \"쓸데없이 코드 많이 짜지 마\"라고 가르치는 플러그인/룰셋",
+          "desc": "AI 코딩 에이전트의 불필요한 코드 작성을 줄이기 위한 플러그인·규칙 모음",
           "tags": [
             "agent"
           ]
@@ -2730,7 +2892,9 @@
           "desc": "스크롤에 맞춰 3D 카메라가 씬을 훑는 몰입형 랜딩 페이지를 만드는 AI 에이전트 스킬. GPT Image 2·Seedance/Kling·Higgsfield로 씬을 생성하고 프레임 연결 (Claude Code 플러그인)",
           "tags": [
             "agent",
-            "web"
+            "web",
+            "3d",
+            "skill"
           ]
         },
         {
@@ -2739,7 +2903,9 @@
           "desc": "에디토리얼급 다이어그램 29종(아키텍처·플로우차트·시퀀스·간트 등)을 의존성 없는 HTML+SVG로 생성하는 에이전트 스킬. draw.io·Mermaid 임포트, 브랜드 색·폰트 자동 추출, WCAG AA 대비 검증",
           "tags": [
             "agent",
-            "design"
+            "design",
+            "diagram",
+            "skill"
           ]
         },
         {
@@ -2748,7 +2914,10 @@
           "desc": "AI 생성 영상을 2D 게임 스프라이트 시트로 변환하는 에이전트 스킬(모탈컴뱃식 디지타이징). 크로마키 처리·키프레임 선별·워크사이클 감지·아틀라스 패킹을 자동화, MiniMax H3·Nano Banana 활용",
           "tags": [
             "agent",
-            "game"
+            "game",
+            "video",
+            "animation",
+            "skill"
           ]
         },
         {
@@ -2778,7 +2947,8 @@
           "tags": [
             "agent",
             "design",
-            "web"
+            "web",
+            "skill"
           ]
         },
         {
@@ -2789,7 +2959,8 @@
             "agent",
             "desktop",
             "automation",
-            "cli"
+            "cli",
+            "skill"
           ]
         },
         {
@@ -2799,7 +2970,8 @@
           "tags": [
             "agent",
             "design",
-            "web"
+            "web",
+            "skill"
           ]
         },
         {
@@ -2809,7 +2981,8 @@
           "tags": [
             "agent",
             "video",
-            "cli"
+            "cli",
+            "skill"
           ]
         },
         {
@@ -2820,7 +2993,8 @@
             "agent",
             "video",
             "animation",
-            "react"
+            "react",
+            "skill"
           ]
         },
         {
@@ -2830,7 +3004,8 @@
           "tags": [
             "agent",
             "video",
-            "automation"
+            "automation",
+            "skill"
           ]
         },
         {
@@ -2840,7 +3015,8 @@
           "tags": [
             "agent",
             "animation",
-            "web"
+            "web",
+            "skill"
           ]
         },
         {
@@ -2850,7 +3026,8 @@
           "tags": [
             "agent",
             "video",
-            "animation"
+            "animation",
+            "skill"
           ]
         },
         {
@@ -2861,7 +3038,8 @@
             "agent",
             "video",
             "animation",
-            "design"
+            "design",
+            "skill"
           ]
         },
         {
@@ -2883,7 +3061,8 @@
             "mcp",
             "3d",
             "animation",
-            "game"
+            "game",
+            "skill"
           ]
         },
         {
@@ -2894,7 +3073,9 @@
             "agent",
             "3d",
             "design",
-            "game"
+            "game",
+            "mcp",
+            "skill"
           ]
         },
         {
@@ -2905,7 +3086,8 @@
             "agent",
             "3d",
             "game",
-            "web"
+            "web",
+            "skill"
           ]
         },
         {
@@ -2916,7 +3098,8 @@
             "agent",
             "design",
             "3d",
-            "web"
+            "web",
+            "skill"
           ]
         },
         {
@@ -2927,7 +3110,8 @@
             "agent",
             "3d",
             "design",
-            "web"
+            "web",
+            "skill"
           ]
         },
         {
@@ -2954,7 +3138,6 @@
           "desc": "프롬프트 엔지니어링을 위한 가이드, 논문, 강의, 노트북 및 리소스",
           "tags": [
             "tutorial",
-            "note-taking",
             "prompt"
           ]
         },
@@ -3076,8 +3259,10 @@
         {
           "name": "MatrixTM/MHDDoS",
           "url": "https://github.com/MatrixTM/MHDDoS",
-          "desc": "56가지 방법을 사용한 (사이버/DDos) 공격",
-          "tags": []
+          "desc": "56가지 방식을 지원하는 DDoS 공격 도구",
+          "tags": [
+            "security"
+          ]
         },
         {
           "name": "Cryakl/Ultimate-RAT-Collection",
@@ -3098,7 +3283,7 @@
         {
           "name": "SigmaHQ/sigma",
           "url": "https://github.com/SigmaHQ/sigma",
-          "desc": "프로젝트는 보안 연구원이나 분석가들이 개발한 탐지 방법을 구조화된 형태로 기술하고 다른 사람들과 공유할 수 있도록 하는 시그마 규칙 저장소",
+          "desc": "보안 탐지 방법을 구조화해 공유하는 Sigma 규칙 저장소",
           "tags": [
             "security"
           ]
@@ -3125,7 +3310,7 @@
         {
           "name": "projectdiscovery/nuclei-templates",
           "url": "https://github.com/projectdiscovery/nuclei-templates",
-          "desc": "보안 취약점을 찾기 위해 핵 엔진에 대한 커뮤니티 선별된 템플릿 목록",
+          "desc": "Nuclei 엔진으로 보안 취약점을 탐지하기 위한 커뮤니티 템플릿 모음",
           "tags": [
             "template",
             "security"
@@ -3134,9 +3319,11 @@
         {
           "name": "imthenachoman/How-To-Secure-A-Linux-Server",
           "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
-          "desc": "Linux 서버 보안을 위한 진화하는 방법 가이드",
+          "desc": "Linux 서버 보안 설정 가이드",
           "tags": [
-            "security"
+            "security",
+            "linux",
+            "tutorial"
           ]
         },
         {
@@ -3146,25 +3333,30 @@
           "tags": [
             "security",
             "agent",
-            "automation"
+            "automation",
+            "skill"
           ]
         },
         {
           "name": "soxoj/maigret",
           "url": "https://github.com/soxoj/maigret",
           "desc": "이름을 통해 인터넷 상의 방대한 수천 개 웹사이트에서 정보를 자동으로 수집하여 종합적인 인물 프로필을 생성",
-          "tags": []
+          "tags": [
+            "security"
+          ]
         },
         {
           "name": "gitleaks/gitleaks",
           "url": "https://github.com/gitleaks/gitleaks",
           "desc": "Git 저장소, 파일, 또는 표준 입력에서 비밀 정보를 탐지하는 도구",
-          "tags": []
+          "tags": [
+            "security"
+          ]
         },
         {
           "name": "usestrix/strix",
           "url": "https://github.com/usestrix/strix",
-          "desc": "침투 테스트를 위한 오픈 소스 AI 에이전트",
+          "desc": "침투 테스트를 위한 오픈소스 AI 에이전트",
           "tags": [
             "agent",
             "security",
@@ -3174,7 +3366,7 @@
         {
           "name": "trustedsec/social-engineer-toolkit",
           "url": "https://github.com/trustedsec/social-engineer-toolkit",
-          "desc": "SNS를 위해 설계된 오픈 소스 침투 테스트 프레임워크",
+          "desc": "SNS를 위해 설계된 오픈소스 침투 테스트 프레임워크",
           "tags": [
             "framework",
             "security",
@@ -3201,7 +3393,9 @@
           "name": "donnemartin/system-design-primer",
           "url": "https://github.com/donnemartin/system-design-primer",
           "desc": "대규모 시스템을 설계하는 방법 모음",
-          "tags": []
+          "tags": [
+            "tutorial"
+          ]
         },
         {
           "name": "milanm/DevOps-Roadmap",
@@ -3233,7 +3427,9 @@
           "name": "EbookFoundation/free-programming-books",
           "url": "https://github.com/EbookFoundation/free-programming-books",
           "desc": "무료로 사용할 수 있는 여러 언어의 프로그래밍 서적 모음",
-          "tags": []
+          "tags": [
+            "tutorial"
+          ]
         },
         {
           "name": "microsoft/ai-agents-for-beginners",
@@ -3275,22 +3471,27 @@
           "url": "https://github.com/unslothai/notebooks",
           "desc": "LLM을 미세 조정하는 Colab 가이드 모음",
           "tags": [
-            "fine-tuning"
+            "fine-tuning",
+            "llm",
+            "tutorial"
           ]
         },
         {
           "name": "fastapi-best-practices",
           "url": "https://github.com/zhanymkanov/fastapi-best-practices",
           "desc": "FastAPI 모범 사례 및 규칙",
-          "tags": []
+          "tags": [
+            "python",
+            "tutorial"
+          ]
         },
         {
           "name": "anthropics/anthropic-cookbook",
           "url": "https://github.com/anthropics/anthropic-cookbook",
           "desc": "Claude를 재미있고 효과적으로 사용하는 방법을 보여주는 노트북/레시피 모음",
           "tags": [
-            "note-taking",
-            "anthropic"
+            "anthropic",
+            "tutorial"
           ]
         },
         {
@@ -3299,14 +3500,13 @@
           "desc": "Dapr Agentic Cloud Ascent (DACA) 디자인 패턴을 활용한 대규모 에이전틱 AI 개발 교육 프로그램",
           "tags": [
             "agent",
-            "tutorial",
-            "korean"
+            "tutorial"
           ]
         },
         {
           "name": "DataExpert-io/data-engineer-handbook",
           "url": "https://github.com/DataExpert-io/data-engineer-handbook",
-          "desc": "데이터 엔지니어링에 대해 배우고 싶은 모든 것에 대한 링크",
+          "desc": "데이터 엔지니어링 학습 자료 모음",
           "tags": [
             "data-engineering"
           ]
@@ -3316,7 +3516,9 @@
           "url": "https://github.com/rasbt/LLMs-from-scratch",
           "desc": "PyTorch에서 ChatGPT와 유사한 LLM을 처음부터 단계별로 구현",
           "tags": [
-            "openai"
+            "llm",
+            "tutorial",
+            "python"
           ]
         },
         {
@@ -3333,9 +3535,10 @@
         {
           "name": "mikeroyal/Self-Hosting-Guide",
           "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
-          "desc": "자체 호스팅을 가능하게 하는 소프트웨어 및 하드웨어를 포함한 자체 호스팅 장치를 시작하기 위한 가이드",
+          "desc": "자체 호스팅을 시작하기 위한 소프트웨어·하드웨어 안내",
           "tags": [
-            "self-hosted"
+            "self-hosted",
+            "tutorial"
           ]
         },
         {
@@ -3371,13 +3574,17 @@
           "name": "goldbergyoni/nodebestpractices",
           "url": "https://github.com/goldbergyoni/nodebestpractices",
           "desc": "Node.js 모범 사례 목록",
-          "tags": []
+          "tags": [
+            "tutorial"
+          ]
         },
         {
           "name": "lydiahallie/javascript-questions",
           "url": "https://github.com/lydiahallie/javascript-questions",
           "desc": "JavaScript 질문의 긴 목록과 설명",
-          "tags": []
+          "tags": [
+            "tutorial"
+          ]
         },
         {
           "name": "TheAlgorithms/Python",
@@ -3408,16 +3615,19 @@
         {
           "name": "harvard-edge/cs249r_book",
           "url": "https://github.com/harvard-edge/cs249r_book",
-          "desc": "엣지 장치에서 클라우드 배포에 이르기까지 실제 AI 시스템을 구축하는 방법을 가르치는 오픈 소스 교과서",
-          "tags": []
+          "desc": "엣지 장치에서 클라우드 배포에 이르기까지 실제 AI 시스템을 구축하는 방법을 가르치는 오픈소스 교과서",
+          "tags": [
+            "tutorial"
+          ]
         },
         {
           "name": "2026 Korean CSAT Leaderboard",
           "url": "https://isoft.cnu.ac.kr/csat2026/",
-          "desc": "2026 한국대학 학업능력 수학시험 LLM 평가 리더보드",
+          "desc": "2026학년도 대학수학능력시험 기반 LLM 평가 리더보드",
           "tags": [
             "llm",
-            "korean"
+            "korean",
+            "benchmark"
           ]
         },
         {
@@ -3426,7 +3636,8 @@
           "desc": "Anthropic이 운영하는 학습 플랫폼. Claude 제품 사용법 교육과 'AI Fluency'(4D 프레임워크 등) AI 기초 강의를 무료로 제공",
           "tags": [
             "tutorial",
-            "claude"
+            "claude",
+            "anthropic"
           ]
         },
         {
@@ -3434,13 +3645,14 @@
           "url": "https://github.com/NirDiamant/RAG_Techniques",
           "desc": "RAG(Retrieval-Augmented Generation) 시스템을 위한 다양한 고급 기술",
           "tags": [
-            "rag"
+            "rag",
+            "tutorial"
           ]
         },
         {
           "name": "humanlayer/12-factor-agents",
           "url": "https://github.com/humanlayer/12-factor-agents",
-          "desc": "신뢰할 수 있는 LLM 어플리케이션 구축을 위한 원칙",
+          "desc": "신뢰할 수 있는 LLM 애플리케이션 구축 원칙",
           "tags": [
             "agent",
             "llm"
@@ -3462,7 +3674,8 @@
           "tags": [
             "python",
             "robotics",
-            "algorithm"
+            "algorithm",
+            "tutorial"
           ]
         }
       ]
@@ -3477,13 +3690,18 @@
           "name": "Simple Icons",
           "url": "https://simpleicons.org/",
           "desc": "브랜드 로고 SVG 모음",
-          "tags": []
+          "tags": [
+            "design",
+            "ui"
+          ]
         },
         {
           "name": "codecrafters-io/build-your-own-x",
           "url": "https://github.com/codecrafters-io/build-your-own-x",
           "desc": "좋아하는 기술을 처음부터 다시 만들 때 도움이 되는 자료 모음",
-          "tags": []
+          "tags": [
+            "tutorial"
+          ]
         },
         {
           "name": "ripienaar/free-for-dev",
@@ -3494,7 +3712,7 @@
         {
           "name": "trimstray/the-book-of-secret-knowledge",
           "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-          "desc": "매뉴얼, 치트 시트, 블로그, 해킹, 한 줄짜리, cli/웹 도구 등의 모",
+          "desc": "매뉴얼·치트시트·블로그·해킹 자료·한 줄 명령어·CLI 및 웹 도구 모음",
           "tags": [
             "cli"
           ]
@@ -3502,14 +3720,18 @@
         {
           "name": "CorentinTh/it-tools",
           "url": "https://github.com/CorentinTh/it-tools",
-          "desc": "개발자를 위한 유용한 온라인 도구 모음과 훌륭한 UX를 제공",
-          "tags": []
+          "desc": "개발자를 위한 온라인 유틸리티 모음",
+          "tags": [
+            "web"
+          ]
         },
         {
           "name": "mtdvio/every-programmer-should-know",
           "url": "https://github.com/mtdvio/every-programmer-should-know",
           "desc": "모든 소프트웨어 개발자가 알아야 할 기술적인 것들의 모음",
-          "tags": []
+          "tags": [
+            "tutorial"
+          ]
         }
       ]
     }
