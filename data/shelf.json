@@ -2480,6 +2480,18 @@
             "agent",
             "cli"
           ]
+        },
+        {
+          "name": "shinyobjectz/raea",
+          "url": "https://github.com/shinyobjectz/raea",
+          "desc": "React·TypeScript로 작성한 영상·모션 그래픽·3D·게임을 로컬 GPU에서 실행·렌더링하는 Rust·Bevy 기반 엔진. AI 에이전트 스킬과 프레임 캡처·품질 검사 제공. macOS·Linux·Windows 지원, Canary 단계. FSL-1.1-ALv2 소스 공개(경쟁 상용 제품·서비스 제한, 각 버전 공개 2년 후 Apache-2.0 적용 가능)",
+          "tags": [
+            "video",
+            "3d",
+            "game",
+            "react",
+            "agent"
+          ]
         }
       ]
     },
