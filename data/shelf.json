@@ -2864,6 +2864,17 @@
             "design",
             "game"
           ]
+        },
+        {
+          "name": "majidmanzarpour/threejs-game-skills",
+          "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+          "desc": "Codex·Claude Code용 Three.js 브라우저 게임 제작 스킬 9종. 디렉터 스킬이 게임플레이·그래픽·UI·오디오·디버깅·출시 검증을 연계하며, Vite·TypeScript·Three.js 프로젝트 템플릿과 Playwright 테스트 템플릿 제공. AI 에셋 생성은 선택 사항, MIT 라이선스",
+          "tags": [
+            "agent",
+            "3d",
+            "game",
+            "web"
+          ]
         }
       ]
     },
