@@ -2790,6 +2790,16 @@
             "animation",
             "react"
           ]
+        },
+        {
+          "name": "OpenMontageInc/OpenMontage",
+          "url": "https://github.com/OpenMontageInc/OpenMontage",
+          "desc": "AI 코딩 에이전트 기반 영상 제작 시스템. 자연어 요청으로 자료 조사·대본 작성·소재 생성 및 검색·편집·최종 합성을 연계하며, Remotion·HyperFrames·Blender·FFmpeg 등을 활용한 제작 파이프라인과 스킬 제공. AGPL-3.0 라이선스",
+          "tags": [
+            "agent",
+            "video",
+            "automation"
+          ]
         }
       ]
     },
