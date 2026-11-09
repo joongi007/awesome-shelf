@@ -2117,6 +2117,16 @@
             "agent",
             "open-weight"
           ]
+        },
+        {
+          "name": "kopperx/RelayVSR",
+          "url": "https://github.com/kopperx/RelayVSR",
+          "desc": "대형 Wan 모델의 참조 프레임과 소형 조건부 디코더를 결합한 스트리밍 영상 4배 초해상도 모델의 공식 구현. 추론 코드·체크포인트 공개, Linux·NVIDIA GPU 필요. 입력 FPS 유지, 오디오는 출력에 복사하지 않음. 코드 Apache-2.0",
+          "tags": [
+            "video",
+            "vision",
+            "open-weight"
+          ]
         }
       ]
     },
