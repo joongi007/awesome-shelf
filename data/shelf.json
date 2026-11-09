@@ -2929,6 +2929,16 @@
             "design",
             "web"
           ]
+        },
+        {
+          "name": "GHJ20001017/Full-Duplex-Model",
+          "url": "https://github.com/GHJ20001017/Full-Duplex-Model",
+          "desc": "말하면서 동시에 듣고 끼어들기·중단 의도를 판단하는 실시간 음성 에이전트 시스템 ARVIS. 음성 인식·LLM·음성 합성을 연결하고, MCP 도구·ACP 기반 Codex·Claude Code 연동으로 대화 중 백그라운드 작업 실행 지원. 코드 Apache-2.0",
+          "tags": [
+            "agent",
+            "audio",
+            "mcp"
+          ]
         }
       ]
     },
