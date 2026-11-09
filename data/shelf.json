@@ -2107,6 +2107,16 @@
             "audio",
             "open-weight"
           ]
+        },
+        {
+          "name": "Tencent-Hunyuan/Hy4-preview",
+          "url": "https://github.com/Tencent-Hunyuan/Hy4-preview",
+          "desc": "텐센트의 추론·코딩·에이전트 작업용 MoE 언어 모델 프리뷰. 본체 총 770B·활성 49B(MTP 계층 별도), 100만 토큰 컨텍스트와 Gated DSA 지원. 기본·FP8 가중치, vLLM·SGLang 배포 및 미세조정 안내 제공. Apache-2.0 오픈웨이트",
+          "tags": [
+            "llm",
+            "agent",
+            "open-weight"
+          ]
         }
       ]
     },
