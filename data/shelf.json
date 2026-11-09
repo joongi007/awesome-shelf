@@ -2816,6 +2816,16 @@
             "robotics",
             "dataset"
           ]
+        },
+        {
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "desc": "AI 코딩 에이전트용 UI/UX 디자인 스킬. 제품 요구사항에 맞춰 디자인 스타일·색상 팔레트·폰트 조합·랜딩 페이지 패턴을 검색하고 디자인 시스템을 생성. 여러 플랫폼·프레임워크의 UI 구현과 접근성·반응형 점검을 지원. MIT 라이선스",
+          "tags": [
+            "agent",
+            "design",
+            "web"
+          ]
         }
       ]
     },
