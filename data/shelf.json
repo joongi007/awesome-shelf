@@ -2800,6 +2800,16 @@
             "video",
             "automation"
           ]
+        },
+        {
+          "name": "greensock/gsap-skills",
+          "url": "https://github.com/greensock/gsap-skills",
+          "desc": "GSAP 공식 AI 코딩 에이전트 스킬 모음. 코어 API·이징·타임라인·ScrollTrigger·플러그인 사용법과 React·Vue·Svelte 연동, 애니메이션 성능 최적화·정리 방법을 안내. 스킬 MIT 라이선스",
+          "tags": [
+            "agent",
+            "animation",
+            "web"
+          ]
         }
       ]
     },
