@@ -918,6 +918,18 @@
             "homelab",
             "cli"
           ]
+        },
+        {
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "desc": "Meta의 React 19+·StyleX 기반 디자인 시스템. 접근성을 고려한 컴포넌트 150종 이상, 테마·다크 모드·템플릿과 사람·AI 에이전트가 함께 쓰는 CLI 제공. 사전 빌드 CSS로 별도 빌드 플러그인 없이 사용하고 Tailwind·CSS Modules 등으로 재정의 가능. 베타, MIT 라이선스",
+          "tags": [
+            "react",
+            "ui",
+            "design",
+            "library",
+            "cli"
+          ]
         }
       ]
     },
