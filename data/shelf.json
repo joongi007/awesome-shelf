@@ -930,6 +930,18 @@
             "library",
             "cli"
           ]
+        },
+        {
+          "name": "google-deepmind/mujoco",
+          "url": "https://github.com/google-deepmind/mujoco",
+          "desc": "Google DeepMind가 관리하는 범용 물리 시뮬레이션 엔진. 관절 구조와 환경의 접촉·동역학을 계산해 로보틱스·생체역학·애니메이션·머신러닝 연구에 활용. C API·Python 바인딩·Unity 플러그인과 데스크톱·브라우저 시각화 제공. Apache-2.0 라이선스",
+          "tags": [
+            "robotics",
+            "simulation",
+            "physics",
+            "python",
+            "google"
+          ]
         }
       ]
     },
