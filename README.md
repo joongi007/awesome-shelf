@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **406**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **408**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -11,7 +11,7 @@
 | 섹션 | 개수 |
 | :--- | ---: |
 | [📦 Awesome 리스트](#-awesome-리스트) | 25 |
-| [🛠️ 오픈소스 도구](#️-오픈소스-도구) | 83 |
+| [🛠️ 오픈소스 도구](#️-오픈소스-도구) | 85 |
 | [🤖 AI 서비스](#-ai-서비스) | 62 |
 | [🧠 AI 모델](#-ai-모델) | 83 |
 | [🛠️ AI 도구·개발](#️-ai-도구개발) | 43 |
@@ -143,6 +143,8 @@ _개발·생산성·미디어 작업 등에 활용하는 범용 오픈소스 도
 - **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** — Zagitta/gpu-unlock에 RTX 4090 및 일부 Ada GPU 지원을 추가한 Linux 커널 모듈 포크. FP32 누산을 사용하는 FP16·BF16 텐서 연산 제한을 해제하며 RTX 4070 Ti SUPER 등은 실험적 지원. 기존 Ampere 대상도 유지하나 카드별 검증 수준·실제 작업 성능 향상은 다름
 - **[guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)** — 이미지에 워터마크를 추가하는 도구
 - **[tailscale/tailscale](https://github.com/tailscale/tailscale)** — WireGuard 기반 메시 VPN으로 개인 기기·홈서버·클라우드 서버를 암호화된 사설 네트워크로 연결하는 도구. 접근 제어·SSO·출구 노드 지원. 핵심 데몬·CLI는 BSD-3-Clause 오픈소스이며, 공식 관리 서버와 일부 플랫폼 GUI는 비공개
+- **[meta/astryx](https://github.com/meta/astryx)** — Meta의 React 19+·StyleX 기반 디자인 시스템. 접근성을 고려한 컴포넌트 150종 이상, 테마·다크 모드·템플릿과 사람·AI 에이전트가 함께 쓰는 CLI 제공. 사전 빌드 CSS로 별도 빌드 플러그인 없이 사용하고 Tailwind·CSS Modules 등으로 재정의 가능. 베타, MIT 라이선스
+- **[google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)** — Google DeepMind가 관리하는 범용 물리 시뮬레이션 엔진. 관절 구조와 환경의 접촉·동역학을 계산해 로보틱스·생체역학·애니메이션·머신러닝 연구에 활용. C API·Python 바인딩·Unity 플러그인과 데스크톱·브라우저 시각화 제공. Apache-2.0 라이선스
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
