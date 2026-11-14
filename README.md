@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **408**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **409**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -17,7 +17,7 @@
 | [🛠️ AI 도구·개발](#️-ai-도구개발) | 43 |
 | [🤖 에이전트·스킬](#-에이전트스킬) | 45 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
-| [🚨 보안](#-보안) | 14 |
+| [🚨 보안](#-보안) | 15 |
 | [📖 기사·자료](#-기사자료) | 34 |
 | [🧩 기타](#-기타) | 6 |
 | [🗄️ 보관함](#️-보관함) | 2 |
@@ -445,6 +445,7 @@ _보안과 관련된 오픈소스 모음_
 - **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)** — Git 저장소, 파일, 또는 표준 입력에서 비밀 정보를 탐지하는 도구
 - **[usestrix/strix](https://github.com/usestrix/strix)** — 침투 테스트를 위한 오픈소스 AI 에이전트
 - **[trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)** — SNS를 위해 설계된 오픈소스 침투 테스트 프레임워크
+- **[jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)** — LLM 다중 에이전트 기반 자율 침투 테스트 프레임워크 ARTEX의 다국어 파생판. Go·Next.js 기반으로 UI·보고서·요약·대화의 한국어 등 5개 언어 전환과 방어·탐지 가이드 제공. 허가된 환경의 방어·탐지 연구용, AGPL-3.0 라이선스
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
