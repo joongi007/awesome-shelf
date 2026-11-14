@@ -942,6 +942,17 @@
             "python",
             "google"
           ]
+        },
+        {
+          "name": "aws/aws-emulator",
+          "url": "https://github.com/aws/aws-emulator",
+          "desc": "AWS 공식 로컬 API 에뮬레이터. AWS 계정·실제 리소스 호출 없이 CLI·SDK 기반 앱을 개발·CI 환경에서 테스트하며, 서버 모드와 Rust 테스트용 임베디드 모드 제공. 서비스별 API 호환성 차이가 있고 운영·보안 테스트용은 아님. 텔레메트리 기본 활성화(해제 가능), CC0-1.0",
+          "tags": [
+            "aws",
+            "rust",
+            "devops",
+            "cli"
+          ]
         }
       ]
     },
