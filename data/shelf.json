@@ -3170,6 +3170,18 @@
             "audio",
             "mcp"
           ]
+        },
+        {
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "desc": "코딩 에이전트에 최신 웹 플랫폼 기능·브라우저 호환성·성능·접근성 지침을 제공하는 Modern Web Guidance의 소스 저장소. 스킬·CLI로 관련 가이드 검색·조회와 레거시 패턴 탐지를 지원하며, 콘텐츠 작성·평가 도구 포함. Chrome·Edge·Firefox·MDN 팀과 커뮤니티 공동 관리, Apache-2.0 라이선스",
+          "tags": [
+            "agent",
+            "skill",
+            "web",
+            "cli",
+            "google"
+          ]
         }
       ]
     },
