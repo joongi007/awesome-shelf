@@ -3182,6 +3182,17 @@
             "cli",
             "google"
           ]
+        },
+        {
+          "name": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "desc": "개인 투자자의 시장 분석·종목 선별·포트폴리오 점검·위험 관리·매매 일지와 전략 검토를 돕는 Claude용 스킬·워크플로 모음. 공개 CSV·로컬 파일 기반 입문 경로와 FMP·FINVIZ·Alpaca 연동 제공(일부 기능은 별도 API·구독 필요). 자동매매·매매 신호 서비스가 아닌 의사결정 과정 정리용, MIT 라이선스",
+          "tags": [
+            "agent",
+            "skill",
+            "finance",
+            "anthropic"
+          ]
         }
       ]
     },
