@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **409**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **412**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -11,11 +11,11 @@
 | 섹션 | 개수 |
 | :--- | ---: |
 | [📦 Awesome 리스트](#-awesome-리스트) | 25 |
-| [🛠️ 오픈소스 도구](#️-오픈소스-도구) | 85 |
+| [🛠️ 오픈소스 도구](#️-오픈소스-도구) | 86 |
 | [🤖 AI 서비스](#-ai-서비스) | 62 |
 | [🧠 AI 모델](#-ai-모델) | 83 |
 | [🛠️ AI 도구·개발](#️-ai-도구개발) | 43 |
-| [🤖 에이전트·스킬](#-에이전트스킬) | 45 |
+| [🤖 에이전트·스킬](#-에이전트스킬) | 47 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 15 |
 | [📖 기사·자료](#-기사자료) | 34 |
@@ -145,6 +145,7 @@ _개발·생산성·미디어 작업 등에 활용하는 범용 오픈소스 도
 - **[tailscale/tailscale](https://github.com/tailscale/tailscale)** — WireGuard 기반 메시 VPN으로 개인 기기·홈서버·클라우드 서버를 암호화된 사설 네트워크로 연결하는 도구. 접근 제어·SSO·출구 노드 지원. 핵심 데몬·CLI는 BSD-3-Clause 오픈소스이며, 공식 관리 서버와 일부 플랫폼 GUI는 비공개
 - **[meta/astryx](https://github.com/meta/astryx)** — Meta의 React 19+·StyleX 기반 디자인 시스템. 접근성을 고려한 컴포넌트 150종 이상, 테마·다크 모드·템플릿과 사람·AI 에이전트가 함께 쓰는 CLI 제공. 사전 빌드 CSS로 별도 빌드 플러그인 없이 사용하고 Tailwind·CSS Modules 등으로 재정의 가능. 베타, MIT 라이선스
 - **[google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)** — Google DeepMind가 관리하는 범용 물리 시뮬레이션 엔진. 관절 구조와 환경의 접촉·동역학을 계산해 로보틱스·생체역학·애니메이션·머신러닝 연구에 활용. C API·Python 바인딩·Unity 플러그인과 데스크톱·브라우저 시각화 제공. Apache-2.0 라이선스
+- **[aws/aws-emulator](https://github.com/aws/aws-emulator)** — AWS 공식 로컬 API 에뮬레이터. AWS 계정·실제 리소스 호출 없이 CLI·SDK 기반 앱을 개발·CI 환경에서 테스트하며, 서버 모드와 Rust 테스트용 임베디드 모드 제공. 서비스별 API 호환성 차이가 있고 운영·보안 테스트용은 아님. 텔레메트리 기본 활성화(해제 가능), CC0-1.0
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -406,6 +407,8 @@ _AI 에이전트, 에이전트 프레임워크·연동 프로토콜·MCP와 작�
 - **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** — 기계·복잡한 시스템·기술 개념을 인터랙티브 아이소메트릭 도해로 설명하는 AI 에이전트 스킬. SVG 부품·분해도·동작 시각화에 WebGL 효과와 베타 3D 모드를 결합하며, 독립 HTML·SVG·React/Next.js 컴포넌트로 출력. MIT 라이선스
 - **[viettranx/3dviz-pro-max](https://github.com/viettranx/3dviz-pro-max)** — 아이디어를 인터랙티브 Three.js·Blender 장면으로 구현하는 AI 에이전트 스킬. 시각적 방향 설정·오브젝트 구성·동작 구현·실제 화면 캡처와 개선을 연계하며, 검색 가능한 제작 레시피·지식 자료·실행 템플릿 제공. 자체 코드·데이터는 MIT, 외부 에셋·미디어는 별도 조건 적용
 - **[GHJ20001017/Full-Duplex-Model](https://github.com/GHJ20001017/Full-Duplex-Model)** — 말하면서 동시에 듣고 끼어들기·중단 의도를 판단하는 실시간 음성 에이전트 시스템 ARVIS. 음성 인식·LLM·음성 합성을 연결하고, MCP 도구·ACP 기반 Codex·Claude Code 연동으로 대화 중 백그라운드 작업 실행 지원. 코드 Apache-2.0
+- **[GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)** — 코딩 에이전트에 최신 웹 플랫폼 기능·브라우저 호환성·성능·접근성 지침을 제공하는 Modern Web Guidance의 소스 저장소. 스킬·CLI로 관련 가이드 검색·조회와 레거시 패턴 탐지를 지원하며, 콘텐츠 작성·평가 도구 포함. Chrome·Edge·Firefox·MDN 팀과 커뮤니티 공동 관리, Apache-2.0 라이선스
+- **[tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)** — 개인 투자자의 시장 분석·종목 선별·포트폴리오 점검·위험 관리·매매 일지와 전략 검토를 돕는 Claude용 스킬·워크플로 모음. 공개 CSV·로컬 파일 기반 입문 경로와 FMP·FINVIZ·Alpaca 연동 제공(일부 기능은 별도 API·구독 필요). 자동매매·매매 신호 서비스가 아닌 의사결정 과정 정리용, MIT 라이선스
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
