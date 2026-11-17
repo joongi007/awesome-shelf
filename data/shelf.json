@@ -2311,6 +2311,17 @@
             "real-time",
             "open-weight"
           ]
+        },
+        {
+          "name": "higurashi-ai/Haru",
+          "url": "https://github.com/higurashi-ai/Haru",
+          "desc": "한국어 포함 9개 언어를 지원하며 동시에 듣고 말하는 전이중 음성 대화 모델 Haru-4B의 공식 구현. 캐릭터 카드·참조 음성으로 성격과 목소리를 설정하고 PyTorch 웹 데모·Mac MLX 앱·vLLM-Omni 제공. NVIDIA GPU 약 12GB 메모리 기준, 사실 정확도·지시 수행에 한계가 있는 연구용 사전학습 베이스 모델. 코드·가중치 Apache-2.0",
+          "tags": [
+            "audio",
+            "real-time",
+            "open-weight",
+            "korean"
+          ]
         }
       ]
     },
