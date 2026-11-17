@@ -953,6 +953,15 @@
             "devops",
             "cli"
           ]
+        },
+        {
+          "name": "IROHAuwu/FBTPods",
+          "url": "https://github.com/IROHAuwu/FBTPods",
+          "desc": "AirPods 모션 센서를 SteamVR·VRChat 전신 트래커로 활용하는 Windows 도구. 페어링·보정 안내와 한국어 UI·하드웨어 없는 체험 모드 제공. 기본 양쪽 정강이 구성에 AirPods 2쌍 필요(한 쌍당 트래커 1개), 전용 USB Bluetooth 어댑터 권장. AirPods 3 실기기 검증, 다른 모델은 지원 수준 상이하며 전용 트래커보다 정확도 낮음. 코드 Apache-2.0, 선택형 HMD-Poser 가중치는 비상업용",
+          "tags": [
+            "vr",
+            "windows"
+          ]
         }
       ]
     },
