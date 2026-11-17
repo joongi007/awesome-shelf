@@ -1497,6 +1497,15 @@
             "game",
             "google"
           ]
+        },
+        {
+          "name": "ACE Music",
+          "url": "https://acemusic.ai/",
+          "desc": "텍스트 설명·가사로 노래를 생성하는 ACE Music v1 기반 웹 음악 제작 서비스. MIDI 변환·보컬 및 악기별 음원 분리 도구 제공. v1 가중치는 미공개이며 별도 v1 Flash는 공개 예정. v1 생성곡의 다운로드·상업 이용은 요금제 조건 적용",
+          "tags": [
+            "music",
+            "audio"
+          ]
         }
       ]
     },
