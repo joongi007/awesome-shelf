@@ -2301,6 +2301,16 @@
             "multimodal",
             "google"
           ]
+        },
+        {
+          "name": "adventists-ai/sophon-realtime",
+          "url": "https://github.com/adventists-ai/sophon-realtime",
+          "desc": "말하면서 듣고 끼어들기·발화 종료·말투를 판단하는 전이중 음성 대화 모델군. 32B·4B 기반 Tag·Flash·E2E 변형, Tag·Flash의 제로샷 음성 복제와 OpenAI Realtime 호환 API 제공. vLLM-Omni·Mac MLX 실행 지원, 4B Flash는 24GB GPU 기준. 한국어는 지원 예정, 코드·가중치 Apache-2.0 공개",
+          "tags": [
+            "audio",
+            "real-time",
+            "open-weight"
+          ]
         }
       ]
     },
