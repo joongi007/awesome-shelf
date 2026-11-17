@@ -11,12 +11,13 @@
 awesome-shelf/
 ├─ data/
 │  ├─ shelf.json        ← ★ 소스 오브 트루스 (여기만 편집)
-│  ├─ shelf.js          ← (자동 생성) 웹사이트가 읽는 데이터
 │  ├─ verify_report.md  ← 링크 검증 리포트 (1회성 기록)
 │  └─ verify_results.json
-├─ index.html           ← 웹사이트 (단일 페이지, shelf.js를 읽어 렌더)
+├─ index.html           ← (자동 생성) 전체 목록이 들어 있는 정적 웹사이트
+├─ templates/           ← HTML 화면 템플릿과 섹션 아이콘
+├─ assets/shelf.js       ← 검색·태그 필터·테마·이미지 지연 로딩
 ├─ README.md            ← (자동 생성) GitHub에서 보이는 목록
-├─ build.py             ← ★ shelf.json → README.md + shelf.js 생성기
+├─ build.py             ← ★ shelf.json → README.md + index.html 생성기
 ├─ scripts/             ← 1회성 마이그레이션·검증 도구 (평소엔 안 씀)
 └─ .github/workflows/pages.yml  ← push 시 자동 빌드 + Pages 배포
 ```
@@ -25,11 +26,11 @@ awesome-shelf/
 ```
             ┌──> README.md   (GitHub 저장소 보기용)
 shelf.json ─┤
-   (편집)    └──> shelf.js ──> index.html  (웹사이트)
+   (편집)    └──> index.html  (목록이 포함된 웹사이트)
             (py build.py 가 둘 다 생성)
 ```
 
-> ⚠️ `README.md` 와 `data/shelf.js` 는 **자동 생성물**입니다. 직접 고치지 마세요 — 다음 빌드 때 덮어써집니다.
+> ⚠️ `README.md`와 `index.html`은 **자동 생성물**입니다. 직접 고치지 마세요 — 다음 빌드 때 덮어써집니다.
 
 ---
 
@@ -84,7 +85,7 @@ shelf.json ─┤
 ```bash
 py build.py
 ```
-→ `README.md`와 `data/shelf.js`가 다시 생성됩니다. 끝.
+→ `README.md`와 `index.html`이 다시 생성됩니다. 끝.
 
 > JSON이라 **쉼표·따옴표**에 주의하세요. 빌드가 실패하면 보통 콤마 누락/잉여가 원인입니다.
 
@@ -120,9 +121,9 @@ py build.py
    ```jsonc
    { "key": "tools", "emoji": "🧰", "title": "도구", "note": "잡다한 도구", "entries": [] }
    ```
-2. (선택) 사이트에서 전용 **아이콘**과 **색상**을 주려면 [`index.html`](index.html)에서:
-   - `ICONS` 객체에 `"tools": SVG('<path .../>')` 추가 (없으면 기본 원형 아이콘)
-   - CSS의 `.sec-… { --h: 숫자 }` 목록에 `.sec-tools { --h: 180; }` 추가 (색조 0~360)
+2. (선택) 사이트에서 전용 **아이콘**과 **색상**을 주려면:
+   - `templates/icons.json`에 `"tools": "<path .../>"` 추가 (없으면 기본 원형 아이콘)
+   - `templates/index.html` CSS의 `.sec-… { --h: 숫자 }` 목록에 `.sec-tools { --h: 180; }` 추가 (색조 0~360)
 3. `py build.py` 실행.
 
 > 아이콘은 [lucide.dev](https://lucide.dev)에서 SVG `<path>`만 복사해 쓰면 통일감이 좋습니다.
@@ -153,7 +154,11 @@ py build.py
 
 ## 6. 로컬에서 보기
 
-`index.html`을 **더블클릭**하면 됩니다. (데이터를 `shelf.js`의 전역 변수로 읽어서 `file://`에서도 동작 — 별도 서버 불필요)
+`py build.py` 실행 후 `index.html`을 **더블클릭**하면 됩니다. 목록은 HTML에 포함되어 있어 `file://`에서도 동작하며, 별도 서버나 JSON 요청이 필요 없습니다.
+
+JS가 꺼져도 이름·설명·링크·태그·보관함을 읽을 수 있습니다. JS는 검색·태그 필터·테마와 이미지 로딩을 담당합니다. 아바타는 화면 근처의 카드만 요청하며, JS가 꺼지면 모노그램으로 표시됩니다.
+
+화면 구조·CSS는 `templates/index.html`, 섹션 아이콘은 `templates/icons.json`, 상호작용은 `assets/shelf.js`에서 수정합니다. 생성된 `index.html`을 직접 수정하지 마세요.
 
 > 폰트·아바타는 인터넷에서 불러오므로, 오프라인이면 기본 폰트와 모노그램(첫 글자)으로 대체됩니다.
 
@@ -168,9 +173,12 @@ py build.py
 3. `main` 브랜치에 push
 
 이후 push할 때마다 [`.github/workflows/pages.yml`](.github/workflows/pages.yml)이:
-1. `python build.py`로 README/shelf.js 재생성
-2. README가 바뀌었으면 자동 커밋
-3. `index.html` + `data/`를 **Pages에 배포**
+1. `python -m unittest discover -s tests`로 정적 HTML 생성 검증
+2. `python build.py`로 README와 전체 목록이 포함된 HTML 재생성
+3. README·HTML이 바뀌었으면 자동 커밋
+4. `index.html` + `assets/shelf.js` + `data/shelf.json`을 **Pages에 배포**
+
+평소에는 `data/shelf.json`만 수정해서 push해도 최신 목록이 HTML에 반영됩니다. Google 사이트 소유권 확인 메타 태그는 템플릿에 유지되며, canonical은 배포 주소를 가리킵니다. 이 구조는 JS 실행 없이 콘텐츠를 읽게 하지만 검색엔진의 색인을 보장하지는 않습니다.
 
 배포 주소: `https://<사용자명>.github.io/awesome-shelf/`
 

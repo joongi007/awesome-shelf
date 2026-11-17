@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **412**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **421**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -11,10 +11,10 @@
 | 섹션 | 개수 |
 | :--- | ---: |
 | [📦 Awesome 리스트](#-awesome-리스트) | 25 |
-| [🛠️ 오픈소스 도구](#️-오픈소스-도구) | 86 |
-| [🤖 AI 서비스](#-ai-서비스) | 62 |
-| [🧠 AI 모델](#-ai-모델) | 83 |
-| [🛠️ AI 도구·개발](#️-ai-도구개발) | 43 |
+| [🛠️ 오픈소스 도구](#️-오픈소스-도구) | 87 |
+| [🤖 AI 서비스](#-ai-서비스) | 64 |
+| [🧠 AI 모델](#-ai-모델) | 88 |
+| [🛠️ AI 도구·개발](#️-ai-도구개발) | 44 |
 | [🤖 에이전트·스킬](#-에이전트스킬) | 47 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 15 |
@@ -146,6 +146,7 @@ _개발·생산성·미디어 작업 등에 활용하는 범용 오픈소스 도
 - **[meta/astryx](https://github.com/meta/astryx)** — Meta의 React 19+·StyleX 기반 디자인 시스템. 접근성을 고려한 컴포넌트 150종 이상, 테마·다크 모드·템플릿과 사람·AI 에이전트가 함께 쓰는 CLI 제공. 사전 빌드 CSS로 별도 빌드 플러그인 없이 사용하고 Tailwind·CSS Modules 등으로 재정의 가능. 베타, MIT 라이선스
 - **[google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)** — Google DeepMind가 관리하는 범용 물리 시뮬레이션 엔진. 관절 구조와 환경의 접촉·동역학을 계산해 로보틱스·생체역학·애니메이션·머신러닝 연구에 활용. C API·Python 바인딩·Unity 플러그인과 데스크톱·브라우저 시각화 제공. Apache-2.0 라이선스
 - **[aws/aws-emulator](https://github.com/aws/aws-emulator)** — AWS 공식 로컬 API 에뮬레이터. AWS 계정·실제 리소스 호출 없이 CLI·SDK 기반 앱을 개발·CI 환경에서 테스트하며, 서버 모드와 Rust 테스트용 임베디드 모드 제공. 서비스별 API 호환성 차이가 있고 운영·보안 테스트용은 아님. 텔레메트리 기본 활성화(해제 가능), CC0-1.0
+- **[IROHAuwu/FBTPods](https://github.com/IROHAuwu/FBTPods)** — AirPods 모션 센서를 SteamVR·VRChat 전신 트래커로 활용하는 Windows 도구. 페어링·보정 안내와 한국어 UI·하드웨어 없는 체험 모드 제공. 기본 양쪽 정강이 구성에 AirPods 2쌍 필요(한 쌍당 트래커 1개), 전용 USB Bluetooth 어댑터 권장. AirPods 3 실기기 검증, 다른 모델은 지원 수준 상이하며 전용 트래커보다 정확도 낮음. 코드 Apache-2.0, 선택형 HMD-Poser 가중치는 비상업용
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -213,8 +214,10 @@ _웹에서 바로 이용하는 AI 서비스와 호스팅 플랫폼_
 - **[ChatMotif](https://chat.motiftech.io/)** — 한국 소버린 AI 기업 Motif Technologies가 자체 LLM(Motif 시리즈)으로 제공하는 대화형 AI 서비스. 추론·요약·번역·코드 생성과 텍스트 기반 이미지 생성 지원
 - **[Lyria](https://deepmind.google/models/lyria/)** — 구글 딥마인드의 음악 생성 모델. 프롬프트로 템포·장르·보컬·악기를 지정해 최대 3분 트랙을 생성하고 이미지→음악도 지원. Flow Music 웹앱·AI Studio API·실시간판(Lyria RealTime) 등으로 제공
 - **[MAI-Image-2.6](https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/)** — Microsoft AI의 텍스트→이미지·이미지 편집 생성 모델(확산 20B). 참조 이미지 최대 5장으로 일관성 유지, Bing 웹 그라운딩 지원. Azure Foundry에서 API로 제공(빠른 Flash 변형 포함)
-- **[Fish Audio](https://fish.audio/)** — 감정·말투를 조절하는 다국어 음성 합성(TTS)·음성 복제 서비스. 한국어 지원, 음성 라이브러리·실시간 스트리밍·음성 인식(STT) API로 내레이션·오디오북·음성 에이전트 제작에 활용
+- **[Fish Audio](https://fish.audio/)** — 감정·말투를 조절하는 다국어 TTS·음성 복제 서비스. 한국어 음성 합성·음성 라이브러리·스트리밍·STT API 제공. Live 3는 말하면서 듣고 맞장구·끼어들기를 처리하는 전이중 음성 대화 모델로, Fish Agent 플랫폼·API와 기업용 온프레미스로 제공. Live 3는 현재 영어 지원, 공개 가중치 미확인
 - **[Google Playground](https://labs.google/playground)** — 텍스트 프롬프트와 채팅으로 코딩 없이 맞춤 게임을 만들고 플레이·공유하는 Google Labs의 실험적 AI 게임 제작 플랫폼. 퀴즈·타워 디펜스·레이싱 등 장르 선택 또는 처음부터 제작, 다른 사용자의 게임 탐색 지원
+- **[ACE Music](https://acemusic.ai/)** — 텍스트 설명·가사로 노래를 생성하는 ACE Music v1 기반 웹 음악 제작 서비스. MIDI 변환·보컬 및 악기별 음원 분리 도구 제공. v1 가중치는 미공개이며 별도 v1 Flash는 공개 예정. v1 생성곡의 다운로드·상업 이용은 요금제 조건 적용
+- **[AlphaGenome 2](https://deepmind.google/science/alphagenome/)** — DNA 서열과 조직·세포 유형·상태를 조건으로 유전자 조절 및 변이 영향을 예측하는 Google DeepMind의 연구용 API 서비스. 사용자 단일세포 RNA-seq 데이터로 새로운 조건을 분석. 비상업 연구용 API·상업 연구용 Google Cloud 비공개 프리뷰 제공, 2세대 공개 가중치 미확인. 임상·진단용 아님
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -284,7 +287,7 @@ _언어·이미지·음성·영상·멀티모달 모델과 연구 구현. 공개
 - **[OpenSenseNova/SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1)** — 센스타임 계열이 공개한 통합 멀티모달 모델. 이해와 생성을 별도 인코더/VAE 없이 한 아키텍처(NEO-unify)로 통합해 텍스트→이미지·이미지 편집·이미지-텍스트 교차 생성·VQA를 수행 (8B/A3B, 오픈웨이트)
 - **[yunpeng1998/Qwen-Video-Edit](https://github.com/yunpeng1998/Qwen-Video-Edit)** — Qwen-Image-Edit의 DiT를 Wan 2.1 영상 VAE에 연결해 지시(instruction) 기반으로 영상을 편집하는 모델. 청크 단위 롱비디오 편집, 360/480/720P 체크포인트, ComfyUI 노드 제공, 오픈웨이트
 - **[Viggle/Viggle-Animate](https://huggingface.co/Viggle/Viggle-Animate)** — 구동 영상과 캐릭터를 덧칠한 프레임 한 장만으로 영상 속 캐릭터를 교체하는 오픈웨이트 모델. 포즈·마스크·프롬프트 없이 3번의 forward pass로 동작(MiniMax-H3 33.1B 파인튜닝+DMD 증류), 사람이 아닌 대상도 애니메이션
-- **[google-deepmind/alphagenome](https://github.com/google-deepmind/alphagenome)** — DNA 서열이 유전자 발현·스플라이싱·염색질을 어떻게 조절하고 단일염기 변이가 이를 어떻게 교란하는지 예측하는 구글 딥마인드 모델(최대 100만 염기쌍). 90억 변이 예측을 담은 AlphaGenome Atlas 공개, 모델 코드·가중치는 alphagenome_research에 제공
+- **[google-deepmind/alphagenome](https://github.com/google-deepmind/alphagenome)** — DNA 서열이 유전자 발현·스플라이싱·염색질을 어떻게 조절하고 단일염기 변이가 이를 어떻게 교란하는지 예측하는 구글 딥마인드의 1세대 모델(최대 100만 염기쌍). 90억 변이 예측을 담은 AlphaGenome Atlas 공개, 1세대 모델 코드·가중치는 alphagenome_research에 제공(가중치 비상업 조건). AlphaGenome 2 API 서비스는 별도 항목
 - **[multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)** — 가사와 스타일 설명으로 보컬·반주가 어우러진 완곡을 생성하는 오픈소스 음악 모델(YuE2). 편집 가능한 멜로디·코드 스코어를 먼저 짜는 심볼릭 플래닝, 제로샷 커버, 대화형 편집을 지원하며 48kHz 스테레오 출력(영어·중국어)
 - **[Tencent-Hunyuan/AuK](https://github.com/Tencent-Hunyuan/AuK)** — 지시 기반 TTS·음향/콘텐츠 편집·음성 향상·음원 분리 등 14가지 이상 오디오 작업을 자연어로 통합 처리하는 텐센트 훈위안의 1.5B 오디오 파운데이션 모델. 고품질 AuK와 4스텝 고속 AuK-Flash 2종, 오픈웨이트
 - **[XiaomiMiMo/MiMo-V2.6-Pro-RL](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL)** — 샤오미의 강화학습 기반 멀티모달 MoE 모델(총 1.02T·활성 42B). 텍스트·이미지·영상·오디오와 100만 토큰 컨텍스트를 지원하며 코딩·도구 사용·장기 에이전트 작업을 통합 강화학습으로 학습, MIT 라이선스 오픈웨이트
@@ -305,6 +308,11 @@ _언어·이미지·음성·영상·멀티모달 모델과 연구 구현. 공개
 - **[Liquid AI LFM3](https://huggingface.co/collections/LiquidAI/lfm3)** — Liquid AI의 온디바이스·특화 작업용 1.7~2B급 오픈웨이트 모델군. 텍스트 LFM3-1.7B·비전 VL-2B·음성 Audio-2B·Omni-2B와 의사결정용 d1-2B·d1-Omni-2B 포함. 텍스트 모델 256K 컨텍스트, GGUF·ONNX·MLX 배포 제공. LFM Open License v1.0(매출 규모에 따른 상업 이용 제한)
 - **[Tencent-Hunyuan/Hy4-preview](https://github.com/Tencent-Hunyuan/Hy4-preview)** — 텐센트의 추론·코딩·에이전트 작업용 MoE 언어 모델 프리뷰. 본체 총 770B·활성 49B(MTP 계층 별도), 100만 토큰 컨텍스트와 Gated DSA 지원. 기본·FP8 가중치, vLLM·SGLang 배포 및 미세조정 안내 제공. Apache-2.0 오픈웨이트
 - **[kopperx/RelayVSR](https://github.com/kopperx/RelayVSR)** — 대형 Wan 모델의 참조 프레임과 소형 조건부 디코더를 결합한 스트리밍 영상 4배 초해상도 모델의 공식 구현. 추론 코드·체크포인트 공개, Linux·NVIDIA GPU 필요. 입력 FPS 유지, 오디오는 출력에 복사하지 않음. 코드 Apache-2.0
+- **[Gemini Robotics](https://deepmind.google/models/gemini-robotics/)** — Google DeepMind의 로봇 인지·추론·행동 모델군. 시각·언어 입력을 동작으로 변환하는 Robotics 2.5, 공간 이해·다단계 계획용 ER 2, 로봇 하드웨어에서 실행하는 On-Device 2로 구성. ER 2는 AI Studio 체험 제공, VLA·On-Device는 조기 접근 신청 방식이며 공개 가중치 배포 안내 없음
+- **[adventists-ai/sophon-realtime](https://github.com/adventists-ai/sophon-realtime)** — 말하면서 듣고 끼어들기·발화 종료·말투를 판단하는 전이중 음성 대화 모델군. 32B·4B 기반 Tag·Flash·E2E 변형, Tag·Flash의 제로샷 음성 복제와 OpenAI Realtime 호환 API 제공. vLLM-Omni·Mac MLX 실행 지원, 4B Flash는 24GB GPU 기준. 한국어는 지원 예정, 코드·가중치 Apache-2.0 공개
+- **[higurashi-ai/Haru](https://github.com/higurashi-ai/Haru)** — 한국어 포함 9개 언어를 지원하며 동시에 듣고 말하는 전이중 음성 대화 모델 Haru-4B의 공식 구현. 캐릭터 카드·참조 음성으로 성격과 목소리를 설정하고 PyTorch 웹 데모·Mac MLX 앱·vLLM-Omni 제공. NVIDIA GPU 약 12GB 메모리 기준, 사실 정확도·지시 수행에 한계가 있는 연구용 사전학습 베이스 모델. 코드·가중치 Apache-2.0
+- **[Zyphra/ZONOS3-Mini](https://github.com/Zyphra/ZONOS3-Mini)** — 한국어 포함 43개 언어를 지원하는 Zyphra의 경량 음성 합성 모델(백본 총 800M·활성 약 100M). 제로샷 음성 복제·목소리 설계·단어 단위 감정과 속도 제어, 44.1kHz 스트리밍 출력 지원. CUDA·MLX·C++/ggml·브라우저 WebGPU 런타임과 Voice Studio 제공. 코드 MIT, 가중치 Apache-2.0
+- **[MiniMax-AI/MiniMax-H3-Image](https://github.com/MiniMax-AI/MiniMax-H3-Image)** — 텍스트 기반 이미지 생성·다중 이미지 편집을 통합한 MiniMax H3 계열 모델. 6스텝으로 약 16MP 이미지 생성·최대 16장 참조 이미지 지원, ComfyUI·Diffusers 등 연동. H3 텍스트 인코더 별도 필요. Community 라이선스 오픈웨이트이나 한국·미국·EU·영국은 허용 지역 제외로 별도 허가 필요, 제3자 호스팅 제공 또는 연환산 매출 100만 달러 초과 시 사전 서면 승인 필요
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -355,6 +363,7 @@ _AI 앱, 모델 실행·학습·평가 도구, SDK·라이브러리와 데이터
 - **[NVIDIA SimReady Central](https://huggingface.co/spaces/nvidia/simready-central)** — 로보틱스·Physical AI·디지털 트윈용 시뮬레이션 준비 OpenUSD 3D 에셋 검색 허브. 자연어 기반 의미 검색·RTX 시뮬레이션 미리보기 제공. NVIDIA simready-assets는 CC-BY-4.0, 외부 제공자 에셋은 비상업용을 포함한 개별 라이선스 적용
 - **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — HeyGen의 HTML·CSS·미디어·애니메이션을 MP4 영상으로 렌더링하는 오픈소스 프레임워크. 로컬 CLI와 Studio 앱을 제공하며, AI 코딩 에이전트용 스킬로 영상 기획·HTML 작성·미리보기·렌더링을 연계. Apache-2.0 라이선스
 - **[shinyobjectz/raea](https://github.com/shinyobjectz/raea)** — React·TypeScript로 작성한 영상·모션 그래픽·3D·게임을 로컬 GPU에서 실행·렌더링하는 Rust·Bevy 기반 엔진. AI 에이전트 스킬과 프레임 캡처·품질 검사 제공. macOS·Linux·Windows 지원, Canary 단계. FSL-1.1-ALv2 소스 공개(경쟁 상용 제품·서비스 제한, 각 버전 공개 2년 후 Apache-2.0 적용 가능)
+- **[JohnYao93/flash-aloha](https://github.com/JohnYao93/flash-aloha)** — ARX L5·Trossen_L5 로봇팔의 단일팔·양팔 조작을 위한 데이터 수집·모방학습·배포 도구. 손으로 로봇팔을 움직여 시연을 기록하고 ACT·Flow 정책 학습, 로컬·원격 추론 및 OpenPI 서버 연동 지원. 실제 운용에는 로봇팔·카메라와 장비별 보정 필요. 코드 MIT, 데이터셋·학습 체크포인트는 저장소에 미포함
 
 <sub>[⬆ 목차로](#-목차)</sub>
 

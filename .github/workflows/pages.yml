@@ -27,28 +27,31 @@ jobs:
         with:
           python-version: "3.x"
 
-      # data/shelf.json -> README.md 재생성, 변경되면 커밋
-      - name: Regenerate README from shelf.json
+      # data/shelf.json -> 정적 HTML과 README 생성
+      - name: Test static site build
+        run: python -m unittest discover -s tests
+
+      - name: Build static site from shelf.json
         run: python build.py
 
-      - name: Commit README if changed
+      - name: Commit generated pages if changed
         run: |
-          if ! git diff --quiet README.md; then
+          if ! git diff --quiet README.md index.html; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "chore: regenerate README from shelf.json"
+            git add README.md index.html
+            git commit -m "chore: regenerate pages from shelf.json"
             git push
           fi
 
       - uses: actions/configure-pages@v5
 
-      # index.html + data/ 만 사이트로 업로드
+      # 생성된 HTML + 상호작용 JS + 원본 JSON만 배포
       - name: Prepare site
         run: |
-          mkdir -p _site/data
+          mkdir -p _site/data _site/assets
           cp index.html _site/index.html
-          cp data/shelf.js _site/data/shelf.js
+          cp assets/shelf.js _site/assets/shelf.js
           cp data/shelf.json _site/data/shelf.json
 
       - uses: actions/upload-pages-artifact@v3
