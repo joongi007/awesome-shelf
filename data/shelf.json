@@ -2355,6 +2355,15 @@
             "open-weight",
             "korean"
           ]
+        },
+        {
+          "name": "MiniMax-AI/MiniMax-H3-Image",
+          "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+          "desc": "텍스트 기반 이미지 생성·다중 이미지 편집을 통합한 MiniMax H3 계열 모델. 6스텝으로 약 16MP 이미지 생성·최대 16장 참조 이미지 지원, ComfyUI·Diffusers 등 연동. H3 텍스트 인코더 별도 필요. Community 라이선스 오픈웨이트이나 한국·미국·EU·영국은 허용 지역 제외로 별도 허가 필요, 제3자 호스팅 제공 또는 연환산 매출 100만 달러 초과 시 사전 서면 승인 필요",
+          "tags": [
+            "image-gen",
+            "open-weight"
+          ]
         }
       ]
     },
