@@ -1506,6 +1506,17 @@
             "music",
             "audio"
           ]
+        },
+        {
+          "name": "AlphaGenome 2",
+          "url": "https://deepmind.google/science/alphagenome/",
+          "desc": "DNA 서열과 조직·세포 유형·상태를 조건으로 유전자 조절 및 변이 영향을 예측하는 Google DeepMind의 연구용 API 서비스. 사용자 단일세포 RNA-seq 데이터로 새로운 조건을 분석. 비상업 연구용 API·상업 연구용 Google Cloud 비공개 프리뷰 제공, 2세대 공개 가중치 미확인. 임상·진단용 아님",
+          "tags": [
+            "google",
+            "genomics",
+            "api",
+            "research"
+          ]
         }
       ]
     },
@@ -2087,7 +2098,7 @@
         {
           "name": "google-deepmind/alphagenome",
           "url": "https://github.com/google-deepmind/alphagenome",
-          "desc": "DNA 서열이 유전자 발현·스플라이싱·염색질을 어떻게 조절하고 단일염기 변이가 이를 어떻게 교란하는지 예측하는 구글 딥마인드 모델(최대 100만 염기쌍). 90억 변이 예측을 담은 AlphaGenome Atlas 공개, 모델 코드·가중치는 alphagenome_research에 제공",
+          "desc": "DNA 서열이 유전자 발현·스플라이싱·염색질을 어떻게 조절하고 단일염기 변이가 이를 어떻게 교란하는지 예측하는 구글 딥마인드의 1세대 모델(최대 100만 염기쌍). 90억 변이 예측을 담은 AlphaGenome Atlas 공개, 1세대 모델 코드·가중치는 alphagenome_research에 제공(가중치 비상업 조건). AlphaGenome 2 API 서비스는 별도 항목",
           "tags": [
             "google",
             "genomics",
