@@ -2291,6 +2291,16 @@
             "vision",
             "open-weight"
           ]
+        },
+        {
+          "name": "Gemini Robotics",
+          "url": "https://deepmind.google/models/gemini-robotics/",
+          "desc": "Google DeepMind의 로봇 인지·추론·행동 모델군. 시각·언어 입력을 동작으로 변환하는 Robotics 2.5, 공간 이해·다단계 계획용 ER 2, 로봇 하드웨어에서 실행하는 On-Device 2로 구성. ER 2는 AI Studio 체험 제공, VLA·On-Device는 조기 접근 신청 방식이며 공개 가중치 배포 안내 없음",
+          "tags": [
+            "robotics",
+            "multimodal",
+            "google"
+          ]
         }
       ]
     },
