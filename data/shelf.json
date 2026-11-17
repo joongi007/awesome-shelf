@@ -2322,6 +2322,17 @@
             "open-weight",
             "korean"
           ]
+        },
+        {
+          "name": "Zyphra/ZONOS3-Mini",
+          "url": "https://github.com/Zyphra/ZONOS3-Mini",
+          "desc": "한국어 포함 43개 언어를 지원하는 Zyphra의 경량 음성 합성 모델(백본 총 800M·활성 약 100M). 제로샷 음성 복제·목소리 설계·단어 단위 감정과 속도 제어, 44.1kHz 스트리밍 출력 지원. CUDA·MLX·C++/ggml·브라우저 WebGPU 런타임과 Voice Studio 제공. 코드 MIT, 가중치 Apache-2.0",
+          "tags": [
+            "tts",
+            "audio",
+            "open-weight",
+            "korean"
+          ]
         }
       ]
     },
