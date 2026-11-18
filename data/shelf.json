@@ -3285,6 +3285,18 @@
             "finance",
             "anthropic"
           ]
+        },
+        {
+          "name": "google-research/paper-orchestra",
+          "url": "https://github.com/google-research/paper-orchestra",
+          "desc": "연구 아이디어·실험 로그를 LaTeX 논문 원고로 정리하는 Google Research의 다중 에이전트 프레임워크. 개요·문헌 검색·섹션 작성·내용 개선·그래프 생성을 분담하며 학회별 템플릿과 Streamlit 데모 제공. Python 3.11·선택한 LLM 제공자의 API 인증 필요, 논문 생성용 데이터셋은 저장소에 미포함. Apache-2.0, Google 공식 지원 제품은 아님",
+          "tags": [
+            "agent",
+            "research",
+            "automation",
+            "python",
+            "google"
+          ]
         }
       ]
     },
