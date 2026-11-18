@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **421**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **423**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -15,9 +15,9 @@
 | [🤖 AI 서비스](#-ai-서비스) | 64 |
 | [🧠 AI 모델](#-ai-모델) | 88 |
 | [🛠️ AI 도구·개발](#️-ai-도구개발) | 44 |
-| [🤖 에이전트·스킬](#-에이전트스킬) | 47 |
+| [🤖 에이전트·스킬](#-에이전트스킬) | 48 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
-| [🚨 보안](#-보안) | 15 |
+| [🚨 보안](#-보안) | 16 |
 | [📖 기사·자료](#-기사자료) | 34 |
 | [🧩 기타](#-기타) | 6 |
 | [🗄️ 보관함](#️-보관함) | 2 |
@@ -418,6 +418,7 @@ _AI 에이전트, 에이전트 프레임워크·연동 프로토콜·MCP와 작�
 - **[GHJ20001017/Full-Duplex-Model](https://github.com/GHJ20001017/Full-Duplex-Model)** — 말하면서 동시에 듣고 끼어들기·중단 의도를 판단하는 실시간 음성 에이전트 시스템 ARVIS. 음성 인식·LLM·음성 합성을 연결하고, MCP 도구·ACP 기반 Codex·Claude Code 연동으로 대화 중 백그라운드 작업 실행 지원. 코드 Apache-2.0
 - **[GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)** — 코딩 에이전트에 최신 웹 플랫폼 기능·브라우저 호환성·성능·접근성 지침을 제공하는 Modern Web Guidance의 소스 저장소. 스킬·CLI로 관련 가이드 검색·조회와 레거시 패턴 탐지를 지원하며, 콘텐츠 작성·평가 도구 포함. Chrome·Edge·Firefox·MDN 팀과 커뮤니티 공동 관리, Apache-2.0 라이선스
 - **[tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)** — 개인 투자자의 시장 분석·종목 선별·포트폴리오 점검·위험 관리·매매 일지와 전략 검토를 돕는 Claude용 스킬·워크플로 모음. 공개 CSV·로컬 파일 기반 입문 경로와 FMP·FINVIZ·Alpaca 연동 제공(일부 기능은 별도 API·구독 필요). 자동매매·매매 신호 서비스가 아닌 의사결정 과정 정리용, MIT 라이선스
+- **[google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)** — 연구 아이디어·실험 로그를 LaTeX 논문 원고로 정리하는 Google Research의 다중 에이전트 프레임워크. 개요·문헌 검색·섹션 작성·내용 개선·그래프 생성을 분담하며 학회별 템플릿과 Streamlit 데모 제공. Python 3.11·선택한 LLM 제공자의 API 인증 필요, 논문 생성용 데이터셋은 저장소에 미포함. Apache-2.0, Google 공식 지원 제품은 아님
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -458,6 +459,7 @@ _보안과 관련된 오픈소스 모음_
 - **[usestrix/strix](https://github.com/usestrix/strix)** — 침투 테스트를 위한 오픈소스 AI 에이전트
 - **[trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)** — SNS를 위해 설계된 오픈소스 침투 테스트 프레임워크
 - **[jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)** — LLM 다중 에이전트 기반 자율 침투 테스트 프레임워크 ARTEX의 다국어 파생판. Go·Next.js 기반으로 UI·보고서·요약·대화의 한국어 등 5개 언어 전환과 방어·탐지 가이드 제공. 허가된 환경의 방어·탐지 연구용, AGPL-3.0 라이선스
+- **[elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)** — 허가된 웹·API 버그바운티와 외부 침투 테스트를 위한 Claude Code 스킬 모음. 공개 취약점 보고서 기반 탐색 패턴, 결과 검증·증거 정리·보고서 작성, Burp MCP 연동 및 작업 관리 CLI 제공. 스킬은 Codex 등에서도 활용 가능하나 슬래시 명령·/hunt 엔진은 Claude Code 전용. 코드 MIT, 스킬·문서 콘텐츠 CC BY 4.0
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
