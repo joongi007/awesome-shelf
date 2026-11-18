@@ -3545,6 +3545,18 @@
             "agent",
             "korean"
           ]
+        },
+        {
+          "name": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "desc": "허가된 웹·API 버그바운티와 외부 침투 테스트를 위한 Claude Code 스킬 모음. 공개 취약점 보고서 기반 탐색 패턴, 결과 검증·증거 정리·보고서 작성, Burp MCP 연동 및 작업 관리 CLI 제공. 스킬은 Codex 등에서도 활용 가능하나 슬래시 명령·/hunt 엔진은 Claude Code 전용. 코드 MIT, 스킬·문서 콘텐츠 CC BY 4.0",
+          "tags": [
+            "security",
+            "pentest",
+            "agent",
+            "skill",
+            "mcp"
+          ]
         }
       ]
     },
