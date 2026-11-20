@@ -62,7 +62,14 @@ class StaticSiteTests(unittest.TestCase):
             any(a.get("name") == "google-site-verification" for _, a in doc.elements)
         )
         scripts = [a for t, a in doc.elements if t == "script"]
-        self.assertEqual(scripts, [{"src": "assets/shelf.js", "defer": None}])
+        self.assertEqual(
+            scripts,
+            [
+                {"async": None, "src": "https://www.googletagmanager.com/gtm.js?id=GTM-W4HMV395"},
+                {},
+                {"src": "assets/shelf.js", "defer": None},
+            ],
+        )
         for tag, attrs in doc.elements:
             if tag == "img":
                 self.assertNotIn("src", attrs)
@@ -77,7 +84,7 @@ class StaticSiteTests(unittest.TestCase):
             tags=['" onclick="alert(1)'],
         )
         doc = Document(build.render_site(data))
-        self.assertEqual(sum(tag == "script" for tag, _ in doc.elements), 1)
+        self.assertEqual(sum(tag == "script" for tag, _ in doc.elements), 3)
         self.assertFalse(
             any(key.startswith("on") for _, attrs in doc.elements for key in attrs)
         )
