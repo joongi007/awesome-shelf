@@ -3874,6 +3874,19 @@
             "algorithm",
             "tutorial"
           ]
+        },
+        {
+          "name": "SpriteCook — Sprite stacking for fake 3D pixel art",
+          "url": "https://www.spritecook.ai/blog/sprite-stacking-pixel-art",
+          "desc": "Kimo가 소개한 스프라이트 스태킹 튜토리얼. 평면 픽셀아트 단면을 높이별로 쌓고 함께 회전해 입체감을 만드는 원리, 4면도에서 단면을 추출하는 Python 코드와 Godot 구현·렌더링 주의점 설명. [무료 브라우저 생성기](https://www.spritecook.ai/sprite-stack-generator)에서 이미지 업로드·가입 없이 로컬 처리하고 단면 시트 또는 8·16·32방향 시트로 내보내기 가능",
+          "tags": [
+            "game",
+            "3d",
+            "pixel-art",
+            "godot",
+            "python",
+            "tutorial"
+          ]
         }
       ]
     },
