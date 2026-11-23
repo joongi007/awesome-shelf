@@ -1479,12 +1479,18 @@
           ]
         },
         {
-          "name": "MAI-Image-2.6",
-          "url": "https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/",
-          "desc": "Microsoft AI의 텍스트→이미지·이미지 편집 생성 모델(확산 20B). 참조 이미지 최대 5장으로 일관성 유지, Bing 웹 그라운딩 지원. Azure Foundry에서 API로 제공(빠른 Flash 변형 포함)",
+          "name": "Microsoft AI Models",
+          "url": "https://microsoft.ai/models/",
+          "desc": "Microsoft MAI 모델군의 공식 소개·체험 허브. Thinking·Code·Cyber와 이미지 생성·편집 Image 2.7/Flash, 음성 인식 Transcribe·합성 Voice·음성 대화 Realtime 및 맞춤 모델 안내. 모델별 제공 경로·접근 조건이 다르며 MAI Labs 체험은 Microsoft 로그인·18세 이상·개인 비상업 용도 조건 적용",
           "tags": [
+            "microsoft",
+            "llm",
+            "coding",
             "image-gen",
-            "microsoft"
+            "stt",
+            "tts",
+            "audio",
+            "real-time"
           ]
         },
         {
