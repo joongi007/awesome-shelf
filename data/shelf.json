@@ -213,6 +213,17 @@
           "tags": [
             "agent"
           ]
+        },
+        {
+          "name": "DesignBookmark",
+          "url": "https://designbookmark.com/",
+          "desc": "디자인 도구·UI 리소스·아이콘·폰트·목업 등을 분야별로 모은 디렉터리. [Design](https://designbookmark.com/design)에서 자료 탐색, [Motion](https://designbookmark.com/motion)에서 UI 애니메이션 실시간 예제와 코드 복사·Claude/Codex 전달 기능 제공. 무료·유료 자료 혼재, 외부 자료는 각 제공처 라이선스 확인 필요. 자체 Motion 예제의 명시적 상업 이용·재배포 라이선스는 미확인",
+          "tags": [
+            "design",
+            "ui",
+            "animation",
+            "web"
+          ]
         }
       ]
     },
