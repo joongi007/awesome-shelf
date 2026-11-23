@@ -2,7 +2,7 @@
 
 > 나중에 꼭 다시 보고 싶은 유용한 개발 리소스, 트렌디한 리포지토리, 멋진 서비스 등을 모아둔 개인 컬렉션입니다.
 
-**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **423**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
+**🌐 [웹에서 보기](https://joongi007.github.io/awesome-shelf/)** &nbsp;·&nbsp; 📂 **426**개 항목 &nbsp;·&nbsp; 🗂️ **10**개 섹션
 
 <sub>⚙️ 이 파일은 `data/shelf.json`에서 자동 생성됩니다 — 수정은 `data/shelf.json`을 고친 뒤 `py build.py` · 자세한 방법은 [편집 가이드](GUIDE.md)</sub>
 
@@ -10,15 +10,15 @@
 
 | 섹션 | 개수 |
 | :--- | ---: |
-| [📦 Awesome 리스트](#-awesome-리스트) | 25 |
+| [📦 Awesome 리스트](#-awesome-리스트) | 26 |
 | [🛠️ 오픈소스 도구](#️-오픈소스-도구) | 87 |
 | [🤖 AI 서비스](#-ai-서비스) | 64 |
-| [🧠 AI 모델](#-ai-모델) | 88 |
+| [🧠 AI 모델](#-ai-모델) | 89 |
 | [🛠️ AI 도구·개발](#️-ai-도구개발) | 44 |
 | [🤖 에이전트·스킬](#-에이전트스킬) | 48 |
 | [✏️ 프롬프트](#️-프롬프트) | 11 |
 | [🚨 보안](#-보안) | 16 |
-| [📖 기사·자료](#-기사자료) | 34 |
+| [📖 기사·자료](#-기사자료) | 35 |
 | [🧩 기타](#-기타) | 6 |
 | [🗄️ 보관함](#️-보관함) | 2 |
 
@@ -53,6 +53,7 @@ _다양한 Awesome 리스트 저장소 모음_
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — 생산성 향상을 위한 실전용 Claude Skills·플러그인 1000+종 엄선 목록 (문서처리·개발·데이터 분석·SaaS 연동 등)
 - **[cobanov/awesome-fly](https://github.com/cobanov/awesome-fly)** — 초파리(Drosophila) 커넥톰을 다루는 계산신경과학 프로젝트 엄선 목록. FlyWire·MaleCNS 데이터 기반 뇌 시뮬레이션·임베디드 AI 실험·분석 도구·논문·데이터셋 모음
 - **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** — 다양한 산업 분야의 AI 에이전트 사용 사례를 선별한 컬렉션
+- **[DesignBookmark](https://designbookmark.com/)** — 디자인 도구·UI 리소스·아이콘·폰트·목업 등을 분야별로 모은 디렉터리. [Design](https://designbookmark.com/design)에서 자료 탐색, [Motion](https://designbookmark.com/motion)에서 UI 애니메이션 실시간 예제와 코드 복사·Claude/Codex 전달 기능 제공. 무료·유료 자료 혼재, 외부 자료는 각 제공처 라이선스 확인 필요. 자체 Motion 예제의 명시적 상업 이용·재배포 라이선스는 미확인
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -213,7 +214,7 @@ _웹에서 바로 이용하는 AI 서비스와 호스팅 플랫폼_
 - **[Decart](https://decart.ai/)** — 실시간 라이브 영상 변환 모델을 연이어 내놓는 AI 플랫폼. 대표 모델 Lucy 2.5는 30 FPS·1080p·40ms 미만 지연으로 라이브 스트림에 VFX 삽입·객체 제거·캐릭터 변형을 수행 (API 서비스)
 - **[ChatMotif](https://chat.motiftech.io/)** — 한국 소버린 AI 기업 Motif Technologies가 자체 LLM(Motif 시리즈)으로 제공하는 대화형 AI 서비스. 추론·요약·번역·코드 생성과 텍스트 기반 이미지 생성 지원
 - **[Lyria](https://deepmind.google/models/lyria/)** — 구글 딥마인드의 음악 생성 모델. 프롬프트로 템포·장르·보컬·악기를 지정해 최대 3분 트랙을 생성하고 이미지→음악도 지원. Flow Music 웹앱·AI Studio API·실시간판(Lyria RealTime) 등으로 제공
-- **[MAI-Image-2.6](https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6/)** — Microsoft AI의 텍스트→이미지·이미지 편집 생성 모델(확산 20B). 참조 이미지 최대 5장으로 일관성 유지, Bing 웹 그라운딩 지원. Azure Foundry에서 API로 제공(빠른 Flash 변형 포함)
+- **[Microsoft AI Models](https://microsoft.ai/models/)** — Microsoft MAI 모델군의 공식 소개·체험 허브. Thinking·Code·Cyber와 이미지 생성·편집 Image 2.7/Flash, 음성 인식 Transcribe·합성 Voice·음성 대화 Realtime 및 맞춤 모델 안내. 모델별 제공 경로·접근 조건이 다르며 MAI Labs 체험은 Microsoft 로그인·18세 이상·개인 비상업 용도 조건 적용
 - **[Fish Audio](https://fish.audio/)** — 감정·말투를 조절하는 다국어 TTS·음성 복제 서비스. 한국어 음성 합성·음성 라이브러리·스트리밍·STT API 제공. Live 3는 말하면서 듣고 맞장구·끼어들기를 처리하는 전이중 음성 대화 모델로, Fish Agent 플랫폼·API와 기업용 온프레미스로 제공. Live 3는 현재 영어 지원, 공개 가중치 미확인
 - **[Google Playground](https://labs.google/playground)** — 텍스트 프롬프트와 채팅으로 코딩 없이 맞춤 게임을 만들고 플레이·공유하는 Google Labs의 실험적 AI 게임 제작 플랫폼. 퀴즈·타워 디펜스·레이싱 등 장르 선택 또는 처음부터 제작, 다른 사용자의 게임 탐색 지원
 - **[ACE Music](https://acemusic.ai/)** — 텍스트 설명·가사로 노래를 생성하는 ACE Music v1 기반 웹 음악 제작 서비스. MIDI 변환·보컬 및 악기별 음원 분리 도구 제공. v1 가중치는 미공개이며 별도 v1 Flash는 공개 예정. v1 생성곡의 다운로드·상업 이용은 요금제 조건 적용
@@ -293,7 +294,7 @@ _언어·이미지·음성·영상·멀티모달 모델과 연구 구현. 공개
 - **[XiaomiMiMo/MiMo-V2.6-Pro-RL](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL)** — 샤오미의 강화학습 기반 멀티모달 MoE 모델(총 1.02T·활성 42B). 텍스트·이미지·영상·오디오와 100만 토큰 컨텍스트를 지원하며 코딩·도구 사용·장기 에이전트 작업을 통합 강화학습으로 학습, MIT 라이선스 오픈웨이트
 - **[Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)** — 텍스트 기반 이미지 생성·편집을 통합한 Qwen 모델(시각 생성부 7B). 투명 배경 RGBA 생성·투명 레이어 편집·피사체 추출, 최대 10장 참조 이미지와 마스크·주석 기반 부분 편집 지원. Qwen Research 라이선스 오픈웨이트
 - **[FLUX 3 Action](https://huggingface.co/collections/black-forest-labs/flux-3-action)** — Black Forest Labs의 7B 로봇 월드 액션 모델 컬렉션. 카메라 영상·로봇 상태·텍스트 지시로 다음 동작과 영상 프레임을 함께 예측하며, 로봇 적응용 베이스·공유 인코더·SO-101 및 DROID 제어 정책 제공. FLUX Kommunity 라이선스 오픈웨이트
-- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** — 메이퇀의 13.6B 영상 생성 모델. 텍스트→영상·이미지→영상·영상 이어 생성을 통합하며 720p·30fps 및 분 단위 장편 영상 생성 지원. 오디오 기반 단일·다중 캐릭터 애니메이션용 Avatar 모델도 제공, 오픈웨이트
+- **[meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** — 메이퇀의 13.6B 영상 생성 모델. 텍스트→영상·이미지→영상·영상 이어 생성을 통합하며 720p·30fps 및 분 단위 장편 영상 생성 지원. 오디오 기반 단일·다중 캐릭터 애니메이션용 [Avatar 1.6](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6)은 립싱크·표정·신체 움직임과 장시간 일관성을 개선하고 선택형 INT8 DiT·LoRA 제공. Avatar 실행 시 기본 LongCat-Video 가중치도 필요. 코드 및 Avatar 1.6 가중치 MIT 공개
 - **[google-deepmind/alphaprotein-novo](https://github.com/google-deepmind/alphaprotein-novo)** — 구글 딥마인드의 새로운 효소 설계를 위한 생성형 확산 파이프라인. 촉매 모티프·리간드 정보를 조건으로 단백질 구조와 서열을 함께 생성하고, LigandMPNN 서열 재설계·AlphaFold 3 구조 예측·평가를 연계. 코드 Apache-2.0, 모델 가중치는 별도 이용약관 적용
 - **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** — 구글 딥마인드의 온디바이스용 740M 멀티모달 임베딩 모델. 텍스트·코드·이미지·영상·오디오를 공통 768차원 벡터로 변환하며 100개 이상 언어·8K 컨텍스트·128~768차원 축소 지원. 검색·RAG·분류·군집화에 활용, Apache-2.0 오픈웨이트
 - **[NVIDIA Nemotron 3.5 Super VL](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16)** — 추론·코딩·도구 사용·문서 및 영상 이해를 지원하는 NVIDIA의 비전 언어 모델(총 120B·활성 12B). Mamba-2·Transformer 하이브리드 MoE와 C-RADIO 비전 인코더 기반, 최대 100만 토큰 컨텍스트·MTP 추측 디코딩 지원. BF16 및 배포 최적화 NVFP4 가중치 제공
@@ -313,6 +314,7 @@ _언어·이미지·음성·영상·멀티모달 모델과 연구 구현. 공개
 - **[higurashi-ai/Haru](https://github.com/higurashi-ai/Haru)** — 한국어 포함 9개 언어를 지원하며 동시에 듣고 말하는 전이중 음성 대화 모델 Haru-4B의 공식 구현. 캐릭터 카드·참조 음성으로 성격과 목소리를 설정하고 PyTorch 웹 데모·Mac MLX 앱·vLLM-Omni 제공. NVIDIA GPU 약 12GB 메모리 기준, 사실 정확도·지시 수행에 한계가 있는 연구용 사전학습 베이스 모델. 코드·가중치 Apache-2.0
 - **[Zyphra/ZONOS3-Mini](https://github.com/Zyphra/ZONOS3-Mini)** — 한국어 포함 43개 언어를 지원하는 Zyphra의 경량 음성 합성 모델(백본 총 800M·활성 약 100M). 제로샷 음성 복제·목소리 설계·단어 단위 감정과 속도 제어, 44.1kHz 스트리밍 출력 지원. CUDA·MLX·C++/ggml·브라우저 WebGPU 런타임과 Voice Studio 제공. 코드 MIT, 가중치 Apache-2.0
 - **[MiniMax-AI/MiniMax-H3-Image](https://github.com/MiniMax-AI/MiniMax-H3-Image)** — 텍스트 기반 이미지 생성·다중 이미지 편집을 통합한 MiniMax H3 계열 모델. 6스텝으로 약 16MP 이미지 생성·최대 16장 참조 이미지 지원, ComfyUI·Diffusers 등 연동. H3 텍스트 인코더 별도 필요. Community 라이선스 오픈웨이트이나 한국·미국·EU·영국은 허용 지역 제외로 별도 허가 필요, 제3자 호스팅 제공 또는 연환산 매출 100만 달러 초과 시 사전 서면 승인 필요
+- **[thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini)** — Thinking Machines Lab의 텍스트·이미지 입력 및 텍스트 출력 멀티모달 MoE 모델. 총 26.4B·활성 3.4B이며 중간 계층을 3회 반복해 토큰당 유효 활성 규모는 5.4B, 최대 100만 토큰 컨텍스트 지원. NVFP4·MXFP8 혼합 체크포인트 약 20GB, Apple Silicon 메모리 32GB 이상 지원·기타 GPU VRAM 32GB 이상 권장. 코딩·도구 호출·시각 이해용 Apache-2.0 오픈웨이트, 비영어 품질·반복 추론·로컬 런타임별 속도 차이 주의
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
@@ -501,6 +503,7 @@ _읽어볼만한 글과 자료_
 - **[humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** — 신뢰할 수 있는 LLM 애플리케이션 구축 원칙
 - **[LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment)** — ChatGPT가 실제 현금 소형주 포트폴리오를 관리하는 블로그 실험
 - **[AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)** — 로봇 공학 알고리즘에 대한 Python 샘플 코드 및 교과서
+- **[SpriteCook — Sprite stacking for fake 3D pixel art](https://www.spritecook.ai/blog/sprite-stacking-pixel-art)** — Kimo가 소개한 스프라이트 스태킹 튜토리얼. 평면 픽셀아트 단면을 높이별로 쌓고 함께 회전해 입체감을 만드는 원리, 4면도에서 단면을 추출하는 Python 코드와 Godot 구현·렌더링 주의점 설명. [무료 브라우저 생성기](https://www.spritecook.ai/sprite-stack-generator)에서 이미지 업로드·가입 없이 로컬 처리하고 단면 시트 또는 8·16·32방향 시트로 내보내기 가능
 
 <sub>[⬆ 목차로](#-목차)</sub>
 
