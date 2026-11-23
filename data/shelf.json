@@ -2186,7 +2186,7 @@
         {
           "name": "meituan-longcat/LongCat-Video",
           "url": "https://github.com/meituan-longcat/LongCat-Video",
-          "desc": "메이퇀의 13.6B 영상 생성 모델. 텍스트→영상·이미지→영상·영상 이어 생성을 통합하며 720p·30fps 및 분 단위 장편 영상 생성 지원. 오디오 기반 단일·다중 캐릭터 애니메이션용 Avatar 모델도 제공, 오픈웨이트",
+          "desc": "메이퇀의 13.6B 영상 생성 모델. 텍스트→영상·이미지→영상·영상 이어 생성을 통합하며 720p·30fps 및 분 단위 장편 영상 생성 지원. 오디오 기반 단일·다중 캐릭터 애니메이션용 [Avatar 1.6](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6)은 립싱크·표정·신체 움직임과 장시간 일관성을 개선하고 선택형 INT8 DiT·LoRA 제공. Avatar 실행 시 기본 LongCat-Video 가중치도 필요. 코드 및 Avatar 1.6 가중치 MIT 공개",
           "tags": [
             "video-gen",
             "audio",
