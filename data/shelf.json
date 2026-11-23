@@ -2379,6 +2379,17 @@
             "image-gen",
             "open-weight"
           ]
+        },
+        {
+          "name": "thinkingmachines/Inkling-2-Mini",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "desc": "Thinking Machines Lab의 텍스트·이미지 입력 및 텍스트 출력 멀티모달 MoE 모델. 총 26.4B·활성 3.4B이며 중간 계층을 3회 반복해 토큰당 유효 활성 규모는 5.4B, 최대 100만 토큰 컨텍스트 지원. NVFP4·MXFP8 혼합 체크포인트 약 20GB, Apple Silicon 메모리 32GB 이상 지원·기타 GPU VRAM 32GB 이상 권장. 코딩·도구 호출·시각 이해용 Apache-2.0 오픈웨이트, 비영어 품질·반복 추론·로컬 런타임별 속도 차이 주의",
+          "tags": [
+            "llm",
+            "multimodal",
+            "coding",
+            "open-weight"
+          ]
         }
       ]
     },
